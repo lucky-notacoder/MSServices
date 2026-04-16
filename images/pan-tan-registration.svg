@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="PAN and TAN registration illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="92" y="94" width="456" height="232" rx="8" fill="#334155"/>
+  <rect x="128" y="132" width="164" height="18" rx="4" fill="#FACC15"/>
+  <rect x="128" y="176" width="210" height="12" rx="4" fill="#E5E7EB" opacity=".75"/>
+  <rect x="128" y="210" width="164" height="12" rx="4" fill="#E5E7EB" opacity=".58"/>
+  <rect x="128" y="244" width="188" height="12" rx="4" fill="#E5E7EB" opacity=".58"/>
+  <rect x="386" y="136" width="98" height="116" rx="8" fill="#0F172A"/>
+  <circle cx="435" cy="178" r="26" fill="#FACC15"/>
+  <path d="M400 230c10-28 25-42 35-42s25 14 35 42" fill="#FACC15"/>
+  <text x="320" y="304" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#FACC15">PAN / TAN</text>
+</svg>

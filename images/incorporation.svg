@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Business incorporation illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="118" y="132" width="112" height="204" rx="8" fill="#334155"/>
+  <rect x="264" y="82" width="112" height="254" rx="8" fill="#334155"/>
+  <rect x="410" y="162" width="112" height="174" rx="8" fill="#334155"/>
+  <g fill="#E5E7EB" opacity=".75">
+    <rect x="144" y="164" width="24" height="24" rx="4"/>
+    <rect x="180" y="164" width="24" height="24" rx="4"/>
+    <rect x="144" y="212" width="24" height="24" rx="4"/>
+    <rect x="180" y="212" width="24" height="24" rx="4"/>
+    <rect x="290" y="118" width="24" height="24" rx="4"/>
+    <rect x="326" y="118" width="24" height="24" rx="4"/>
+    <rect x="290" y="166" width="24" height="24" rx="4"/>
+    <rect x="326" y="166" width="24" height="24" rx="4"/>
+    <rect x="436" y="196" width="24" height="24" rx="4"/>
+    <rect x="472" y="196" width="24" height="24" rx="4"/>
+  </g>
+  <path d="M88 336h464" stroke="#FACC15" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="320" cy="260" r="52" fill="#FACC15"/>
+  <path d="M320 228v64M288 260h64" stroke="#0F172A" stroke-width="14" stroke-linecap="round"/>
+</svg>

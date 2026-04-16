@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Detailed project reporting illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="86" y="72" width="468" height="276" rx="8" fill="#334155"/>
+  <rect x="124" y="112" width="148" height="18" rx="4" fill="#FACC15"/>
+  <rect x="124" y="158" width="74" height="128" rx="8" fill="#0F172A"/>
+  <rect x="226" y="206" width="74" height="80" rx="8" fill="#0F172A"/>
+  <rect x="328" y="176" width="74" height="110" rx="8" fill="#0F172A"/>
+  <rect x="430" y="136" width="74" height="150" rx="8" fill="#0F172A"/>
+  <g fill="#FACC15">
+    <rect x="142" y="208" width="38" height="78" rx="4"/>
+    <rect x="244" y="238" width="38" height="48" rx="4"/>
+    <rect x="346" y="214" width="38" height="72" rx="4"/>
+    <rect x="448" y="174" width="38" height="112" rx="4"/>
+  </g>
+  <path d="M124 310h380" stroke="#E5E7EB" stroke-opacity=".5" stroke-width="8" stroke-linecap="round"/>
+</svg>

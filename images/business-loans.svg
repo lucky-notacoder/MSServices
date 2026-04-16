@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Business loan assistance illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="108" y="132" width="424" height="188" rx="8" fill="#334155"/>
+  <rect x="148" y="96" width="344" height="82" rx="8" fill="#1E293B"/>
+  <path d="M172 158h296" stroke="#FACC15" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="232" cy="232" r="46" fill="#FACC15"/>
+  <text x="232" y="249" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="#0F172A">Rs</text>
+  <g fill="#E5E7EB" opacity=".72">
+    <rect x="314" y="206" width="140" height="14" rx="4"/>
+    <rect x="314" y="242" width="106" height="14" rx="4"/>
+    <rect x="314" y="278" width="150" height="14" rx="4"/>
+  </g>
+</svg>

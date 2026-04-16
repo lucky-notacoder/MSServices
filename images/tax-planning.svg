@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Tax planning illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="108" y="82" width="424" height="256" rx="8" fill="#334155"/>
+  <path d="M156 282l74-76 62 42 92-104 94 72" fill="none" stroke="#FACC15" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="230" cy="206" r="14" fill="#E5E7EB"/>
+  <circle cx="292" cy="248" r="14" fill="#E5E7EB"/>
+  <circle cx="384" cy="144" r="14" fill="#E5E7EB"/>
+  <circle cx="478" cy="216" r="14" fill="#E5E7EB"/>
+  <rect x="152" y="120" width="112" height="16" rx="4" fill="#E5E7EB" opacity=".72"/>
+  <text x="442" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#FACC15">%</text>
+</svg>

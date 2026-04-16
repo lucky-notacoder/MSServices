@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="GST filing illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="112" y="58" width="300" height="304" rx="8" fill="#334155"/>
+  <path d="M412 58v86h86" fill="#1E293B"/>
+  <path d="M412 58l86 86v218H112V58z" fill="none" stroke="#E5E7EB" stroke-opacity=".18" stroke-width="8"/>
+  <text x="262" y="196" text-anchor="middle" font-family="Arial, sans-serif" font-size="76" font-weight="700" fill="#FACC15">GST</text>
+  <rect x="160" y="230" width="204" height="12" rx="4" fill="#E5E7EB" opacity=".72"/>
+  <rect x="160" y="264" width="150" height="12" rx="4" fill="#E5E7EB" opacity=".55"/>
+  <circle cx="458" cy="284" r="58" fill="#FACC15"/>
+  <path d="M430 284h56M458 256v56" stroke="#0F172A" stroke-width="12" stroke-linecap="round"/>
+</svg>

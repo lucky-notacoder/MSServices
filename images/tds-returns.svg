@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="TDS returns illustration">
+  <rect width="640" height="420" fill="#0F172A"/>
+  <rect x="126" y="54" width="300" height="312" rx="8" fill="#334155"/>
+  <path d="M426 54v86h86" fill="#1E293B"/>
+  <path d="M426 54l86 86v226H126V54z" fill="none" stroke="#E5E7EB" stroke-opacity=".18" stroke-width="8"/>
+  <text x="276" y="182" text-anchor="middle" font-family="Arial, sans-serif" font-size="74" font-weight="700" fill="#FACC15">TDS</text>
+  <rect x="168" y="222" width="218" height="12" rx="4" fill="#E5E7EB" opacity=".72"/>
+  <rect x="168" y="258" width="172" height="12" rx="4" fill="#E5E7EB" opacity=".55"/>
+  <rect x="168" y="294" width="198" height="12" rx="4" fill="#E5E7EB" opacity=".55"/>
+  <path d="M444 250l24 24 52-66" fill="none" stroke="#FACC15" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

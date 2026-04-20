@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Financial advisory illustration">
+  <rect width="640" height="420" fill="transparent"/>
+  <rect x="82" y="78" width="476" height="264" rx="8" fill="#334155"/>
+  <path d="M122 288l86-88 74 50 112-132 118 84" fill="none" stroke="#FACC15" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#E5E7EB">
+    <circle cx="122" cy="288" r="12"/>
+    <circle cx="208" cy="200" r="12"/>
+    <circle cx="282" cy="250" r="12"/>
+    <circle cx="394" cy="118" r="12"/>
+    <circle cx="512" cy="202" r="12"/>
+  </g>
+  <rect x="126" y="112" width="96" height="14" rx="4" fill="#E5E7EB" opacity=".72"/>
+  <rect x="126" y="144" width="58" height="14" rx="4" fill="#E5E7EB" opacity=".52"/>
+  <circle cx="488" cy="276" r="38" fill="#0F172A" stroke="#FACC15" stroke-width="8"/>
+  <path d="M470 276h36M488 258v36" stroke="#FACC15" stroke-width="8" stroke-linecap="round"/>
+</svg>

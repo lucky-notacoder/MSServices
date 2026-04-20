@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Credit monitoring assessment illustration">
+  <rect width="640" height="420" fill="transparent"/>
+  <rect x="108" y="90" width="250" height="184" rx="8" fill="#334155"/>
+  <rect x="136" y="128" width="108" height="14" rx="4" fill="#FACC15"/>
+  <rect x="136" y="170" width="172" height="12" rx="4" fill="#E5E7EB" opacity=".76"/>
+  <rect x="136" y="204" width="132" height="12" rx="4" fill="#E5E7EB" opacity=".56"/>
+  <rect x="136" y="238" width="192" height="12" rx="4" fill="#E5E7EB" opacity=".56"/>
+  <circle cx="420" cy="224" r="82" fill="#334155" stroke="#FACC15" stroke-width="10"/>
+  <path d="M420 160v64l42 30" fill="none" stroke="#FACC15" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M346 306l-46 46" stroke="#FACC15" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="420" cy="224" r="12" fill="#E5E7EB"/>
+  <path d="M464 114l24 24 48-58" fill="none" stroke="#FACC15" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

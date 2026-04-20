@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://msservices.com/sitemap.xml
+Sitemap: https://msservices.co.in/sitemap.xml

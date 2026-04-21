@@ -3,15 +3,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MS Services | Service Details</title>
-  <meta name="description" content="Detailed information on MS Services offerings including tax filings, compliance, and business advisory.">
-  <meta name="keywords" content="service details, tax services, business compliance, MS Services">
+  <title>MS Services | Blog Details</title>
+  <meta name="description" content="Read detailed blog insights from MS Services.">
+  <meta name="keywords" content="MS Services, blog details, tax insights, business insights">
   <meta name="author" content="MS Services">
-  <meta property="og:title" content="MS Services | Service Details">
-  <meta property="og:description" content="Learn more about our specialized services for tax and business needs.">
+  <meta property="og:title" content="MS Services | Blog Details">
+  <meta property="og:description" content="Detailed updates and insights from MS Services.">
   <meta property="og:image" content="./images/favicon.ico">
-  <meta property="og:url" content="https://msservices.com/service-detail.html">
-  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://msservices.co.in/blog-detail.html">
+  <meta property="og:type" content="article">
   <link rel="icon" href="./images/favicon.ico?v=20260416" type="image/x-icon">
 
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
@@ -39,39 +39,32 @@
   </nav>
 </header>
 
-<main class="service-detail-page" id="main-content">
-  <section class="service-detail-shell" aria-label="Service details">
-    <aside class="service-picker" aria-label="Choose a service">
-      <p class="picker-eyebrow">Explore Services</p>
-      <div class="service-picker-list" id="service-picker-list"></div>
-    </aside>
+<main class="blog-detail-page" id="main-content">
+  <section class="blog-detail-shell">
+    <a class="back-link" href="Blog.html">Back to Blog</a>
 
-    <div class="service-detail-area">
-      <section class="service-detail" id="service-detail">
-        <div class="service-detail-visual">
-          <img id="service-image" src="images/it-filings.svg" alt="">
+    <article class="blog-detail">
+      <div class="blog-detail-visual">
+        <img id="blog-image" src="images/tax-saving.svg" alt="">
+      </div>
+
+      <div class="blog-detail-content">
+        <p class="detail-eyebrow">MS Services Blog</p>
+        <div class="blog-meta">
+          <span id="blog-date"></span>
+          <span id="blog-read-time"></span>
         </div>
+        <h1 id="blog-title"></h1>
+        <p id="blog-summary"></p>
 
-        <div class="service-detail-content">
-          <p class="detail-eyebrow">MS Services</p>
-          <h1 id="service-title">Service Details</h1>
-          <p id="service-summary">Loading service information...</p>
-
-          <div class="detail-grid">
-            <div>
-              <h2>What We Help With</h2>
-              <ul id="service-points"></ul>
-            </div>
-            <div>
-              <h2>Documents Usually Needed</h2>
-              <ul id="service-documents"></ul>
-            </div>
+        <div class="detail-grid blog-detail-grid">
+          <div>
+            <h2>Full Details</h2>
+            <ul id="blog-content"></ul>
           </div>
-
-          <a class="detail-cta" href="contact.html">Talk to Us</a>
         </div>
-      </section>
-    </div>
+      </div>
+    </article>
   </section>
 </main>
 
@@ -103,6 +96,6 @@
 
 <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
 <script src="script.js"></script>
-<script src="service-details.js"></script>
+<script src="blog-details.js"></script>
 </body>
 </html>

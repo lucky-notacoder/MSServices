@@ -10,7 +10,9 @@ window.onload = () => {
 // ==========================
 document.querySelectorAll("a").forEach(link => {
   link.addEventListener("click", function(e) {
-    if (this.hostname === window.location.hostname) {
+    const isAnchor = this.hash && this.pathname === window.location.pathname;
+    
+    if (this.hostname === window.location.hostname && !isAnchor) {
       e.preventDefault();
       document.body.classList.remove("loaded");
       setTimeout(() => {

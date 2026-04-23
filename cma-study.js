@@ -8201,8 +8201,3535 @@
           {
             label: "Cost Accounting",
             questions: [
-        
-            ]
+        {
+    "SL NO": 1,
+    "QUESTIONS": "Prime Cost is:",
+    "OPTION 1": "All costs incurred in manufacturing a\nproduct",
+    "OPTION 2": "the total of direct costs",
+    "OPTION 3": "the material cost of a product",
+    "OPTION 4": "the cost of operating a department",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 2,
+    "QUESTIONS": "A company employs three drivers to deliver goods to its customers. The salaries paid to these drivers are:",
+    "OPTION 1": "a part of prime cost",
+    "OPTION 2": "a direct production expense",
+    "OPTION 3": "a production overhead",
+    "OPTION 4": "a selling & distribution overhead",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 3,
+    "QUESTIONS": "A company has to pay a Rs. 1 per unit royalty to the designer of a product which it manufactures and sells. The royalty charge would\nbe classified in the company\u2019s accounts as a \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+    "OPTION 1": "Direct expense",
+    "OPTION 2": "Production overhead",
+    "OPTION 3": "Administrative overhead",
+    "OPTION 4": "Selling overhead",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 4,
+    "QUESTIONS": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0is a method of dealing with overheads which involves spreading common costs over cost centers on the basis of benefit\nreceived.",
+    "OPTION 1": "overhead absorption",
+    "OPTION 2": "overhead apportionment",
+    "OPTION 3": "overhead allocation",
+    "OPTION 4": "overhead analysis",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 5,
+    "QUESTIONS": "Which of the following classification is meant for distinction\nbetween direct cost and indirect cost?",
+    "OPTION 1": "Function",
+    "OPTION 2": "Element",
+    "OPTION 3": "Variability",
+    "OPTION 4": "Controllability",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 6,
+    "QUESTIONS": "Which of the following is applicable for Cost Control?",
+    "OPTION 1": "It is related with the\nfuture",
+    "OPTION 2": "It is a corrective\nfunction",
+    "OPTION 3": "It ends when the\ntargets are achieved",
+    "OPTION 4": "It challenges the\nstandards set",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 7,
+    "QUESTIONS": "is anything for which a separate measurement of cost is required",
+    "OPTION 1": "Cost driver",
+    "OPTION 2": "Cost centre",
+    "OPTION 3": "Cost unit",
+    "OPTION 4": "Cost object",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 8,
+    "QUESTIONS": "Ticket counter in a Metro Station is an example of",
+    "OPTION 1": "Profit centre",
+    "OPTION 2": "Investment centre",
+    "OPTION 3": "Cost centre",
+    "OPTION 4": "Revenue centre",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 9,
+    "QUESTIONS": "Absorption costing is also referred as \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+    "OPTION 1": "Historical costing",
+    "OPTION 2": "Traditional costing",
+    "OPTION 3": "Full costing",
+    "OPTION 4": "All of the above\nterms",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 10,
+    "QUESTIONS": "the main purpose of cost accounting is",
+    "OPTION 1": "to maintain profit",
+    "OPTION 2": "to help in inventory valuation",
+    "OPTION 3": "to enter into price War with competitive firms",
+    "OPTION 4": "to provide information to management for\ndecision-making",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 11,
+    "QUESTIONS": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0is anything for which a separate measurement is required",
+    "OPTION 1": "cost unit",
+    "OPTION 2": "cost object",
+    "OPTION 3": "cost driver",
+    "OPTION 4": "cost sentre",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 12,
+    "QUESTIONS": "Which of the following is true about Cost Control",
+    "OPTION 1": "It is a corrective\nfunction",
+    "OPTION 2": "It challenges the set\nstandards",
+    "OPTION 3": "It ends when targets\nachieved",
+    "OPTION 4": "It is concerned with\nfuture",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 13,
+    "QUESTIONS": "Cost Units used in Power Sector is :",
+    "OPTION 1": "Kilo-meter (K.M.)",
+    "OPTION 2": "Kilo - Watt-Hour\n(kWh)",
+    "OPTION 3": "Number of Electric\nPoints",
+    "OPTION 4": "Machine Hours",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 14,
+    "QUESTIONS": "Process Costing method is suitable for :",
+    "OPTION 1": "Transport Sector",
+    "OPTION 2": "Chemical Industries",
+    "OPTION 3": "Dam Construction",
+    "OPTION 4": "Furniture- making",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 15,
+    "QUESTIONS": "distinction between Direct Cost and Indirect Cost is an example of\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0classification.",
+    "OPTION 1": "By element",
+    "OPTION 2": "By Function",
+    "OPTION 3": "By controllability",
+    "OPTION 4": "By Variability",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 16,
+    "QUESTIONS": "The advantage of using IT in Cost Accounting does not include",
+    "OPTION 1": "Single point data entry",
+    "OPTION 2": "stock needs to be reconciled with goods received note",
+    "OPTION 3": "reduction in multiplicity of documents",
+    "OPTION 4": "integration of various functions",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 17,
+    "QUESTIONS": "A taxi provider charges minimum Rs.80 thereafter  Rs. 12 per kilometer of distance travelled ,the behaviour of conveyance Cost is",
+    "OPTION 1": "fixed cost",
+    "OPTION 2": "semi-variable",
+    "OPTION 3": "variable",
+    "OPTION 4": "administrative cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 18,
+    "QUESTIONS": "A Ltd. Has three Production Departments, and each department has machines , which of the following cannot be treated as Cost Centre for cost allocation:",
+    "OPTION 1": "Machines under the production Production Department",
+    "OPTION 2": "Pruction Departments",
+    "OPTION 3": "Both Production Department and Machines",
+    "OPTION 4": "A Ltd.",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 19,
+    "QUESTIONS": "Which of the following is an example of functional classification of\ncost?",
+    "OPTION 1": "Semi -variable costs",
+    "OPTION 2": "Fixed Cost",
+    "OPTION 3": "Administrative\noverhead",
+    "OPTION 4": "indirect Overheads",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 20,
+    "QUESTIONS": "Cost which are ascertained after they have been incurred are\nknown as",
+    "OPTION 1": "sunk costs",
+    "OPTION 2": "Imputed Costs",
+    "OPTION 3": "Historical Costs",
+    "OPTION 4": "Oppurtunity Costs",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 21,
+    "QUESTIONS": "Generally , for the purpose of Cost sheet preparation , costs are\nclassified on the basis of -",
+    "OPTION 1": "Functions",
+    "OPTION 2": "variablity",
+    "OPTION 3": "relevance",
+    "OPTION 4": "nature",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 22,
+    "QUESTIONS": "What is prime cost",
+    "OPTION 1": "Total direct cost only",
+    "OPTION 2": "Total Indirect Costs\nonly",
+    "OPTION 3": "Total Non-\nProduction Costs",
+    "OPTION 4": "Total Production\nCosts",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 23,
+    "QUESTIONS": "Which of the following does not form part of prime cost",
+    "OPTION 1": "Cost of Packing",
+    "OPTION 2": "cost of transportation paid to bring materials to\nfactory",
+    "OPTION 3": "GST paid on Raw materials (where input credit cannot be\nclaimed)",
+    "OPTION 4": "overtime premium paid to workers",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 24,
+    "QUESTIONS": "Which of these is not an objective of Cost Accounting?",
+    "OPTION 1": "Ascertainment of Cost",
+    "OPTION 2": "Determination of Selling Price",
+    "OPTION 3": "Cost Control and Cost reduction",
+    "OPTION 4": "Assisting\nShareholders in decision making",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 25,
+    "QUESTIONS": "Which of the following are direct expenses ? (1) Cost of Special Designs ,drawings or layout, (2) Hire of Tools or Equipment for a particular job , (3) Salesman's wages , (4) Rent  , rates and\nInsurance of a factory ,",
+    "OPTION 1": "(1) and (2)",
+    "OPTION 2": "(1) and (3)",
+    "OPTION 3": "(2) and (3)",
+    "OPTION 4": "(3) and (4)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 26,
+    "QUESTIONS": "Salary paid to plant Supervisor is a part of",
+    "OPTION 1": "Direct expenses",
+    "OPTION 2": "Factory Overheads",
+    "OPTION 3": "Quality Control Cost",
+    "OPTION 4": "administrative cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 27,
+    "QUESTIONS": "Depreciation of Director's Laptop  is treated as a part of :",
+    "OPTION 1": "Administration\nOverheads",
+    "OPTION 2": "Factory Overheads",
+    "OPTION 3": "IT infrastructure Cost",
+    "OPTION 4": "Research &\nDevelopment Cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 28,
+    "QUESTIONS": "A manufacturing Company has set-up a lab for testing of products for compliance with standards. Salary of this Lab Staff are part of :",
+    "OPTION 1": "Works Overheads",
+    "OPTION 2": "Quality Control Cost",
+    "OPTION 3": "Direct Expenses",
+    "OPTION 4": "Reearch & Development Cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 29,
+    "QUESTIONS": "Audit fees paid to external Statutory Auditors is part of",
+    "OPTION 1": "Administration Cost",
+    "OPTION 2": "Production Cost",
+    "OPTION 3": "Selling & distribution\nCosts",
+    "OPTION 4": "Quality Costrol Cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 30,
+    "QUESTIONS": "Salary paid to factory stores is a part of",
+    "OPTION 1": "Factory Overheads",
+    "OPTION 2": "Production Cost",
+    "OPTION 3": "Direct Employee Cost",
+    "OPTION 4": "Direct Material Cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 31,
+    "QUESTIONS": "Canteen Expenses for factory workers are part of -",
+    "OPTION 1": "Factory Overheads",
+    "OPTION 2": "Administration cost",
+    "OPTION 3": "marketing cost",
+    "OPTION 4": "direct expenses",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 32,
+    "QUESTIONS": "A company pays Royalty to State Government on the basis of\nproduction , it is treated as:",
+    "OPTION 1": "Direct material cost",
+    "OPTION 2": "Quality Control\nCost",
+    "OPTION 3": "Direct Expenses",
+    "OPTION 4": "Administrative\nOverhead",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 33,
+    "QUESTIONS": "Which of the following is not an element of Works Overhead ?",
+    "OPTION 1": "Store Keeper's Salary",
+    "OPTION 2": "Plant Manager's\nsalary",
+    "OPTION 3": "Sales Manager's\nSalary",
+    "OPTION 4": "Product Inspector's\nSalary",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 34,
+    "QUESTIONS": "A profit centre is a centre",
+    "OPTION 1": "Where the manager has the responsibility of generating and maximising profits",
+    "OPTION 2": "Which is concerned with earning an adequate Return on Investment",
+    "OPTION 3": "Both of the above",
+    "OPTION 4": "Which manages cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 35,
+    "QUESTIONS": "Responsibility Centre can be categorised into:",
+    "OPTION 1": "Cost Centres only",
+    "OPTION 2": "Profit Centres only",
+    "OPTION 3": "Investment Centres only",
+    "OPTION 4": "Cost Centres, Profit Centres and\nInvestment Centres",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 36,
+    "QUESTIONS": "Cost Unit is defined as:",
+    "OPTION 1": "Unit of quantity of product, service or time in relation to which costs may be ascertained or expressed",
+    "OPTION 2": "A location, person or an item of equipment or a group of these for which costs are ascertained and used for cost control.",
+    "OPTION 3": "Centres having the responsibility of generating and maximising profits",
+    "OPTION 4": "Centres concerned with earning an adequate return on investment",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 37,
+    "QUESTIONS": "Fixed cost is a cost:",
+    "OPTION 1": "Which changes in total in proportion to changes in output",
+    "OPTION 2": "which is partly fixed and partly variable in relation to output",
+    "OPTION 3": "Which do not change in total during a given period despise\nchanges in output",
+    "OPTION 4": "which remains same for each unit of output",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 38,
+    "QUESTIONS": "Uncontrollable costs are the costs which be influenced by the\naction of a specified member of an undertaking.",
+    "OPTION 1": "can not",
+    "OPTION 2": "can",
+    "OPTION 3": "may or may not",
+    "OPTION 4": "must",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 39,
+    "QUESTIONS": "Element/s of Cost of a product are:",
+    "OPTION 1": "Material only",
+    "OPTION 2": "Labour only",
+    "OPTION 3": "Expenses only",
+    "OPTION 4": "Material, Labour and\nexpenses",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 40,
+    "QUESTIONS": "Abnormal cost is the cost:",
+    "OPTION 1": "Cost normally incurred at a given\nlevel of output",
+    "OPTION 2": "Cost not normally incurred at a given\nlevel of output",
+    "OPTION 3": "Cost which is charged to customer",
+    "OPTION 4": "Cost which is included in the cost\nof the product",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 41,
+    "QUESTIONS": "Conversion cost includes cost of converting\u2026\u2026\u2026.into\u2026\u2026..",
+    "OPTION 1": "Raw material, WIP",
+    "OPTION 2": "Raw material, Finished goods",
+    "OPTION 3": "WIP, Finished goods",
+    "OPTION 4": "Finished goods, Saleable goods",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 42,
+    "QUESTIONS": "Sunk costs are:",
+    "OPTION 1": "relevant for decision making",
+    "OPTION 2": "Not relevant for decision making",
+    "OPTION 3": "cost to be incurred in future",
+    "OPTION 4": "future costs",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 43,
+    "QUESTIONS": "Calculate the prime cost from the following information: Direct material purchased: Rs. 1,00,000\nDirect material consumed: Rs. 90,000 Direct labour: Rs. 60,000\nDirect expenses: Rs. 20,000\nManufacturing overheads: Rs. 30,000",
+    "OPTION 1": "Rs. 1,80,000",
+    "OPTION 2": "Rs. 2,00,000",
+    "OPTION 3": "Rs. 1,70,000",
+    "OPTION 4": "Rs. 2,10,000",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 44,
+    "QUESTIONS": "Total cost of a product: Rs. 10,000 Profit: 25% on Selling Price\nProfit is:",
+    "OPTION 1": "Rs. 2,500",
+    "OPTION 2": "Rs. 3,000",
+    "OPTION 3": "Rs. 3,333",
+    "OPTION 4": "Rs. 2,000",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 45,
+    "QUESTIONS": "Calculate cost of sales from the following:\nNet Works cost:                                                                Rs.\n2,00,000\nOffice & Administration Overheads:                       Rs. 1,00,000 Opening stock of WIP:                                                    Rs. 10,000\nClosing Stock of WIP:                                                     Rs. 20,000\nClosing stock of finished goods:                                   Rs. 30,000\nThere was no opening stock of finished goods. Selling overheads: Rs. 10,000",
+    "OPTION 1": "Rs. 2,70,000",
+    "OPTION 2": "Rs. 2,80,000",
+    "OPTION 3": "Rs. 3,00,000",
+    "OPTION 4": "Rs. 3,20,000",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 46,
+    "QUESTIONS": "Which of the following is considered as normal loss of material?",
+    "OPTION 1": "Pilferage",
+    "OPTION 2": "Loss due to accident",
+    "OPTION 3": "Loss due to careless\nhandling of material",
+    "OPTION 4": "None of these",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 47,
+    "QUESTIONS": "The most important element of cost is-",
+    "OPTION 1": "Material",
+    "OPTION 2": "Labour",
+    "OPTION 3": "Overheads",
+    "OPTION 4": "All of these",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 48,
+    "QUESTIONS": "Direct material is a \u2013",
+    "OPTION 1": "Adiministration Cost",
+    "OPTION 2": "Selling and\nDistribution cost",
+    "OPTION 3": "All of these",
+    "OPTION 4": "None of these",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 49,
+    "QUESTIONS": "Which of the following is considered as accounting record?",
+    "OPTION 1": "Bin Card",
+    "OPTION 2": "Bill of material",
+    "OPTION 3": "Store Ledger",
+    "OPTION 4": "None of these",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 50,
+    "QUESTIONS": "Direct material can be classified as :",
+    "OPTION 1": "Fixec cost",
+    "OPTION 2": "Semi-Variable cost",
+    "OPTION 3": "Vaiable Cost",
+    "OPTION 4": "Prime cost",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 51,
+    "QUESTIONS": "In which of the following methods of pricing, costs lag behind the\ncurrent economic values?",
+    "OPTION 1": "Replacement price\nmethod",
+    "OPTION 2": "Last in first out\nprice method",
+    "OPTION 3": "First in first out price\nmethod",
+    "OPTION 4": "Weighted average\nprice method",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 52,
+    "QUESTIONS": "In which of the following methods, issues of materials are priced\nat pre-determined rate?",
+    "OPTION 1": "Replacement price\nmethod",
+    "OPTION 2": "Inflated price\nmethod",
+    "OPTION 3": "Specific price method",
+    "OPTION 4": "Standard price\nmethod",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 53,
+    "QUESTIONS": "Which of the following methods smoothes out the effect of\nfluctuations when material prices fluctuate widely?",
+    "OPTION 1": "FIFO",
+    "OPTION 2": "Simple Average",
+    "OPTION 3": "LIFO",
+    "OPTION 4": "Weighted average",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 54,
+    "QUESTIONS": "In which of the following incentive plan of payment, wages on\ntime basis are not Guaranteed?",
+    "OPTION 1": "Halsey plan",
+    "OPTION 2": "Rowan plan",
+    "OPTION 3": "Taylor\u2019s differential\npiece rate system",
+    "OPTION 4": "Gantt\u2019s task and\nbonus system",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 55,
+    "QUESTIONS": "Cost of idle time arising due to non-availability of raw material is :",
+    "OPTION 1": "Charged to costing profit and loss A/c",
+    "OPTION 2": "Charged to factory overheads",
+    "OPTION 3": "Recovered by inflating the wage\nrate",
+    "OPTION 4": "Ignored",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 56,
+    "QUESTIONS": "When overtime is required for meeting urgent orders, overtime\npremium should be",
+    "OPTION 1": "Charged to costing\nprofit and loss A/c",
+    "OPTION 2": "Charged to overhead\ncosts",
+    "OPTION 3": "Charged to respective\njobs",
+    "OPTION 4": "Ignored",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 57,
+    "QUESTIONS": "Labour turnover is measured by",
+    "OPTION 1": "Number of workers replaced average number of workers",
+    "OPTION 2": "Number of workers left / number in the beginning plus\nnumber at the end",
+    "OPTION 3": "Number of workers joining / number in the beginning of the\nperiod",
+    "OPTION 4": "All of these",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 58,
+    "QUESTIONS": "Idle time is",
+    "OPTION 1": "Time spent by workers in factory",
+    "OPTION 2": "Time spent by workers in office",
+    "OPTION 3": "Time spent by workers off their\nwork",
+    "OPTION 4": "Time spent by workers on their job",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 59,
+    "QUESTIONS": "Over time is :",
+    "OPTION 1": "Actual hours being\nmore than normal time",
+    "OPTION 2": "Actual hours being\nmore than standard time",
+    "OPTION 3": "Standard hours being\nmore than actual hours",
+    "OPTION 4": "Actual hours being\nless than standard time",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 60,
+    "QUESTIONS": "Labour productivity is measured by comparing",
+    "OPTION 1": "Total output with total man-hours",
+    "OPTION 2": "Added value for the product with total\nwage cost",
+    "OPTION 3": "Actual time and standard time",
+    "OPTION 4": "All of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 61,
+    "QUESTIONS": "If the time saved is less than 50% of the standard time, then the wages under Rowan and Halsey premium plan on comparison gives:",
+    "OPTION 1": "Equal wages under two plans",
+    "OPTION 2": "More wages to workers under Halsey Plan than\nRowan Plan",
+    "OPTION 3": "More wages to workers under Rowan Plan than\nHalsey Plan",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 62,
+    "QUESTIONS": "Under Taylor\u2019s differential piece rate scheme, if a worker fails to\ncomplete the task within the standard time, then he is paid",
+    "OPTION 1": "83% of the piece work\nrate",
+    "OPTION 2": "175% of the piece\nwork rate",
+    "OPTION 3": "67% of the piece\nwork rate",
+    "OPTION 4": "125% of the piece\nwork rate",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 63,
+    "QUESTIONS": "Direct Expenses \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0includes imputed cost.",
+    "OPTION 1": "Shall",
+    "OPTION 2": "Shall not",
+    "OPTION 3": "Shall be",
+    "OPTION 4": "None of these",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 64,
+    "QUESTIONS": "Direct Expenses that does not meet the test of materiality can be\n\u2014\u2014\u2014\u2014 part of overhead.",
+    "OPTION 1": "Treated",
+    "OPTION 2": "Not treated",
+    "OPTION 3": "All of the these",
+    "OPTION 4": "None of these",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 65,
+    "QUESTIONS": "Example of Direct Expenses.",
+    "OPTION 1": "Rent",
+    "OPTION 2": "Royalty charged on\nproduction",
+    "OPTION 3": "Bonus to employee",
+    "OPTION 4": "None of these",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 66,
+    "QUESTIONS": "The allotment of whole items of cost centres or cost unit is called :",
+    "OPTION 1": "Cost allocation",
+    "OPTION 2": "Cost apportionment",
+    "OPTION 3": "Overhead absorption",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 67,
+    "QUESTIONS": "Directors remuneration and expenses form a part of:",
+    "OPTION 1": "Production overhead",
+    "OPTION 2": "Administration\noverhead",
+    "OPTION 3": "Selling overhead",
+    "OPTION 4": "Distribution\noverhead",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 68,
+    "QUESTIONS": "Charging to a cost center those overheads that result solely for the\nexistence of that cost Center is known as",
+    "OPTION 1": "Allocation",
+    "OPTION 2": "Apportionment",
+    "OPTION 3": "Absorption",
+    "OPTION 4": "Allotment",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 69,
+    "QUESTIONS": "Absorption means:",
+    "OPTION 1": "Charging of overheads to cost centres",
+    "OPTION 2": "Charging of overhead to cost\nunits",
+    "OPTION 3": "Charging of overheads to cost\ncentres or cost units",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 70,
+    "QUESTIONS": "When the amount of under or over absorption is significant, it should be disposed of by:",
+    "OPTION 1": "Transferring to costing profit and loss account",
+    "OPTION 2": "The use of supplementary rates",
+    "OPTION 3": "Carrying over as a deferred charge to the next accounting year",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 71,
+    "QUESTIONS": "Selling and distribution overheads are absorbed on the basis of:",
+    "OPTION 1": "rate per unit.",
+    "OPTION 2": "percentage on works\ncost.",
+    "OPTION 3": "percentage on selling\nprice of each unit.",
+    "OPTION 4": "Any of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 72,
+    "QUESTIONS": "Primary packing cost is a part of:",
+    "OPTION 1": "Direct material cost",
+    "OPTION 2": "Distribution\noverhead",
+    "OPTION 3": "Selling overhead",
+    "OPTION 4": "Production cost",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 73,
+    "QUESTIONS": "Normal capacity of a plant refers to the difference between:",
+    "OPTION 1": "Maximum capacity and practical capacity",
+    "OPTION 2": "Maximum capacity and actual capacity",
+    "OPTION 3": "Practical capacity and estimated idle capacity as revealed by long term sales\ntrend",
+    "OPTION 4": "Practical capacity and normal capacity",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 74,
+    "QUESTIONS": "When the amount of overhead absorbed is less than the amount of\noverhead incurred, it is called:",
+    "OPTION 1": "Under absorption of\noverhead",
+    "OPTION 2": "Over absorption of\noverhead",
+    "OPTION 3": "Proper absorption of\noverhead",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 75,
+    "QUESTIONS": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0is a scientific and accurate method of factory overhead absorption.",
+    "OPTION 1": "Percentage of prime cost method",
+    "OPTION 2": "Machine hour rate method",
+    "OPTION 3": "Percentage of direct material cost method",
+    "OPTION 4": "Percentage of direct labour cost method",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 76,
+    "QUESTIONS": "Which of these is not a Material control technique:",
+    "OPTION 1": "ABC Analysis",
+    "OPTION 2": "Fixation of raw material levels",
+    "OPTION 3": "Maintaining stores ledger",
+    "OPTION 4": "Control over slow moving and non\nmoving items",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 77,
+    "QUESTIONS": "Out of the following, what is not the work of purchase department:",
+    "OPTION 1": "Receiving purchase requisition",
+    "OPTION 2": "Exploring the sources of material\nsupply",
+    "OPTION 3": "Preparation and execution of purchase\norders",
+    "OPTION 4": "Accounting for material received",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 78,
+    "QUESTIONS": "Bin Card is a:",
+    "OPTION 1": "Quantitative as well as value wise records of material received,\nissued and balance;",
+    "OPTION 2": "Quantitative record of material received, issued and balance",
+    "OPTION 3": "Value wise records of material received, issued and balance",
+    "OPTION 4": "a record of labour attendance",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 79,
+    "QUESTIONS": "Stores Ledger is a:",
+    "OPTION 1": "Quantitative as well as value wise records of material received,\nissued and balance;",
+    "OPTION 2": "Quantitative record of material received, issued and balance",
+    "OPTION 3": "Value wise records of material received, issued and balance",
+    "OPTION 4": "a record of labour attendance",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 80,
+    "QUESTIONS": "Re-order level is calculated as:",
+    "OPTION 1": "Maximum consumption x Maximum re-order\nperiod",
+    "OPTION 2": "Minimum consumption x Minimum re-order\nperiod",
+    "OPTION 3": "1/2 of (Minimum + Maximum consumption)",
+    "OPTION 4": "Maximum level - Minimum level",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 81,
+    "QUESTIONS": "Economic order quantity is that quantity at which cost of holding and carrying inventory is",
+    "OPTION 1": "Maximum and equal",
+    "OPTION 2": "Minimum and equal",
+    "OPTION 3": "It can be maximum or minimum depending upon case to case.",
+    "OPTION 4": "Minimum and unequal",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 82,
+    "QUESTIONS": "ABC analysis is an inventory control technique in which:",
+    "OPTION 1": "Inventory levels are maintained",
+    "OPTION 2": "Inventory is classified into A, B and C category with A being the highest quantity, lowest\nvalue.",
+    "OPTION 3": "Inventory is classified into A, B and C Category with A being the lowest quantity, highest\nvalue",
+    "OPTION 4": "Either b or c.",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 83,
+    "QUESTIONS": "Which one out of the following is not an inventory valuation\nmethod?",
+    "OPTION 1": "FIFO",
+    "OPTION 2": "LIFO",
+    "OPTION 3": "Weighted Average",
+    "OPTION 4": "EOQ",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 84,
+    "QUESTIONS": "In case of rising prices (inflation), FIFO method will:",
+    "OPTION 1": "provide lowest value of closing stock and profit",
+    "OPTION 2": "provide highest value of closing stock and profit",
+    "OPTION 3": "provide highest value of closing stock but lowest value of profit",
+    "OPTION 4": "provide highest value of profit but lowest value of closing\nstock",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 85,
+    "QUESTIONS": "In case of rising prices (inflation), LIFO will:",
+    "OPTION 1": "provide lowest value of closing stock and profit",
+    "OPTION 2": "provide highest value of closing stock and profit",
+    "OPTION 3": "provide highest value of closing stock but lowest value of profit",
+    "OPTION 4": "provide highest value of profit but lowest value of closing\nstock",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 86,
+    "QUESTIONS": "Calculate Re-order level from the following: Consumption per\nweek: 100-200 units Delivery period: 14-28 days",
+    "OPTION 1": "5600 units",
+    "OPTION 2": "800 units",
+    "OPTION 3": "1400 units",
+    "OPTION 4": "200 units",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 87,
+    "QUESTIONS": "Calculate EOQ (approx.) from the following details: Annual Consumption: 24000 units\nOrdering cost: Rs. 10 per order Purchase price: Rs. 100 per unit\nCarrying cost: 5%",
+    "OPTION 1": 310,
+    "OPTION 2": 400,
+    "OPTION 3": 290,
+    "OPTION 4": 300,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 88,
+    "QUESTIONS": "Calculate the value of closing stock from the following according to FIFO method:\n1st January, 2024: Opening balance: 50 units @ Rs. 4 Receipts:\n5th January, 2024: 100 units @ Rs. 5\n12th January, 2024: 200 units @ Rs. 4.50\nIssues:\n2nd January, 2024: 30 units\n18th January, 2024: 150 units",
+    "OPTION 1": "Rs. 765",
+    "OPTION 2": "Rs. 805",
+    "OPTION 3": "Rs. 786",
+    "OPTION 4": "Rs. 700",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 89,
+    "QUESTIONS": "Calculate the value of closing stock from the following according to LIFO method:\n1st January, 2024: Opening balance: 50 units @ Rs. 4 Receipts:\n5th January, 2024: 100 units @ Rs. 5\n12th January, 2024: 200 units @ Rs. 4.50\nIssues:\n2nd January, 2024: 30 units\n18th January, 2024: 150 units",
+    "OPTION 1": "Rs. 765",
+    "OPTION 2": "Rs. 805",
+    "OPTION 3": "Rs. 786",
+    "OPTION 4": "Rs. 700",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 90,
+    "QUESTIONS": "Calculate the value of closing stock from the following according to Weighted Average method:\n1st January, 2024: Opening balance: 50 units @ Rs. 4 Receipts:\n5th January, 2024: 100 units @ Rs. 5\n12th January, 2024: 200 units @ Rs. 4.50 Issues:\n2nd January, 2024: 30 units\n18th January, 2024: 150 units",
+    "OPTION 1": "Rs. 765",
+    "OPTION 2": "Rs. 805",
+    "OPTION 3": "Rs. 786",
+    "OPTION 4": "Rs. 700",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 91,
+    "QUESTIONS": "Cost of abnormal wastage is:",
+    "OPTION 1": "Charged to the product cost",
+    "OPTION 2": "Charged to the profit & loss account",
+    "OPTION 3": "charged partly to the product and partly profit & loss account",
+    "OPTION 4": "not charged at all.",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 92,
+    "QUESTIONS": "Calculate re-order level from the following: Safety stock: 1000 units\nConsumption per week: 500 units\nIt takes 12 weeks to reach material from the date of ordering.",
+    "OPTION 1": "1000 units",
+    "OPTION 2": "6000 units",
+    "OPTION 3": "3000 units",
+    "OPTION 4": "7000 units",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 93,
+    "QUESTIONS": "From the following information, calculate the extra cost of material by following EOQ: Annual consumption: = 45000 units\nOrdering cost per order:                    = Rs. 10\nCarrying cost per unit per annum:    = Rs. 10 Purchase price per unit                     = Rs. 50\nRe-order quantity at present             = 45000 units\nThere is discount of 10% per unit in case of purchase of 45000 units in bulk.",
+    "OPTION 1": "No saving",
+    "OPTION 2": "Rs. 2,00,000",
+    "OPTION 3": "Rs. 2,22,010",
+    "OPTION 4": "Rs. 2,990",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 94,
+    "QUESTIONS": "Which of the following is an abnormal cause of Idle time:",
+    "OPTION 1": "Time taken by workers to travel the distance between the main gate of factory and place of their\nwork",
+    "OPTION 2": "Time lost between the finish of one job and starting of next job",
+    "OPTION 3": "Time spent to meet their personal needs like taking lunch, tea etc",
+    "OPTION 4": "Machine break downs",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 95,
+    "QUESTIONS": "If overtime is resorted to at the desire of the customer, then the overtime premium:",
+    "OPTION 1": "should be charged to costing profit and loss\naccount;",
+    "OPTION 2": "should not be charged at all",
+    "OPTION 3": "should be charged to the job directly",
+    "OPTION 4": "should be charged to the highest profit\nmaking department",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 96,
+    "QUESTIONS": "Labour turnover means:",
+    "OPTION 1": "Turnover generated by labour",
+    "OPTION 2": "Rate of change in composition of labour force during\na specified period",
+    "OPTION 3": "Either of the above",
+    "OPTION 4": "Both of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 97,
+    "QUESTIONS": "Which of the following is not an avoidable cause of labour turnover:",
+    "OPTION 1": "Dissatisfaction with Job",
+    "OPTION 2": "Lack of training facilities",
+    "OPTION 3": "Low wages and allowances",
+    "OPTION 4": "Disability, making a worker unfit for\nwork",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 98,
+    "QUESTIONS": "Costs associated with the labour turnover can be categorised into:",
+    "OPTION 1": "Preventive Costs only",
+    "OPTION 2": "Replacement costs\nonly",
+    "OPTION 3": "Both of the above",
+    "OPTION 4": "Machine costs",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 99,
+    "QUESTIONS": "Calculate workers left and discharged from the following:\nLabour turnover rates are 20%, 10% and 6% respectively under Flux method, Replacement method and\nSeparation method. No. of workers replaced during the quarter is 80.",
+    "OPTION 1": 112,
+    "OPTION 2": 80,
+    "OPTION 3": 48,
+    "OPTION 4": 64,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 100,
+    "QUESTIONS": "Calculate workers recruited and joined from the following:\nLabour turnover rates are 20%, 10% and 6% respectively under Flux method, Replacement method and\nSeparation method. No. of workers replaced during the quarter is\n80.",
+    "OPTION 1": 112,
+    "OPTION 2": 80,
+    "OPTION 3": 48,
+    "OPTION 4": 64,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 101,
+    "QUESTIONS": "Calculate the labour turnover rate according to replacement method from the following: No. of workers on the payroll:\n- At the beginning of the month: 500\n- At the end of the month: 600\nDuring the month, 5 workers left, 20 workers were discharged and 75 workers were recruited.  Of these, 10 workers were recruited in the vacancies of those leaving and while the rest were engaged for an expansion scheme.",
+    "OPTION 1": 0.0455,
+    "OPTION 2": 0.0182,
+    "OPTION 3": 0.06,
+    "OPTION 4": 0.03,
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 102,
+    "QUESTIONS": "Calculate the labour turnover rate according to Separation method from the following: No. of workers on the payroll:\n- At the beginning of the month: 500\n- At the end of the month: 600\nDuring the month, 5 workers left, 20 workers were discharged and 75 workers were recruited.  Of these,\n10 workers were recruited in the vacancies of those leaving and while the rest were engaged for an expansion scheme.",
+    "OPTION 1": 0.0455,
+    "OPTION 2": 0.0182,
+    "OPTION 3": 0.06,
+    "OPTION 4": 0.03,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 103,
+    "QUESTIONS": "A worker is allowed 60 hours to complete the job on a guaranteed wage of Rs. 10 per hour.  Under the Rowan Plan, he gets an hourly wage of Rs. 12 per hour.  For the same saving in time, how much\nhe will get under the Halsey Plan?",
+    "OPTION 1": "Rs.720",
+    "OPTION 2": "Rs.540",
+    "OPTION 3": "Rs.600",
+    "OPTION 4": "Rs.900",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 104,
+    "QUESTIONS": "Overhead refers to:",
+    "OPTION 1": "Direct or Prime Cost",
+    "OPTION 2": "All Indirect costs",
+    "OPTION 3": "only Factory indirect\ncosts",
+    "OPTION 4": "Only indirect\nexpenses",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 105,
+    "QUESTIONS": "Allotment of whole item of cost to a cost centre or cost unit is\nknown as:",
+    "OPTION 1": "Cost Apportionment",
+    "OPTION 2": "Cost Allocation",
+    "OPTION 3": "Cost Absorption",
+    "OPTION 4": "Machine hour rate",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 106,
+    "QUESTIONS": "Which of the following is not a method of cost absorption?",
+    "OPTION 1": "Percentage of direct\nmaterial cost",
+    "OPTION 2": "Machine hour rate",
+    "OPTION 3": "Labour hour rate",
+    "OPTION 4": "Repeated distribution\nmethod",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 107,
+    "QUESTIONS": "Service departments costs should be allocated to:",
+    "OPTION 1": "Only Service departments",
+    "OPTION 2": "Only Production departments",
+    "OPTION 3": "Both Production and service departments",
+    "OPTION 4": "None of the production and\nservice departments",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 108,
+    "QUESTIONS": "Most suitable basis for apportioning insurance of machine would\nbe:",
+    "OPTION 1": "Floor Area",
+    "OPTION 2": "Value of Machines",
+    "OPTION 3": "No. of Workers",
+    "OPTION 4": "No. of Machines",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 109,
+    "QUESTIONS": "Blanket overhead rate is:",
+    "OPTION 1": "One single overhead absorption rate for the whole factory",
+    "OPTION 2": "Rate which is blank or nil rate",
+    "OPTION 3": "rate in which multiple overhead rates are calculated for each production department, service\ndepartment etc",
+    "OPTION 4": "Always a machine hour rate",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 110,
+    "QUESTIONS": "AT Co makes a single product and is preparing its material usage budget for next year. Each unit of product requires 2kg of material, and 5,000 units of product are to be produced next year.\nOpening inventory of material is budgeted to be 800 kg and AT co budgets to increase material inventory at the end of next year by 20%\nThe material usage budget for next year is:",
+    "OPTION 1": "8,000 Kg",
+    "OPTION 2": "9,840 kg",
+    "OPTION 3": "10,000 Kg",
+    "OPTION 4": "10,160 Kg",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 111,
+    "QUESTIONS": "During a period 17, 500 labour hours were worked at a standard cost of Rs. 6.50 per hour. The labour efficiency variance was Rs. 7,800 favourable.\nHow many standard hours were produced?",
+    "OPTION 1": 1200,
+    "OPTION 2": 16300,
+    "OPTION 3": 17500,
+    "OPTION 4": 18700,
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 112,
+    "QUESTIONS": "In most of the manufacturing industries ,the most important\nelement of cost is",
+    "OPTION 1": "material",
+    "OPTION 2": "Labour",
+    "OPTION 3": "overheads",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 113,
+    "QUESTIONS": "Which of the following is NOT considered to be Normal loss of Materials ?",
+    "OPTION 1": "Loss due to accidents",
+    "OPTION 2": "Pilferage",
+    "OPTION 3": "Loss due to breaking the bulk",
+    "OPTION 4": "Loss due to transfering of liquid materials fromcontainer to\nanother",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 114,
+    "QUESTIONS": "Which of following is NOT considered as Normal loss of material?",
+    "OPTION 1": "Loss due to evaporation due to prevalent weather conditions",
+    "OPTION 2": "Loss due to pilferage",
+    "OPTION 3": "Loss due to breaking the bulk",
+    "OPTION 4": "Loss due to transferring of liquid materials from container to another",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 115,
+    "QUESTIONS": "At the economic ordering quantity level , the following is true on an annual basis:",
+    "OPTION 1": "Ordering Cost is minimum",
+    "OPTION 2": "Carrying Cost is minimum",
+    "OPTION 3": "Ordering Cost is equal to the Carrying\nCost",
+    "OPTION 4": "Purchase Price is minimum",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 116,
+    "QUESTIONS": "Continuous Stock Taking is a part of:",
+    "OPTION 1": "Annual Stock Taking",
+    "OPTION 2": "Perpetual Inventory",
+    "OPTION 3": "ABC Analysis",
+    "OPTION 4": "Bin Cards",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 117,
+    "QUESTIONS": "In which of the following methods, issues of materials are priced at\npre-determined rate?",
+    "OPTION 1": "Inflated Price Method",
+    "OPTION 2": "Standard price\nmethod",
+    "OPTION 3": "Replacement Price\nMethod",
+    "OPTION 4": "Market Price Method",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 118,
+    "QUESTIONS": "When Material prices Fluctuate widely, the method of pricing that\ngives absurd results is -",
+    "OPTION 1": "Simple Average Price",
+    "OPTION 2": "Weighted Average\nprice",
+    "OPTION 3": "Moving Average\nPrice",
+    "OPTION 4": "Inflated Price",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 119,
+    "QUESTIONS": "When prices fluctuate widely , the method that will smooth out the\neffect of fluctuations is",
+    "OPTION 1": "Simple Average Price",
+    "OPTION 2": "Weighted Average\nprice",
+    "OPTION 3": "FIFO",
+    "OPTION 4": "LIFO",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 120,
+    "QUESTIONS": "Under the FSN system of Inventory Control ,Inventory is Classified on the basis of :",
+    "OPTION 1": "Volumne of materail consumption",
+    "OPTION 2": "Frequently of usage\nof items of inventory",
+    "OPTION 3": "Criticality of the item\nof inventory of production",
+    "OPTION 4": "Value of Items of Inventory",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 121,
+    "QUESTIONS": "Form used for making a formal request to the Purchasing\nDepartment to purchase materials is a-",
+    "OPTION 1": "material transfer note",
+    "OPTION 2": "Purchase\nRequisition Note",
+    "OPTION 3": "Bill of materials",
+    "OPTION 4": "Material requisition\nnote",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 122,
+    "QUESTIONS": "Classification of Materials on the basis of their Importance in\nValue is called:",
+    "OPTION 1": "EOQ Analysis",
+    "OPTION 2": "Stock level analysis",
+    "OPTION 3": "ABC Analysis",
+    "OPTION 4": "Value analysis",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 123,
+    "QUESTIONS": "For Return of Excess Materials from Production Department to\nstores , the document used is:",
+    "OPTION 1": "Material return note",
+    "OPTION 2": "Stores debit note",
+    "OPTION 3": "Shop Credit Note",
+    "OPTION 4": "All the above (same)",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 124,
+    "QUESTIONS": "Which of the following is NOT related to a standard list of\nmaterials and components?",
+    "OPTION 1": "Consumption\nStatement",
+    "OPTION 2": "bill of materials",
+    "OPTION 3": "Material specification\nlist",
+    "OPTION 4": "Material list",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 125,
+    "QUESTIONS": "Which of the following is NOT recorded on a Bin card?",
+    "OPTION 1": "material received from\nsupplier",
+    "OPTION 2": "material issued to\nproduction depts",
+    "OPTION 3": "Inter department\ntransfers",
+    "OPTION 4": "Loss of materials",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 126,
+    "QUESTIONS": "What is the formula for Re-order level?",
+    "OPTION 1": "Minimum Usage x\nminimum lead time",
+    "OPTION 2": "Minimum Usage x\nmaximum lead time",
+    "OPTION 3": "Maximum Usage x\nminimum lead time",
+    "OPTION 4": "Maximum Usage x\nmaximum lead time",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 127,
+    "QUESTIONS": "(ROL+ROQ (-) minimum usage x minimum lead time ) is the\ncomputation formula for\u2026.",
+    "OPTION 1": "Maximum level",
+    "OPTION 2": "Minimum level",
+    "OPTION 3": "Average level",
+    "OPTION 4": "danger level",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 128,
+    "QUESTIONS": "Inventory turnover ratio is expressed in",
+    "OPTION 1": "Rupees",
+    "OPTION 2": "Percentage",
+    "OPTION 3": "times",
+    "OPTION 4": "Any of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 129,
+    "QUESTIONS": "Generally , a \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0T/o and \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0days Average Inventory held\nis preferable",
+    "OPTION 1": "High , less",
+    "OPTION 2": "Low , high",
+    "OPTION 3": "Low ,low",
+    "OPTION 4": "high, high",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 130,
+    "QUESTIONS": "Pricing of Materials in the order in which they are purchased is\ncalled \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0method",
+    "OPTION 1": "Specific Identification",
+    "OPTION 2": "FIFO",
+    "OPTION 3": "LIFO",
+    "OPTION 4": "Orderly",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 131,
+    "QUESTIONS": "Landed cost of materials does not include\u2026..",
+    "OPTION 1": "Cost of Containers",
+    "OPTION 2": "Carriage Inwards",
+    "OPTION 3": "Stock Insurance",
+    "OPTION 4": "Unloading Charges",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 132,
+    "QUESTIONS": "Cost of abnormal loss of materials is",
+    "OPTION 1": "Debited to costing P\n& L",
+    "OPTION 2": "Credited to Costing\nP&L",
+    "OPTION 3": "InCluded In Landed\nCost",
+    "OPTION 4": "Included in OH",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 133,
+    "QUESTIONS": "Idle time is the time under which",
+    "OPTION 1": "Full wages are paid to workers",
+    "OPTION 2": "No output is produced by the\nworkers",
+    "OPTION 3": "Both (a) and (b)",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 134,
+    "QUESTIONS": "When a direct Worker is paid on a monthly fixed salary basis , the following is true :",
+    "OPTION 1": "There is no idle time lost",
+    "OPTION 2": "There is no idle time cost",
+    "OPTION 3": "Idle time cost is separated and treated\nas overhead",
+    "OPTION 4": "salari is fully treated as factory overhead\ncost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 135,
+    "QUESTIONS": "Time and Motion study is conducted by",
+    "OPTION 1": "Time Keeping\nDepartment",
+    "OPTION 2": "Personnel\nDepartment",
+    "OPTION 3": "Payroll Department",
+    "OPTION 4": "Engineering\nDepartment",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 136,
+    "QUESTIONS": "Wages sheet is generally prepared by-",
+    "OPTION 1": "Time Keeping\nDepartment",
+    "OPTION 2": "Personnel\nDepartment",
+    "OPTION 3": "Payroll Department",
+    "OPTION 4": "Engineering\nDepartment",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 137,
+    "QUESTIONS": "For reducing the labour cost per unit ,which of the following\nfactors is most important?",
+    "OPTION 1": "Low wage rate",
+    "OPTION 2": "Longer hours of\nwork",
+    "OPTION 3": "Higher Productivity\nor Efficiency",
+    "OPTION 4": "Strict control and\nsupervison",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 138,
+    "QUESTIONS": "Time Booking refers to a method wherein \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0of an\nemployees is recorded",
+    "OPTION 1": "Attendance",
+    "OPTION 2": "book keeping details",
+    "OPTION 3": "Health Status",
+    "OPTION 4": "Time spent on a\nparticulars job",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 139,
+    "QUESTIONS": "Employee Cost includes",
+    "OPTION 1": "wages and salaries",
+    "OPTION 2": "Allowances and\nincentives",
+    "OPTION 3": "Payment for\nOvertime",
+    "OPTION 4": "All of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 140,
+    "QUESTIONS": "Standard Time of a job is 60 hours and guaranteed time rate is rs 90 per hour. What is the amount of wages under Rowan plan if job\nis completed in 48 hours?",
+    "OPTION 1": "rs 1620",
+    "OPTION 2": "rs 1728",
+    "OPTION 3": "rs 1800",
+    "OPTION 4": "rs 1440",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 141,
+    "QUESTIONS": "Standard Time of a job is 60 hours and guaranteed time rate is rs 90 per hour. What is the amount of wages under Halsey  plan if job\nis completed in 48 hours?",
+    "OPTION 1": "rs 1620",
+    "OPTION 2": "rs 1440",
+    "OPTION 3": "rs 180",
+    "OPTION 4": "rs 1728",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 142,
+    "QUESTIONS": "If Overtime is required for meeting urgent orders , the Overtime\npremium should be charged as -",
+    "OPTION 1": "Respective job",
+    "OPTION 2": "Over head Cost",
+    "OPTION 3": "Costing P& L a/c",
+    "OPTION 4": "None of above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 143,
+    "QUESTIONS": "Keeping a rocord of total time spent by the worker inside the\nfactory is called",
+    "OPTION 1": "Time keeping",
+    "OPTION 2": "Time Booking",
+    "OPTION 3": "Time Managing",
+    "OPTION 4": "Time Recording",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 144,
+    "QUESTIONS": "Wages attributable to Normal idle Time is treated as",
+    "OPTION 1": "Direct Wages",
+    "OPTION 2": "Producction OH",
+    "OPTION 3": "Either of the above",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 145,
+    "QUESTIONS": "In the context of Labour Turnover ,Number of Workers left and\ndischarged is called-",
+    "OPTION 1": "Accession",
+    "OPTION 2": "Replacement",
+    "OPTION 3": "new replacement",
+    "OPTION 4": "Separation",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 146,
+    "QUESTIONS": "(Hours worked X Rate per hour) is the computation of wages under",
+    "OPTION 1": "Incentive System",
+    "OPTION 2": "Piece rate System",
+    "OPTION 3": "Attendance System",
+    "OPTION 4": "Time rate System",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 147,
+    "QUESTIONS": "Under Halsey System ,generally Bonus is computed as\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\nx (Time Saved x Rate per hour)",
+    "OPTION 1": 0.3,
+    "OPTION 2": 0.5,
+    "OPTION 3": 0.7,
+    "OPTION 4": "Actual Hrs/Std. Hrs",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 148,
+    "QUESTIONS": "A worker will earn wages under Halsey and Rowan System , if\ntime Saved equals -",
+    "OPTION 1": "50% of Std Time",
+    "OPTION 2": "50% of Actual Time",
+    "OPTION 3": "1/2 of Total Time",
+    "OPTION 4": "1/2 of Lost time",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 149,
+    "QUESTIONS": "Labour Efficiency (based on time) is given by  the Formula",
+    "OPTION 1": "Std Time /Actual\nTime",
+    "OPTION 2": "Actual time /std\ntime",
+    "OPTION 3": "Idle Time/Std time",
+    "OPTION 4": "Idle Time /Actual\nTime",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 150,
+    "QUESTIONS": "If wages per day of 8 hours is rs 500, std outputis 100 units ,\nActual Output is 120 ,piece rate wages-",
+    "OPTION 1": "rs 500",
+    "OPTION 2": "rs 600",
+    "OPTION 3": "rs 62.5",
+    "OPTION 4": "rs 5",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 151,
+    "QUESTIONS": "If Std Time is 8 hours , Actual time is 6 hours ,rate per hour is Rs.\n100 , Rwan Wages =",
+    "OPTION 1": "Rs. 600",
+    "OPTION 2": "Rs. 150",
+    "OPTION 3": "Rs. 750",
+    "OPTION 4": "Rs. 700",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 152,
+    "QUESTIONS": "If Actual Output in 8 hours is 700 units , Standard Output is 90\nunits per hour , Efficiency Ratio is",
+    "OPTION 1": 0.9722,
+    "OPTION 2": 1.0286,
+    "OPTION 3": 1,
+    "OPTION 4": 0.7778,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 153,
+    "QUESTIONS": "Fixed over costs are not effected in monetary terms during a fiven period by a change  in Output. But this statement is valid provided",
+    "OPTION 1": "Increase in Output is not Substantial",
+    "OPTION 2": "Increase in Output is substantial",
+    "OPTION 3": "Both (a) and (b)",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 154,
+    "QUESTIONS": "Capacity is defined as actually utilised capacity of a plantt",
+    "OPTION 1": "theoretical",
+    "OPTION 2": "Installed",
+    "OPTION 3": "Practical",
+    "OPTION 4": "Idle",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 155,
+    "QUESTIONS": "Maximum Possible Productive Capacity of a plant when no\noperating time is lost is its :",
+    "OPTION 1": "Normal Capacity",
+    "OPTION 2": "Practical Capacity",
+    "OPTION 3": "Theoretical Capacity",
+    "OPTION 4": "Capacity based on\nSales Expectancy",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 156,
+    "QUESTIONS": "Charging of common Overheads cost to various cost centres, using\nappropriate bases is known as -",
+    "OPTION 1": "Allocation",
+    "OPTION 2": "Apportionment",
+    "OPTION 3": "Absorption",
+    "OPTION 4": "Re- Apportionment",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 157,
+    "QUESTIONS": "Distribution of service Department Overheads Cost to production Departments using different assumptions and methods is known as",
+    "OPTION 1": "Allocation",
+    "OPTION 2": "Apportionment",
+    "OPTION 3": "Absorption",
+    "OPTION 4": "Re- Apportionment",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 158,
+    "QUESTIONS": "packing Cost is part of",
+    "OPTION 1": "Production cost",
+    "OPTION 2": "Selling Cost",
+    "OPTION 3": "Distribution Cost",
+    "OPTION 4": "It may be any of the\nabove",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 159,
+    "QUESTIONS": "Which of the following is not treated as a Manufacturing Overhead\n?",
+    "OPTION 1": "Lubricants",
+    "OPTION 2": "Cotton Waste",
+    "OPTION 3": "apportioned administration overheads",
+    "OPTION 4": "Night Shift allowance paid to a factory Worker due to general work\npressure",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 160,
+    "QUESTIONS": "The difference between Actual Factory Overhead and Absorbed Factory Overhead will be usually at the minimum level , provided\npre-determined overhead rate is based on :",
+    "OPTION 1": "Maximum capacity",
+    "OPTION 2": "Direct Labour Hours",
+    "OPTION 3": "Machine Hours",
+    "OPTION 4": "Normal Capacity",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 161,
+    "QUESTIONS": "When Absorbed Overhead is Higher than the amount of Overhead\nincurred , it is called",
+    "OPTION 1": "Under absorption of\noverhead",
+    "OPTION 2": "Over absorption of\noverhead",
+    "OPTION 3": "Proper absorption of\noverhead",
+    "OPTION 4": "re - absorption of\noverhead",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 162,
+    "QUESTIONS": "Which of the following overhead cost may not be apportioned on\nthe basis of Direct Wages?",
+    "OPTION 1": "Worker's Holiday pay",
+    "OPTION 2": "Perquisites to\nworkers",
+    "OPTION 3": "ESI Contribution",
+    "OPTION 4": "Managerial Salaries",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 163,
+    "QUESTIONS": "The following is an example of direct expenses as per CAS-10:",
+    "OPTION 1": "Special raw material which is a substantial part of the prime cost",
+    "OPTION 2": "Travelling expenses to site.",
+    "OPTION 3": "Overtime charges paid to direct worker to complete work\nbefore time.",
+    "OPTION 4": "Catalogue of prices of finished products.",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 164,
+    "QUESTIONS": "CAS 21 stands for:",
+    "OPTION 1": "Capacity\nDetermination",
+    "OPTION 2": "Joint Cost",
+    "OPTION 3": "Direct Expenses",
+    "OPTION 4": "None of these",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 165,
+    "QUESTIONS": "Standard deals with the cost of service cost center is:",
+    "OPTION 1": "CAS-9",
+    "OPTION 2": "CAS-13",
+    "OPTION 3": "CAS-16",
+    "OPTION 4": "CAS-22",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 166,
+    "QUESTIONS": "Which standards deals with the principles and methods of\ndetermining depreciation and amortization cost?",
+    "OPTION 1": "CAS 9",
+    "OPTION 2": "CAS 12",
+    "OPTION 3": "CAS 15",
+    "OPTION 4": "CAS 16",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 167,
+    "QUESTIONS": "Which standards deals with determination of averages/ equalized\ntransportation cost?",
+    "OPTION 1": "CAS 5",
+    "OPTION 2": "CAS 6",
+    "OPTION 3": "CAS 9",
+    "OPTION 4": "CAS 22",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 168,
+    "QUESTIONS": "Which standard deals with the principles and methods of\ndetermining the manufacturing Cost of excisable goods?",
+    "OPTION 1": "CAS 2",
+    "OPTION 2": "CAS 12",
+    "OPTION 3": "CAS 15",
+    "OPTION 4": "CAS 22",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 169,
+    "QUESTIONS": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0deals with the principles and methods of determining the\nproduction or operation overheads.",
+    "OPTION 1": "CAS-3",
+    "OPTION 2": "CAS-5",
+    "OPTION 3": "CAS-9",
+    "OPTION 4": "CAS-16",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 170,
+    "QUESTIONS": "CAS 13 stands for:",
+    "OPTION 1": "Joint Cost",
+    "OPTION 2": "Interest and\nfinancing charges",
+    "OPTION 3": "Employee Cost",
+    "OPTION 4": "Cost of Service cost\ncentre",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 171,
+    "QUESTIONS": "Which of the following items is not included in preparation of cost\nsheet?",
+    "OPTION 1": "Carriage inward",
+    "OPTION 2": "Purchase returns",
+    "OPTION 3": "Sales Commission",
+    "OPTION 4": "Interest paid",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 172,
+    "QUESTIONS": "Which of the following items is not excluded while preparing a\ncost sheet?",
+    "OPTION 1": "Goodwill written off",
+    "OPTION 2": "Provision for\ntaxation",
+    "OPTION 3": "Property tax on\nFactory building",
+    "OPTION 4": "Transfer to reserves",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 173,
+    "QUESTIONS": "Which of the following are direct expenses?(1) The cost of special designs, drawings or layouts,(2) The hire of tools or equipment for a particular job,(3) Salesman\u2019s wages,(4) Rent, rates and insurance\nof a factory",
+    "OPTION 1": "(1) and (2)",
+    "OPTION 2": "(1) and (3)",
+    "OPTION 3": "(1) and (4)",
+    "OPTION 4": "(3) and (4)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 174,
+    "QUESTIONS": "What is prime cost ?",
+    "OPTION 1": "Total direct cost only",
+    "OPTION 2": "Total indirect costs\nonly",
+    "OPTION 3": "Total non-production\ncosts",
+    "OPTION 4": "Total production\ncosts",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 175,
+    "QUESTIONS": "Which of the following is not an element of works overhead?",
+    "OPTION 1": "Sales manager\u2019s\nsalary",
+    "OPTION 2": "Plant manager\u2019s\nsalary",
+    "OPTION 3": "Factory repairman\u2019s\nwages",
+    "OPTION 4": "Product inspector\u2019s\nsalary",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 176,
+    "QUESTIONS": "For the purpose of Cost Sheet preparation , costs are classified\nbased on:",
+    "OPTION 1": "Functions",
+    "OPTION 2": "Relevance",
+    "OPTION 3": "Variability",
+    "OPTION 4": "Nature",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 177,
+    "QUESTIONS": "Salary paid to an office supervisor is a part of:",
+    "OPTION 1": "Direct expenses",
+    "OPTION 2": "Administration cost",
+    "OPTION 3": "Quality control cost",
+    "OPTION 4": "Factory overheads",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 178,
+    "QUESTIONS": "Audit fees paid to cost auditors is part of",
+    "OPTION 1": "Selling and\ndistribution cost",
+    "OPTION 2": "Production cost",
+    "OPTION 3": "Administration cost",
+    "OPTION 4": "Not recorded in the\ncost sheet",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 179,
+    "QUESTIONS": "A company has set up a laboratory for testing of products for compliance with standards. Salary of this laboratory stuffs are part\nof:",
+    "OPTION 1": "Direct expenses",
+    "OPTION 2": "Quality control cost",
+    "OPTION 3": "Works overheads",
+    "OPTION 4": "Research and development cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 180,
+    "QUESTIONS": "Canteen expenses for factory workers are part of:",
+    "OPTION 1": "Administration cost",
+    "OPTION 2": "Factory overhead",
+    "OPTION 3": "Marketing cost",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 181,
+    "QUESTIONS": "Which of the following does not form part of prime cost?",
+    "OPTION 1": "GST paid on raw materials (input credit can be claimed)",
+    "OPTION 2": "Cost of transportation paid to bring materials to\nfactory",
+    "OPTION 3": "Cost of packing",
+    "OPTION 4": "Overtime premium paid to workers",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 182,
+    "QUESTIONS": "A company pays royalty to State Government on the basis of\nproduction, it is treated as:",
+    "OPTION 1": "Direct expenses",
+    "OPTION 2": "Factory overheads",
+    "OPTION 3": "Direct Material Cost",
+    "OPTION 4": "Administration Cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 183,
+    "QUESTIONS": "In Reconciliation Statements, expenses shown only in financial\naccounts are:",
+    "OPTION 1": "Added to financial\nprofit",
+    "OPTION 2": "Deducted from\nfinancial profit",
+    "OPTION 3": "Ignored",
+    "OPTION 4": "Added to costing\nprofit",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 184,
+    "QUESTIONS": "In Reconciliation Statement, expenses shown only in cost accounts\nare:",
+    "OPTION 1": "Added to financial\nprofit",
+    "OPTION 2": "Deducted from\nfinancial profit",
+    "OPTION 3": "Ignored",
+    "OPTION 4": "Deducted from\ncosting profit",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 185,
+    "QUESTIONS": "In Reconciliation Statement, transfers to reserves are:",
+    "OPTION 1": "Added to financial\nprofit",
+    "OPTION 2": "Deducted from\nfinancial profit",
+    "OPTION 3": "Ignored",
+    "OPTION 4": "Added to costing\nprofit",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 186,
+    "QUESTIONS": "In Reconciliation Statement, incomes shown only in financial\naccounts are:",
+    "OPTION 1": "Added to financial\nprofit",
+    "OPTION 2": "Deducted from\nfinancial profit",
+    "OPTION 3": "Ignored",
+    "OPTION 4": "Deducted from\ncosting profit",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 187,
+    "QUESTIONS": "In Reconciliation Statement, Closing Stock undervalued in\nFinancial Accounts is",
+    "OPTION 1": "Added to financial\nprofit",
+    "OPTION 2": "Deducted from\nfinancial profit",
+    "OPTION 3": "Ignored",
+    "OPTION 4": "Added to costing\nprofit",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 188,
+    "QUESTIONS": "Under non-integrated accounting system:",
+    "OPTION 1": "Separate ledgers are maintained for cost and financial accounts",
+    "OPTION 2": "Same ledger is maintained for cost and financial accounts by\naccountants",
+    "OPTION 3": "(A) and (B) both",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 189,
+    "QUESTIONS": "Under non-integrated system of accounting, purchase of raw material is debited to:",
+    "OPTION 1": "Purchase account",
+    "OPTION 2": "Material control account / stores ledger control\naccount",
+    "OPTION 3": "General ledger adjustment account",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 190,
+    "QUESTIONS": "When costing loss is Rs. 5,600, administrative overhead under-absorbed being Rs. 600, the loss as per financial accounts should\nbe \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "Rs.5000",
+    "OPTION 2": "Rs.5600",
+    "OPTION 3": "Rs.6200",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 191,
+    "QUESTIONS": "Which of the following items should be added to costing profit to\narrive at financial profit?",
+    "OPTION 1": "Income tax paid",
+    "OPTION 2": "Over absorption of\nworks overhead",
+    "OPTION 3": "Interest paid on\ndebentures",
+    "OPTION 4": "All of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 192,
+    "QUESTIONS": "Integral accounts eliminate the necessity of operating",
+    "OPTION 1": "Cost Ledger control\naccoun",
+    "OPTION 2": "Store Ledger control\naccount",
+    "OPTION 3": "Overhead adjustment\naccount",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 193,
+    "QUESTIONS": "Under Non- integrated accounting system, the amount made to\ncomplete double entry is :",
+    "OPTION 1": "Finished goods control\naccount",
+    "OPTION 2": "Work in progress\ncontrol account",
+    "OPTION 3": "stores ledger control\naccounts",
+    "OPTION 4": "General ledger\nadjustment account",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 194,
+    "QUESTIONS": "Under the Non- Integrated Accounting System -",
+    "OPTION 1": "Same ledger is maintained for Cost and financial Accounts by Accountants",
+    "OPTION 2": "Separate ledgers are maintained for Cost and Financial Accounts",
+    "OPTION 3": "All transactions relating to incomes , Expenditures , Assets and Liabilities are completely recorderd",
+    "OPTION 4": "Product-wise or department wise information is not maintained",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 195,
+    "QUESTIONS": "Notional Costs -",
+    "OPTION 1": "May be included in Integrated Accounts",
+    "OPTION 2": "may be Included in Non - Integrated accounts",
+    "OPTION 3": "Cannot Be included in Non-intergrated Accounts",
+    "OPTION 4": "are not accounted at all in Ingrated or Non- integrated\nAccounts",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 196,
+    "QUESTIONS": "Which account is to be debited if materials worth rs 500 are\nreturned to vendor under Non -Ingrated Accounts",
+    "OPTION 1": "Cost Ledger control\naccount",
+    "OPTION 2": "finished goods\ncontrol Account",
+    "OPTION 3": "WIP Control Account",
+    "OPTION 4": "General ledger\nadjustment account",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 197,
+    "QUESTIONS": "What is the journal Entry under Integrated System for recording Sales made?",
+    "OPTION 1": "No entry",
+    "OPTION 2": "Dr sales , Cr General Ledger\nAdjustment",
+    "OPTION 3": "Dr. cash or bank Cr. Sales",
+    "OPTION 4": "Dr. General Ledger Adjsutment , Cr\n.sales",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 198,
+    "QUESTIONS": "Which of the following items is most likely to be included in Cost\nAccounts ?",
+    "OPTION 1": "Notional Rent",
+    "OPTION 2": "Donations",
+    "OPTION 3": "\u00a9 Transfer to General\nReserve",
+    "OPTION 4": "Rent Receivable",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 199,
+    "QUESTIONS": "Job costing is used in:",
+    "OPTION 1": "Furniture making",
+    "OPTION 2": "Repair shops",
+    "OPTION 3": "Printing press",
+    "OPTION 4": "All of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 200,
+    "QUESTIONS": "In a job cost system, costs are accumulated \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "On a monthly basis",
+    "OPTION 2": "By specific job",
+    "OPTION 3": "By department or\nprocess",
+    "OPTION 4": "By kind of material\nused",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 201,
+    "QUESTIONS": "The most suitable cost system where the products differ in type of\nmaterial and work performed is:",
+    "OPTION 1": "Operating Costing",
+    "OPTION 2": "Job costing",
+    "OPTION 3": "Process costing",
+    "OPTION 4": "All of these.",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 202,
+    "QUESTIONS": "Cost Price is not fixed in case of:",
+    "OPTION 1": "Cost plus contracts",
+    "OPTION 2": "Escalation clause",
+    "OPTION 3": "De escalation clause",
+    "OPTION 4": "All of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 203,
+    "QUESTIONS": "Most of the expenses are direct in:",
+    "OPTION 1": "Job costing",
+    "OPTION 2": "Batch costing",
+    "OPTION 3": "Contact costing",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 204,
+    "QUESTIONS": "Cost plus contract is usually entered into those cases where\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "Cost can be easily estimated",
+    "OPTION 2": "Cost of certified and uncertified work",
+    "OPTION 3": "Cost of certified work, cost of uncertified work and amount of profit transferred to Profit\nand Loss Account",
+    "OPTION 4": "Determination of contract cost with reasonable accuracy is not possible",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 205,
+    "QUESTIONS": "In order to determine cost of the products or services, different\nbusiness firms follow:",
+    "OPTION 1": "Different techniques\nof costing",
+    "OPTION 2": "Uniform costing",
+    "OPTION 3": "Different methods of\ncosting",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 206,
+    "QUESTIONS": "In case product produced or jobs undertaken are of diverse system,\nthe system of costing to be used should be:",
+    "OPTION 1": "Operating Costing",
+    "OPTION 2": "Process Costing",
+    "OPTION 3": "Job Costing",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 207,
+    "QUESTIONS": "Job Costing is:",
+    "OPTION 1": "Suitable where similar products are produced on mass scale",
+    "OPTION 2": "Methods of costing used for non-standard and non-repetitive products",
+    "OPTION 3": "Technique of costing",
+    "OPTION 4": "Applicable to all industries regardless of the products or services provided",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 208,
+    "QUESTIONS": "Batch costing is a type of:",
+    "OPTION 1": "Direct Costing",
+    "OPTION 2": "Process Costing",
+    "OPTION 3": "job Costing",
+    "OPTION 4": "Differential Costing",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 209,
+    "QUESTIONS": "Batch costing is similar to that under job costing except with the difference that:",
+    "OPTION 1": "Process becomes a cost unit",
+    "OPTION 2": "Job becomes a cost unit",
+    "OPTION 3": "Batch become the cost unit instead of a\njob",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 210,
+    "QUESTIONS": "Economic batch quantity is that size of the batch of production where:",
+    "OPTION 1": "Carrying cost is minimum",
+    "OPTION 2": "Set-up cost of machine is\nminimum",
+    "OPTION 3": "Average cost is minimum",
+    "OPTION 4": "Both A. and B",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 211,
+    "QUESTIONS": "Which of the following documents are used in job costing to record\nthe issue of direct materials to a job?",
+    "OPTION 1": "Purchase order",
+    "OPTION 2": "Purchase requisition",
+    "OPTION 3": "Goods received note",
+    "OPTION 4": "Material requisition",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 212,
+    "QUESTIONS": "Which of the following statements is true?",
+    "OPTION 1": "Batch costing is a variant of jobs costing",
+    "OPTION 2": "Job cost sheet may be used for estimating profit of jobs",
+    "OPTION 3": "Job costing cannot be used in conjunction with marginal costing",
+    "OPTION 4": "In cost plus contracts, the contractor runs a risk of incurring a loss",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 213,
+    "QUESTIONS": "Which of the statement is true?",
+    "OPTION 1": "Job costing can be suitably used for concerns producing any specific product\nuniformly",
+    "OPTION 2": "Job costing cannot be used in companies applying standard costing",
+    "OPTION 3": "Job cost sheet may be prepared to facilitate routing and scheduling of the job",
+    "OPTION 4": "Neither A, nor B, nor C",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 214,
+    "QUESTIONS": "The type of process loss that should not be allowed to affect the\ncost of good units is called:",
+    "OPTION 1": "Standard Loss",
+    "OPTION 2": "Normal Loss",
+    "OPTION 3": "Abnormal Loss",
+    "OPTION 4": "Seasonal Loss",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 215,
+    "QUESTIONS": "Spoilage that occurs under inefficient operating conditions and is\ngenerally controllable is called \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "Normal defectives",
+    "OPTION 2": "Abnormal spoilage",
+    "OPTION 3": "Normal spoilage",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 216,
+    "QUESTIONS": "In which of the following situations an abnormal gain in a process occurs:",
+    "OPTION 1": "When normal loss is equal to actual loss",
+    "OPTION 2": "When the actual output is greater than the planned\noutput",
+    "OPTION 3": "When actual loss is more than the expected",
+    "OPTION 4": "When actual loss is less than the expected loss",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 217,
+    "QUESTIONS": "The value of abnormal loss is equal to :",
+    "OPTION 1": "Total cost of materials",
+    "OPTION 2": "Total process cost less cost of scrap",
+    "OPTION 3": "Total process cost less realisable value of normal loss less value of transferred\nout goods",
+    "OPTION 4": "Total process cost less realisable value of normal loss",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 218,
+    "QUESTIONS": "A process account is debited by abnormal gain, the value is determined as:",
+    "OPTION 1": "Equal to the value of good units less closing\nstock",
+    "OPTION 2": "Equal to the value of normal loss",
+    "OPTION 3": "Cost of good units less realisable value\nof normal loss",
+    "OPTION 4": "Cost of good unit less realisable value\nof actual loss",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 219,
+    "QUESTIONS": "In sugar manufacturing industry molasses is also produced along\nwith sugar. Molasses may be of small value as compared with the value of sugar and is known as:",
+    "OPTION 1": "Joint product",
+    "OPTION 2": "Common product",
+    "OPTION 3": "By-product",
+    "OPTION 4": "None of them",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 220,
+    "QUESTIONS": "Method of apportioning joint costs on the basis of output of each\njoint product at the point of split-offs is known as:",
+    "OPTION 1": "Physical unit method",
+    "OPTION 2": "Sales value method",
+    "OPTION 3": "Average cost method",
+    "OPTION 4": "Marginal cost and\ncontribution method",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 221,
+    "QUESTIONS": "The main purposes of accounting of joint products and by-products is to:",
+    "OPTION 1": "Determine the replacement cost",
+    "OPTION 2": "Determine the opportunity cost",
+    "OPTION 3": "Determine profit or loss on each product\nline",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 222,
+    "QUESTIONS": "Under net realisable value method of apportioning joint costs to joint products, the selling & distribution cost is:",
+    "OPTION 1": "Ignored",
+    "OPTION 2": "Deducted from sales value",
+    "OPTION 3": "Deducted from further processing\ncost",
+    "OPTION 4": "Added to joint cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 223,
+    "QUESTIONS": "Which of the following is an example of by-product:",
+    "OPTION 1": "Mustard seeds and\nmustard oil",
+    "OPTION 2": "Diesel and Petrol in\nan oil refinery",
+    "OPTION 3": "Edible oils and oil\ncakes",
+    "OPTION 4": "Curd and butter in a\ndiary",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 224,
+    "QUESTIONS": "Which of following methods can be used when the joint products are of unequal quantity and used for captive consumption:",
+    "OPTION 1": "Physical units method",
+    "OPTION 2": "Net realisable value method",
+    "OPTION 3": "Technical estimates, using market value of\nsimilar goods",
+    "OPTION 4": "Market value at spit-off method",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 225,
+    "QUESTIONS": "Cost of a particular service under operating costing is ascertained\nby preparing:",
+    "OPTION 1": "Cost sheet",
+    "OPTION 2": "Process account",
+    "OPTION 3": "Job cost sheet",
+    "OPTION 4": "Production account",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 226,
+    "QUESTIONS": "Operating costing is applicable to:",
+    "OPTION 1": "Hospitals",
+    "OPTION 2": "Cinemas",
+    "OPTION 3": "Transport\nundertaking",
+    "OPTION 4": "All of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 227,
+    "QUESTIONS": "Composite cost unit for a hospital is:",
+    "OPTION 1": "Per day",
+    "OPTION 2": "Per bed",
+    "OPTION 3": "Per patient day",
+    "OPTION 4": "Per patient",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 228,
+    "QUESTIONS": "Cost units used in power sector is called:",
+    "OPTION 1": "Number of hours",
+    "OPTION 2": "Number of electric\npoints",
+    "OPTION 3": "Kilowatt-hour\n(KWH)",
+    "OPTION 4": "Kilo meter (K.M.)",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 229,
+    "QUESTIONS": "Absolute Tonne-Km is an example of:",
+    "OPTION 1": "Composite unit for\nbus operation",
+    "OPTION 2": "Composite unit of\ntransport sector",
+    "OPTION 3": "Composite unit for oil\nand natural gas",
+    "OPTION 4": "Composite unit in\npower sector",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 230,
+    "QUESTIONS": "In process costing, a joint product is",
+    "OPTION 1": "a product which is later divided into many parts",
+    "OPTION 2": "a product which is produced simultaneously with other products and is of similar value to at least one of the\nother products.",
+    "OPTION 3": "A product which is produced simultaneously with other products but which is of a greater value than any of the\nother products.",
+    "OPTION 4": "a product produced jointly with another organization",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 231,
+    "QUESTIONS": "Process B had no opening inventory. 13,500 units of raw material were transferred in at Rs. 4.50 per unit. Additional material at Rs.1.25per unit was added in process. Labour and overheads were Rs. 6.25 per completed unit and Rs. 2.50 per unit incomplete.\nIf 11,750 completed units were transferred out, what was the closing inventory in Process B?",
+    "OPTION 1": "Rs. 6562.50",
+    "OPTION 2": "Rs. 12,250.00",
+    "OPTION 3": "Rs. 14,437.50",
+    "OPTION 4": "Rs. 25,375.00",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 232,
+    "QUESTIONS": "A process costing system for J Co used an input of 3,500Kg of materials at Rs.20 per Kg and labour hours of 2,750 at Rs.25 per hour. Normal loss is 20% and losses can be sold at a scrap value of Rs.5per Kg. Output was 2,950 Kg. What is the value of the output?",
+    "OPTION 1": "Rs. 142,485",
+    "OPTION 2": "Rs. 146,183",
+    "OPTION 3": "Rs. 149,746",
+    "OPTION 4": "Rs. 152,986",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 233,
+    "QUESTIONS": "In process costing, if an abnormal loss arises, the process account is generally",
+    "OPTION 1": "Debited with the scrap value of the abnormal loss units",
+    "OPTION 2": "Debited with the full production cost of the abnormal loss\nunits",
+    "OPTION 3": "Credited with the scrap value of the abnormal loss units",
+    "OPTION 4": "Credited with the full production cost of the abnormal loss\nunits",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 234,
+    "QUESTIONS": "Which of the following statements is/are correct?\n1.  A materials requisition note is used to record the issue of direct material to a specific job.\n2.  A typical job cost will contain actual costs for material, labour and production overheads, and non \u2013production overheads are often added as a percentage of total production cost\n3.  The job costing method can be applied in costing batches",
+    "OPTION 1": "(1) only",
+    "OPTION 2": "(1) and (2) only",
+    "OPTION 3": "(1) and (3) only",
+    "OPTION 4": "(2) and (3) only",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 235,
+    "QUESTIONS": "A job is budgeted to require 3,300 productive hours after incurring 25%  idle time. If the total labour cost budgeted for the job is Rs.36,300. What is the labour cost per hour( to the nearest cent)?",
+    "OPTION 1": "Rs. 8.25",
+    "OPTION 2": "Rs. 8.80",
+    "OPTION 3": "Rs. 11.00",
+    "OPTION 4": "Rs. 14.67",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 236,
+    "QUESTIONS": "A company calculates the prices of jobs by adding overheads to the prime cost and adding 30% to total costs as a profit margin. Job number Y256 was sold for Rs.1690 and incurred overheads of Rs.\n694. What was the prime cost of the job?",
+    "OPTION 1": "Rs. 489",
+    "OPTION 2": "Rs. 606",
+    "OPTION 3": "Rs. 996",
+    "OPTION 4": "Rs. 1300",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 237,
+    "QUESTIONS": "State which of the following are the characteristics of service costing?\n1.  High levels of indirect costs as a proportion of total costs\n2.  Use of composite cost units\n3.  Use of equivalent units",
+    "OPTION 1": "(1) only",
+    "OPTION 2": "(1) and (2) only",
+    "OPTION 3": "(2) only",
+    "OPTION 4": "(2) and (3) only",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 238,
+    "QUESTIONS": "Which of the following organisations should not be advised to use service costing?",
+    "OPTION 1": "Distribution service",
+    "OPTION 2": "Hospital",
+    "OPTION 3": "Maintenance division of a manufacturing company",
+    "OPTION 4": "A light engineering company",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 239,
+    "QUESTIONS": "In case of joint products, the main objective of accounting of the cost is to apportion the joint costs incurred up to the split off point. For cost apportionment one company has chosen Physical Quantity Method. Three joint products \u2018A\u2019, \u2018B\u2019 and \u2018C\u2019 are produced in the same process. Up to the point of split off the total production of A, B and C is 60,000 kg, out of which \u2018A\u2019 produces 30,000 kg and joint costs are Rs. 3,60,000. Joint costs allocated to product A is:",
+    "OPTION 1": "Rs. 1,20,000",
+    "OPTION 2": "Rs. 60,000",
+    "OPTION 3": "Rs. 1,80,000",
+    "OPTION 4": "None of the these",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 240,
+    "QUESTIONS": "A transport company is running five buses between two towns, which are 50 kms apart.  Seating capacity of each bus is 50 passengers. Actually passengers carried by each bus were 75% of seating capacity. All buses ran on all days of the month. Each bus made one round trip per day.\nPassenger kms are:",
+    "OPTION 1": "2,81,250",
+    "OPTION 2": "1,87,500",
+    "OPTION 3": "5,62,500",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 241,
+    "QUESTIONS": "The cost of a product under marginal costing system includes:",
+    "OPTION 1": "Prime cost plus\nvariable overhead",
+    "OPTION 2": "Prime cost plus\nfixed overhead",
+    "OPTION 3": "Prime cost plus\nfactory overhead",
+    "OPTION 4": "Only prime cost",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 242,
+    "QUESTIONS": "The difference between absorption costing and marginal costing is\nin regard to the treatment of:",
+    "OPTION 1": "Direct materials",
+    "OPTION 2": "Fixed overhead",
+    "OPTION 3": "Prime cost",
+    "OPTION 4": "Variable overhead",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 243,
+    "QUESTIONS": "Fixed costs are treated as :",
+    "OPTION 1": "Overhead costs",
+    "OPTION 2": "Prime costs",
+    "OPTION 3": "Period costs",
+    "OPTION 4": "Conversion costs",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 244,
+    "QUESTIONS": "When sales and production (in units) are same then profits under :",
+    "OPTION 1": "Marginal costing is lower than that of\nabsorption costing",
+    "OPTION 2": "Marginal costing is higher than that of\nabsorption costing",
+    "OPTION 3": "Marginal costing is equal to that of\nabsorption costing",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 245,
+    "QUESTIONS": "When sales exceeds production (in units) then profit under:",
+    "OPTION 1": "Marginal costing is higher than that of\nabsorption costing",
+    "OPTION 2": "Marginal costing is equal to that of\nabsorption costing",
+    "OPTION 3": "Marginal costing is lower than that of\nabsorption costing",
+    "OPTION 4": "None of the above",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 246,
+    "QUESTIONS": "which of the following factors responsible for change in the break\neven point?",
+    "OPTION 1": "change in selling price",
+    "OPTION 2": "change in variable\ncost",
+    "OPTION 3": "change in fixed cost",
+    "OPTION 4": "all of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 247,
+    "QUESTIONS": "Variable cost -",
+    "OPTION 1": "Remains fixed in total",
+    "OPTION 2": "Remains fixed per\nunit",
+    "OPTION 3": "Varies per unit",
+    "OPTION 4": "Nor increase or\ndecrease",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 248,
+    "QUESTIONS": "Marginal Costing technique follows the following basic of\nclassification:",
+    "OPTION 1": "Element wise",
+    "OPTION 2": "Function Wise",
+    "OPTION 3": "Behaviour wise",
+    "OPTION 4": "Identifiability wise",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 249,
+    "QUESTIONS": "P/V ratio will increase if the:",
+    "OPTION 1": "There is a decrease in fixed cost",
+    "OPTION 2": "There is an increase in fixed cost",
+    "OPTION 3": "There is a decrease in selling price per unit.",
+    "OPTION 4": "There is a decrease in variable cost per\nunit.",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 250,
+    "QUESTIONS": "The technique of differential cost is adopted when:",
+    "OPTION 1": "To ascertain P/V ratio",
+    "OPTION 2": "To ascertain marginal cost",
+    "OPTION 3": "To ascertain cost per unit",
+    "OPTION 4": "To make choice between two or more alternative courses of\naction",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 251,
+    "QUESTIONS": "Which of the following would not be used to estimate standard direct material prices?",
+    "OPTION 1": "The availability of bulk purchase\ndiscounts",
+    "OPTION 2": "Purchase contracts already agreed",
+    "OPTION 3": "The forecast movement of prices\nin the market",
+    "OPTION 4": "Performance standards in\noperation",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 252,
+    "QUESTIONS": "What is an attainable standard?",
+    "OPTION 1": "A standard which includes no allowance for losses, waste and inefficiencies. It represents the level of performance which is attainable under perfect operating conditions",
+    "OPTION 2": "A standard which includes some allowance for losses, waste and inefficiencies. It represents the level of performance which is attainable under efficient operating conditions",
+    "OPTION 3": "A standard which is based on currently attainable operating conditions",
+    "OPTION 4": "A standard which is kept unchanged, to show the trend in costs",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 253,
+    "QUESTIONS": "Budgets are shown in-Terms:",
+    "OPTION 1": "Qualitative",
+    "OPTION 2": "Quantitative",
+    "OPTION 3": "Materialistic",
+    "OPTION 4": "both (b) and (c)",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 254,
+    "QUESTIONS": "Which of the following is not an element of master budget?",
+    "OPTION 1": "Capital Expenditure\nBudget",
+    "OPTION 2": "Production Schedule",
+    "OPTION 3": "Operating Expenses\nBudget",
+    "OPTION 4": "All above the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 255,
+    "QUESTIONS": "Which of the following is not a potential benefit of using a budget?",
+    "OPTION 1": "Enhanced coordination of firm\nactivities",
+    "OPTION 2": "More motivated managers",
+    "OPTION 3": "Improved inter-departmental\ncommunication",
+    "OPTION 4": "More accurate external financial\nstatements",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 256,
+    "QUESTIONS": "Which of the following is a long-term budget?",
+    "OPTION 1": "Master Budget",
+    "OPTION 2": "Flexible Budget",
+    "OPTION 3": "Cash Budget",
+    "OPTION 4": "Capital Budget",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 257,
+    "QUESTIONS": "Materials become key factor, if",
+    "OPTION 1": "quota restrictions exist",
+    "OPTION 2": "insufficient advertisement\nprevails",
+    "OPTION 3": "there is low demand",
+    "OPTION 4": "there is no problem with supplies of\nmaterials",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 258,
+    "QUESTIONS": "The difference between fixed cost and variable cost assumes\nsignificance in the preparation of the following budget:",
+    "OPTION 1": "Master Budget",
+    "OPTION 2": "Flexible Budget",
+    "OPTION 3": "Cash Budget",
+    "OPTION 4": "Capital Budget",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 259,
+    "QUESTIONS": "The budget that is prepared first of all is \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "Master budget",
+    "OPTION 2": "Sales budget assuming that it is\nthe key factor",
+    "OPTION 3": "Cash Budget",
+    "OPTION 4": "Capital expenditure budget",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 260,
+    "QUESTIONS": "Sales budget is a \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "expenditure budget",
+    "OPTION 2": "functional budget",
+    "OPTION 3": "master budget",
+    "OPTION 4": "None of these",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 261,
+    "QUESTIONS": "When a company wants to prepare a factory overhead budget in which the estimated costs are directly derived from the estimates of activity levels, which of the following budget should be prepared\nby the company?",
+    "OPTION 1": "Flexible budget",
+    "OPTION 2": "Fixed budget",
+    "OPTION 3": "Master budget",
+    "OPTION 4": "R & D budget",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 262,
+    "QUESTIONS": "Which of the following budgets facilitates classification of fixed\nand variable costs:",
+    "OPTION 1": "Capital expenditure\nbudget",
+    "OPTION 2": "Flexible budget",
+    "OPTION 3": "Cash budget",
+    "OPTION 4": "Raw materials\nbudget",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 263,
+    "QUESTIONS": "The entire budget organisation is controlled and headed by a senior\nexecutive known as:",
+    "OPTION 1": "General Manager",
+    "OPTION 2": "Accountant",
+    "OPTION 3": "Budget Controller",
+    "OPTION 4": "None of the above",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 264,
+    "QUESTIONS": "A flexible budget requires a careful study of",
+    "OPTION 1": "Fixed, semi-fixed and variable expenses",
+    "OPTION 2": "Past and current expenses",
+    "OPTION 3": "Overheads, selling\nand administrative expenses",
+    "OPTION 4": "None of these.",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 265,
+    "QUESTIONS": "The basic difference between a fixed budget and flexible budget is that a fixed budget   \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
+    "OPTION 1": "is concerned with a single level of activity, while flexible budget is prepared for different levels of\nactivity",
+    "OPTION 2": "Is concerned with fixed costs, while flexible budget is concerned with variable costs",
+    "OPTION 3": "is fixed while flexible budget changes",
+    "OPTION 4": "None of these",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 266,
+    "QUESTIONS": "Which of the following is not a reason for an idle time variance?",
+    "OPTION 1": "Wage rate increase",
+    "OPTION 2": "Machine breakdown",
+    "OPTION 3": "Illness or injury to\nworker",
+    "OPTION 4": "Non- availability of\nmaterial",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 267,
+    "QUESTIONS": "During September, 300 labour hours were worked for a total cost of Rs. 4800. The variable overhead expenditure variance was Rs. 600 (A).  Overheads are assumed to be related to direct labour hours of active working.\nWhat was the standard cost per labour hour?",
+    "OPTION 1": "Rs. 14",
+    "OPTION 2": "Rs. 16.50",
+    "OPTION 3": "Rs. 17.50",
+    "OPTION 4": "Rs. 18",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 268,
+    "QUESTIONS": "Which of the following would explain an adverse variable production overhead efficiency variance?\n1.  Employees were of a lower skill level than specified in the standard\n2.  Unexpected idle time resulted from a series of machine breakdown\n3.  Poor Quality material was difficult to process",
+    "OPTION 1": "(1), (2) and (3)",
+    "OPTION 2": "(1) and (2)",
+    "OPTION 3": "(2) and (3)",
+    "OPTION 4": "(1) and (3)",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 269,
+    "QUESTIONS": "Budgeted sales of X for March are 18000 units. At the end of the production process for X, 10% of production units are scrapped as defective. Opening inventories of X for March are budgeted to be 15000 units and closing inventories will be 11,400 units. All inventories of finished goods must have successfully passed the quality control check. The production budget for X for March, in\nunits is:",
+    "OPTION 1": 12960,
+    "OPTION 2": 14400,
+    "OPTION 3": 15840,
+    "OPTION 4": 16000,
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 270,
+    "QUESTIONS": "CG Co manufactures a single product T. Budgeted production output of product T during June is\n200 units.  Each unit of product T requires 6 labour hours for completion and CG Co anticipates 20 per cent idle time. Labour is paid at a rate of Rs.7 per hour. The direct labour cost budget for March is",
+    "OPTION 1": "Rs. 6,720",
+    "OPTION 2": "Rs. 8,400",
+    "OPTION 3": "Rs. 10,080",
+    "OPTION 4": "Rs. 10,500",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 271,
+    "QUESTIONS": "A Local Authority is preparing cash Budget for its refuse disposal department. Which of the following items would not be included in the cash budget?",
+    "OPTION 1": "Capital cost of a new collection vehicle",
+    "OPTION 2": "Depreciation of the machinery",
+    "OPTION 3": "Operatives wages",
+    "OPTION 4": "Fuel for the collection Vehicles",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 272,
+    "QUESTIONS": "The actual output of 162,500 units and actual fixed costs of Rs. 87000 were exactly as budgeted. However, the actual expenditure of Rs. 300,000 was Rs. 18,000 over budget.\nWhat was the budget variable cost per unit?",
+    "OPTION 1": "Rs. 1.20",
+    "OPTION 2": "Rs. 1.31",
+    "OPTION 3": "Rs.1.42",
+    "OPTION 4": "Rs. 1.50",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 273,
+    "QUESTIONS": "A ltd is a manufacturing company that has no production resource limitations for the foreseeable future. The Managing Director has asked the company mangers to coordinate the preparation of their budgets for the next financial year. In what order should the following budgets be prepared?\n1)  Sales budget\n(2)  Cash budget\n(3)  Production budget\n(4)  Purchase budget\n(5)  Finished goods inventory budget",
+    "OPTION 1": "(2), (3), (4), (5), (1)",
+    "OPTION 2": "(1), (5), (3), (4), (2)",
+    "OPTION 3": "(1), (4), (5), (3), (2)",
+    "OPTION 4": "(4), (5), (3), (1), (2)",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 274,
+    "QUESTIONS": "S produces and sells one product, P, for which the data are as follows: Selling price Rs. 28\nVariable cost           Rs. 16\nFixed cost               Rs. 4\nThe fixed costs are based on a budgeted production and sales level of 25,000 units for the next period.\nDue to market changes both the selling price and the variable cost are expected to increase above the budgeted level in the next period.\nIf the selling price and variable cost per unit increase by 10% and 8% respectively, by how much must sales  volume  change, compared with  the  original  budgeted level,  in  order  to  achieve the  original budgeted profit for the period?",
+    "OPTION 1": "10.1% decrease",
+    "OPTION 2": "11.2% decrease",
+    "OPTION 3": "13.3% decrease",
+    "OPTION 4": "16.0% decrease",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 275,
+    "QUESTIONS": "A company makes a single product and incurs fixed costs of Rs. 30,000 per annum.  Variable cost per unit is Rs. 5 and each unit sells for Rs. 15.  Annual sales demand is 7,000 units. The\nbreakeven point is :",
+    "OPTION 1": "2,000 units",
+    "OPTION 2": "3,000 units",
+    "OPTION 3": "4,000 units",
+    "OPTION 4": "6,000 units",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 276,
+    "QUESTIONS": "A company manufactures a single product for which cost and selling price data are as follows: Selling price per unit - Rs. 12 Variable cost per unit - Rs. 8\nFixed cost for a period - Rs. 98,000 Budgeted sales for a period - 30,000 units\nThe margin of safety, expressed as a percentage of budgeted sales,is:",
+    "OPTION 1": 0.2,
+    "OPTION 2": 0.25,
+    "OPTION 3": 0.72,
+    "OPTION 4": 1.25,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 277,
+    "QUESTIONS": "A company's break even point is 6,000 units per annum.  The\nselling price is Rs. 90 per unit and the variable cost is Rs. 40 per unit. What are the company's annual fixed costs?",
+    "OPTION 1": "Rs. 120",
+    "OPTION 2": "Rs. 2,40,000",
+    "OPTION 3": "Rs. 3,00,000",
+    "OPTION 4": "Rs. 5,40,000",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 278,
+    "QUESTIONS": "After inviting tenders for supply of raw materials, two quotations are received as follows\u2014\nSupplier P Rs. 2.20 per unit, Supplier Q Rs. 2.10 per unit plus Rs. 2,000 fixed charges irrespective of the units ordered. The order quantity for which the purchase price per unit will be the same\u2014",
+    "OPTION 1": "22,000 units",
+    "OPTION 2": "20,000 units",
+    "OPTION 3": "21,000 units",
+    "OPTION 4": "None of the above.",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 279,
+    "QUESTIONS": "The cost per unit of a product manufactured in a factory amounts to Rs. 160 (75% variable) when the production is 10,000 units. When production increases by 25%, the cost of production will be\nRs. per unit.",
+    "OPTION 1": "Rs. 145",
+    "OPTION 2": "Rs. 150",
+    "OPTION 3": "Rs. 152",
+    "OPTION 4": "Rs. 140",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 280,
+    "QUESTIONS": "In \u2018make or buy\u2019 decision, it is profitable to buy from outside only\nwhen the supplier\u2019s price is below the firm\u2019s own",
+    "OPTION 1": "Fixed Cost",
+    "OPTION 2": "Variable Cost",
+    "OPTION 3": "Total Cost",
+    "OPTION 4": "Prime Cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 281,
+    "QUESTIONS": "A budget which is prepared in a manner so as to give the budgeted\ncost for any level of activity is known as:",
+    "OPTION 1": "Master budget",
+    "OPTION 2": "Zero base budget",
+    "OPTION 3": "Functional budget",
+    "OPTION 4": "Flexible budget",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 282,
+    "QUESTIONS": "is a summary of all functional budgets in a capsule form",
+    "OPTION 1": "Functional Budget",
+    "OPTION 2": "Master Budget",
+    "OPTION 3": "Long Period Budget",
+    "OPTION 4": "Flexible Budget",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 283,
+    "QUESTIONS": "\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0is a detailed budget of cash receipts and cash expenditure\nincorporating both revenue and capital items.",
+    "OPTION 1": "Cash Budget",
+    "OPTION 2": "Capital Expenditure\nBudget",
+    "OPTION 3": "Sales Budget",
+    "OPTION 4": "Overhead Budget",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 284,
+    "QUESTIONS": "Following information is available of XYZ Limited for quarter ended June, 2023\nFixed cost                            Rs. 5,00,000\nVariable cost                        Rs. 10 per unit\nSelling price                         Rs. 15 per unit\nOutput level                          1,50,000 units\nWhat will be amount of profit earned during the quarter using the marginal costing technique?",
+    "OPTION 1": "Rs. 2,50,000",
+    "OPTION 2": "Rs. 10,00,000",
+    "OPTION 3": "Rs. 5,00,000",
+    "OPTION 4": "Rs. 17,50,000",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 285,
+    "QUESTIONS": "The P/v ratio of a company is 50% and margin of safety is 40%. If present sales is Rs. 30,00,000 then Break Even Point in Rs. will be:",
+    "OPTION 1": "Rs. 9,00,000",
+    "OPTION 2": "Rs. 18,00,000",
+    "OPTION 3": "Rs. 5,00,000",
+    "OPTION 4": "None of the above",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 286,
+    "QUESTIONS": "Following information is available of  PQR for year ended March, 2013: 4,000 units in process,\n3,800 units output, 10% of input is normal wastage, Rs. 2.50 per unit is scrap value and Rs. 46,000 incurred towards total process cost then amount on account of abnormal gain to be transferred to Costing P&L will be:-",
+    "OPTION 1": "Rs. 2,500",
+    "OPTION 2": "Rs. 2,000",
+    "OPTION 3": "Rs. 4,000",
+    "OPTION 4": "Rs. 3,500",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 287,
+    "QUESTIONS": "In element-wise classification of overheads, which one of the\nfollowing is not included \u2014",
+    "OPTION 1": "Fixed overheads",
+    "OPTION 2": "Indirect labour",
+    "OPTION 3": "Indirect materials",
+    "OPTION 4": "Indirect expenditure.",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 288,
+    "QUESTIONS": "When the sales increase from Rs. 40,000 to Rs. 60,000 and profit increases by Rs. 5,000, the P/V ratio is:",
+    "OPTION 1": 0.2,
+    "OPTION 2": 0.3,
+    "OPTION 3": 0.25,
+    "OPTION 4": 0.4,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 289,
+    "QUESTIONS": "In activity based costing , costs are accumulated by activity. Such\nAccumulated Amounts are called -",
+    "OPTION 1": "Cost drivers",
+    "OPTION 2": "Cost objects",
+    "OPTION 3": "Cost pools",
+    "OPTION 4": "Cost Benefits\nAnalysis",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 290,
+    "QUESTIONS": "Steps in ABC Include -",
+    "OPTION 1": "Identification of activities and their respective costs",
+    "OPTION 2": "Identification of cost Driver of each activity and computation of an allocation rate per\nactivity",
+    "OPTION 3": "Allocation of Overhead Cost to products /services based on the activities involved",
+    "OPTION 4": "all of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 291,
+    "QUESTIONS": "Which of the following is not a benefit of ABC ?",
+    "OPTION 1": "Accurate cost\nallocation",
+    "OPTION 2": "Improved decision\nmaking",
+    "OPTION 3": "Better control on\nactivity and costs",
+    "OPTION 4": "reduction of prime\ncost",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 292,
+    "QUESTIONS": "The key elements of Activity Based Budgeting are -",
+    "OPTION 1": "Type of Activity to be\nperformed",
+    "OPTION 2": "Quantity of activity\nto bee performed",
+    "OPTION 3": "Cost of activity to be\nperformed",
+    "OPTION 4": "all of the above",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 293,
+    "QUESTIONS": "The primary objective of Cost Accounting is to:",
+    "OPTION 1": "Prepare financial statements",
+    "OPTION 2": "Determine the economic stability\nof a company",
+    "OPTION 3": "Ascertain the cost of products and services",
+    "OPTION 4": "Audit the financial records",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 294,
+    "QUESTIONS": "Which of the following best describes the difference between cost control and cost reduction?",
+    "OPTION 1": "Cost control is preventive; cost reduction is corrective",
+    "OPTION 2": "Cost control is corrective; cost reduction is\npreventive",
+    "OPTION 3": "Both are identical",
+    "OPTION 4": "Cost control focuses on increasing sales",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 295,
+    "QUESTIONS": "In a manufacturing process, normal loss is treated as:",
+    "OPTION 1": "Abnormal cost and debited to Costing\nP&L",
+    "OPTION 2": "Charged to a specific job",
+    "OPTION 3": "Included in the cost of good output",
+    "OPTION 4": "Ignored in cost accounting",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 296,
+    "QUESTIONS": "When preparing a cost sheet, which of the following is excluded\nfrom prime cost?",
+    "OPTION 1": "Direct materials",
+    "OPTION 2": "Direct labour",
+    "OPTION 3": "Direct expenses",
+    "OPTION 4": "Factory overheads",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 297,
+    "QUESTIONS": "Which of the following is NOT considered in marginal costing?",
+    "OPTION 1": "Variable cost",
+    "OPTION 2": "Fixed cost",
+    "OPTION 3": "Direct material cost",
+    "OPTION 4": "Direct labor cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 298,
+    "QUESTIONS": "The purpose of CAS (Cost Accounting Standards) is to:",
+    "OPTION 1": "Ensure uniform cost\naccounting practices",
+    "OPTION 2": "Reduce financial\nreporting fraud",
+    "OPTION 3": "Set global accounting\nstandards",
+    "OPTION 4": "Determine tax\nliability",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 299,
+    "QUESTIONS": "CAS-18 deals with:",
+    "OPTION 1": "Transport Cost",
+    "OPTION 2": "Research and\nDevelopment Cost",
+    "OPTION 3": "Sales Promotion Cost",
+    "OPTION 4": "Packing Cost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 300,
+    "QUESTIONS": "Cost Accounting Records include:",
+    "OPTION 1": "Cost ledgers only",
+    "OPTION 2": "Job cost sheets, cost ledgers, cost\nmemorandum",
+    "OPTION 3": "Cost sheet only",
+    "OPTION 4": "Budget reports only",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 301,
+    "QUESTIONS": "Which of the following is not covered under CAS-1: Classification\nof Cost?",
+    "OPTION 1": "Cost by nature",
+    "OPTION 2": "Cost by behavior",
+    "OPTION 3": "Cost by traceability",
+    "OPTION 4": "Cost by ownership",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 302,
+    "QUESTIONS": "Joint costs incurred before separation point are dealt under:",
+    "OPTION 1": "CAS-19",
+    "OPTION 2": "CAS-22",
+    "OPTION 3": "CAS-6",
+    "OPTION 4": "CAS-9",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 303,
+    "QUESTIONS": "A company purchases raw material worth \u20b91,00,000. Freight inward is \u20b95,000, and handling charges \u20b92,000. As per CAS-6,\nmaterial cost is:",
+    "OPTION 1": "\u20b9 1,00,000",
+    "OPTION 2": "\u20b9 1,05,000",
+    "OPTION 3": "\u20b9 1,07,000",
+    "OPTION 4": "\u20b9 1,02,000",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 304,
+    "QUESTIONS": "Which of the following is a direct material cost as per CAS-6?",
+    "OPTION 1": "Wages of procurement\nstaff",
+    "OPTION 2": "Freight paid for raw\nmaterials",
+    "OPTION 3": "Insurance of factory",
+    "OPTION 4": "Depreciation on\ndelivery trucks",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 305,
+    "QUESTIONS": "Which of the following should NOT be included in Employee Cost (CAS-7)?",
+    "OPTION 1": "Salary & wages",
+    "OPTION 2": "Retirement benefits",
+    "OPTION 3": "Travel reimbursement for official trip",
+    "OPTION 4": "Dividend paid to employees as\nshareholders",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 306,
+    "QUESTIONS": "A company orders 5,000 units of material. Ordering cost per order\n\u20b9200. Carrying cost per unit per year is \u20b95. What is the EOQ?",
+    "OPTION 1": "100 units",
+    "OPTION 2": "1,000 units",
+    "OPTION 3": "2,000 units",
+    "OPTION 4": "632 units",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 307,
+    "QUESTIONS": "If minimum stock (safety stock) is 500 units, lead time is 10 days,\naverage usage 100 units/day, what is reorder level?",
+    "OPTION 1": "1,500 units",
+    "OPTION 2": "500 units",
+    "OPTION 3": "1,000 units",
+    "OPTION 4": "2,000 units",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 308,
+    "QUESTIONS": "Inventory has slow moving material not used for year, what should\nbe done ?",
+    "OPTION 1": "Keep at cost, await\nusage",
+    "OPTION 2": "Mark down to NRV\nor write off partly",
+    "OPTION 3": "Transfer to scrap",
+    "OPTION 4": "Treat as non-current\nasset",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 309,
+    "QUESTIONS": "In inventory control, \u201cDanger level\u201d indicates:",
+    "OPTION 1": "Level above which storage costs shoot up",
+    "OPTION 2": "Stock level below\nwhich emergency purchase is needed",
+    "OPTION 3": "Stock level to trigger regular orders",
+    "OPTION 4": "Level equal to\nminimum stock + reorder level",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 310,
+    "QUESTIONS": "In setting quantitative levels of inventory, which is correct sequence (from highest to lowest)?",
+    "OPTION 1": "Danger level > Re-order level >\nMaximum level",
+    "OPTION 2": "Maximum level > Re-order level >\nMinimum level",
+    "OPTION 3": "Re-order level > Maximum level >\nDanger level",
+    "OPTION 4": "Safety stock > Maximum stock >\nReorder level",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 311,
+    "QUESTIONS": "A company has the following inventory data: Re-order level = 1,500 units; Re-order quantity = 1,200 units; Minimum consumption = 80 units/day; Maximum consumption = 120 units/day; Lead time = 10 to 15 days. What is the Maximum Level\nof inventory (in units)?",
+    "OPTION 1": "2,100 units",
+    "OPTION 2": "3,900 units",
+    "OPTION 3": "1,900 units",
+    "OPTION 4": "3,000 units",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 312,
+    "QUESTIONS": "Which of the following is NOT a part of employee cost?",
+    "OPTION 1": "Wages",
+    "OPTION 2": "Bonus",
+    "OPTION 3": "Interest on capital",
+    "OPTION 4": "Provident fund\ncontribution",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 313,
+    "QUESTIONS": "A worker\u2019s standard time is 10 hours; actual time taken is 8 hours;\nwage rate is \u20b950/hour. Bonus under Halsey Plan is:",
+    "OPTION 1": 50,
+    "OPTION 2": 75,
+    "OPTION 3": 100,
+    "OPTION 4": 125,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 314,
+    "QUESTIONS": "A company had 1,200 employees at the beginning of July and 1,400 at the end. During the month: 50 workers left voluntarily, 30 were discharged, and 100 workers were recruited, but only 40 were replacements. What is the Labour Turnover Ratio using the\nSeparation Method?",
+    "OPTION 1": 0.0615,
+    "OPTION 2": 0.0714,
+    "OPTION 3": 0.0625,
+    "OPTION 4": 0.08,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 315,
+    "QUESTIONS": "A worker is paid under the Rowan Plan. Standard Time = 20 hours, Time Taken = 16 hours, Rate = \u20b950/hour. What are the total\nearnings?",
+    "OPTION 1": 850,
+    "OPTION 2": 1050,
+    "OPTION 3": 950,
+    "OPTION 4": 960,
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 316,
+    "QUESTIONS": "Which plan shares wages based on time saved, with fixed\npercentage to worker?",
+    "OPTION 1": "Halsey Plan",
+    "OPTION 2": "Rowan Plan",
+    "OPTION 3": "Taylor Plan",
+    "OPTION 4": "Gantt Plan",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 317,
+    "QUESTIONS": "In Rowan Plan, the bonus is calculated based on:",
+    "OPTION 1": "Proportion of time saved to standard time",
+    "OPTION 2": "Fixed percentage of wages",
+    "OPTION 3": "Total output produced",
+    "OPTION 4": "Total hours worked",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 318,
+    "QUESTIONS": "If a direct expense becomes abnormally high due to emergency (e.g., courier), how is it treated?",
+    "OPTION 1": "Charged to cost of goods sold",
+    "OPTION 2": "Included in direct expenses",
+    "OPTION 3": "Ignored in cost accounting",
+    "OPTION 4": "Transferred to Costing Profit &\nLoss A/c",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 319,
+    "QUESTIONS": "A contractor pays \u20b925,000 as a one-time fee to use a patented\nmethod for a single job. How should this cost be treated?",
+    "OPTION 1": "Indirect Expense",
+    "OPTION 2": "Charged to general\noverhead",
+    "OPTION 3": "Direct Expense",
+    "OPTION 4": "Capitalized",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 320,
+    "QUESTIONS": "Budgeted overhead = \u20b91,50,000; Budgeted machine hours = 30,000; Actual hours = 28,000; Actual overhead = \u20b91,35,000. Was\noverhead over or under-absorbed?",
+    "OPTION 1": "Over-absorbed by\n\u20b910,000",
+    "OPTION 2": "Under-absorbed by\n\u20b95,000",
+    "OPTION 3": "Over-absorbed by\n\u20b95,000",
+    "OPTION 4": "Under-absorbed by\n\u20b910,000",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 321,
+    "QUESTIONS": "A company has two departments: Dept A and Dept B. Absorption rates: Dept A = \u20b960/hr, Dept B = \u20b950/hr. Actual overheads: A =\n\u20b93,00,000, B = \u20b92,50,000. Actual hours: A = 4,500 hrs, B = 4,800\nhrs. What is total under/over-absorption?",
+    "OPTION 1": "Under-absorbed by\n\u20b940,000",
+    "OPTION 2": "Over-absorbed by\n\u20b920,000",
+    "OPTION 3": "Under-absorbed by\n\u20b910,000",
+    "OPTION 4": "Over-absorbed by\n\u20b910,000",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 322,
+    "QUESTIONS": "Which of the following is the most appropriate base for absorbing\nfactory overhead in a labour-intensive industry?",
+    "OPTION 1": "Machine hours",
+    "OPTION 2": "Direct material cost",
+    "OPTION 3": "Direct labour hours",
+    "OPTION 4": "Units produced",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 323,
+    "QUESTIONS": "Which of the following is the most appropriate basis for\napportioning canteen expenses among production departments?",
+    "OPTION 1": "Floor area",
+    "OPTION 2": "Number of\nemployees",
+    "OPTION 3": "Machine hours",
+    "OPTION 4": "Value of output",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 324,
+    "QUESTIONS": "In a non-integral costing system, which of the following is true?",
+    "OPTION 1": "Only cost accounts are maintained, no financial books",
+    "OPTION 2": "Cost and financial books are merged",
+    "OPTION 3": "Separate cost books are maintained, and reconciliation is done with financial books",
+    "OPTION 4": "Cost ledger control account is not required",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 325,
+    "QUESTIONS": "Which of the following is TRUE about reconciliation between cost and financial accounts?",
+    "OPTION 1": "Only timing differences are\nadjusted",
+    "OPTION 2": "Only valuation differences are\nadjusted",
+    "OPTION 3": "Both timing and valuation differences\nare adjusted",
+    "OPTION 4": "No adjustments are needed if integral\naccounting is used",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 326,
+    "QUESTIONS": "When the cost accounts show under absorption of overhead, it\nmeans:",
+    "OPTION 1": "Actual overhead >\nAbsorbed overhead",
+    "OPTION 2": "Actual overhead <\nAbsorbed overhead",
+    "OPTION 3": "They are equal",
+    "OPTION 4": "It has no effect on\nprofit",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 327,
+    "QUESTIONS": "The purpose of preparing a cost reconciliation statement is to:",
+    "OPTION 1": "Find errors in costing records only",
+    "OPTION 2": "Adjust financial profit to costing profit",
+    "OPTION 3": "Show the difference between financial profit and costing\nprofit and explain it",
+    "OPTION 4": "Omit abnormal items",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 328,
+    "QUESTIONS": "In cost accounts, depreciation is charged at 10% on machinery of\n\u20b92,00,000, while in financial accounts depreciation is charged at 15%. What will be the difference in profit due to this?",
+    "OPTION 1": "\u20b910,000 higher in cost accounts",
+    "OPTION 2": "\u20b910,000 lower in cost accounts",
+    "OPTION 3": "\u20b920,000 higher in financial accounts",
+    "OPTION 4": "No difference",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 329,
+    "QUESTIONS": "In cost books, closing stock is valued at \u20b980,000. In financial books, the same is valued at \u20b990,000. If cost profit is \u20b91,00,000,\nthen financial profit is:",
+    "OPTION 1": "\u20b9 1,10,000",
+    "OPTION 2": 90000,
+    "OPTION 3": "\u20b9 1,20,000",
+    "OPTION 4": 80000,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 330,
+    "QUESTIONS": "Margin of safety represents:",
+    "OPTION 1": "Fixed costs",
+    "OPTION 2": "The difference between actual sales and break-even sales",
+    "OPTION 3": "Variable costs",
+    "OPTION 4": "Profit margin",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 331,
+    "QUESTIONS": "Sales = \u20b95,00,000, Cost of Goods Sold = \u20b93,60,000, Selling &\nDistribution overheads = \u20b940,000. Find profit.",
+    "OPTION 1": "\u20b9 1,00,000",
+    "OPTION 2": "\u20b9 1,20,000",
+    "OPTION 3": 90000,
+    "OPTION 4": 80000,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 332,
+    "QUESTIONS": "The Cost Ledger Control Account (CLCA) is used to:",
+    "OPTION 1": "Record cost\naccounting entries only",
+    "OPTION 2": "Reconcile cost\nledger with the financial ledger",
+    "OPTION 3": "Replace the general\nledger for cost accounts",
+    "OPTION 4": "Record revenue transactions",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 333,
+    "QUESTIONS": "In cost accounts, idle time compensation is usually:",
+    "OPTION 1": "Included in direct\nlabour",
+    "OPTION 2": "Charged to cost of\nproduction",
+    "OPTION 3": "Treated as overhead",
+    "OPTION 4": "Omitted",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 334,
+    "QUESTIONS": "Job costing is most suitable for:",
+    "OPTION 1": "Cement\nmanufacturing",
+    "OPTION 2": "Oil refining",
+    "OPTION 3": "Construction of\nbridges",
+    "OPTION 4": "Chemical industry",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 335,
+    "QUESTIONS": "A company undertakes Job #251. Direct materials = \u20b950,000, Direct labour = \u20b930,000. Factory overheads are absorbed at 80% of\ndirect labour. Cost of Job #251 = ?",
+    "OPTION 1": 74000,
+    "OPTION 2": 80000,
+    "OPTION 3": "\u20b9 1,04,000",
+    "OPTION 4": 96000,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 336,
+    "QUESTIONS": "In job costing, indirect costs are charged to jobs using:",
+    "OPTION 1": "Direct allocation",
+    "OPTION 2": "Overhead\nabsorption rate",
+    "OPTION 3": "Actual expenditure\nbasis",
+    "OPTION 4": "Historical cost\nmethod",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 337,
+    "QUESTIONS": "Job cost sheet is primarily prepared for:",
+    "OPTION 1": "Recording only\noverheads",
+    "OPTION 2": "Ascertaining cost of\na specific job",
+    "OPTION 3": "Financial reporting\npurposes",
+    "OPTION 4": "Cost control of all\ndepartments",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 338,
+    "QUESTIONS": "Which of the following is NOT a feature of job costing?",
+    "OPTION 1": "Costs are collected by\njobs",
+    "OPTION 2": "Each job has a\ndistinct identity",
+    "OPTION 3": "Mass production of\nhomogeneous units",
+    "OPTION 4": "A job cost sheet is\nmaintained",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 339,
+    "QUESTIONS": "In job costing, each job is treated as:",
+    "OPTION 1": "A separate cost unit",
+    "OPTION 2": "A batch of identical\nproducts",
+    "OPTION 3": "A process account",
+    "OPTION 4": "A service department",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 340,
+    "QUESTIONS": "Batch costing is most suitable for:",
+    "OPTION 1": "Ship building",
+    "OPTION 2": "Pharmaceutical\nindustry",
+    "OPTION 3": "Oil refinery",
+    "OPTION 4": "Bridge construction",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 341,
+    "QUESTIONS": "Batch requires 2,000 labour hours @ \u20b950/hr. Material = \u20b960,000. Overheads = \u20b9200 per labour hr. Batch size = 1,000 units. Cost per\nunit?",
+    "OPTION 1": 560,
+    "OPTION 2": 310,
+    "OPTION 3": 280,
+    "OPTION 4": 250,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 342,
+    "QUESTIONS": "Batch requires materials = \u20b918,000, Labour = \u20b912,000. Overheads\n= 50% of Prime Cost. Batch size = 600 units. Cost per unit?",
+    "OPTION 1": 70,
+    "OPTION 2": 80,
+    "OPTION 3": 75,
+    "OPTION 4": 85,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 343,
+    "QUESTIONS": "The total cost per unit decreases as batch size increases mainly due\nto:",
+    "OPTION 1": "Decrease in material\ncost",
+    "OPTION 2": "Decrease in set-up\ncost per unit",
+    "OPTION 3": "Decrease in labour\nrate",
+    "OPTION 4": "Decrease in selling\ncost",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 344,
+    "QUESTIONS": "Batch costing is a variant of:",
+    "OPTION 1": "Job Costing",
+    "OPTION 2": "Process Costing",
+    "OPTION 3": "Contract Costing",
+    "OPTION 4": "Operating Costing",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 345,
+    "QUESTIONS": "In batch costing, abnormal loss is:",
+    "OPTION 1": "Added to cost",
+    "OPTION 2": "Excluded from cost",
+    "OPTION 3": "Transferred to costing\nP&L",
+    "OPTION 4": "Charged to next\nbatch",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 346,
+    "QUESTIONS": "Cost to date \u20b92,00,000, Work certified \u20b92,50,000, Work uncertified\n\u20b920,000. What is the notional profit?",
+    "OPTION 1": 70000,
+    "OPTION 2": 50000,
+    "OPTION 3": 80000,
+    "OPTION 4": 30000,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 347,
+    "QUESTIONS": "Which of the following costs is not  normally debited to the\nContract Account?",
+    "OPTION 1": "Direct wages",
+    "OPTION 2": "Depreciation of\nplant used on site",
+    "OPTION 3": "Architects\u2019 fees",
+    "OPTION 4": "Interest on capital of\ncontractor",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 348,
+    "QUESTIONS": "A clause in a contract which provides that the contract price will be\nincreased if materials, labour etc. costs rise is called:",
+    "OPTION 1": "Price variation clause",
+    "OPTION 2": "Escalation clause",
+    "OPTION 3": "Cost plus clause",
+    "OPTION 4": "Contingency clause",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 349,
+    "QUESTIONS": "If variable cost is 40%, and fixed costs are \u20b96,000, break-even\nsales will be:",
+    "OPTION 1": 15000,
+    "OPTION 2": 10000,
+    "OPTION 3": 14000,
+    "OPTION 4": 2400,
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 350,
+    "QUESTIONS": "When is 2/3 of notional profit transferred to P&L?",
+    "OPTION 1": "Completion > 50%",
+    "OPTION 2": "Completion < 50%",
+    "OPTION 3": "Always",
+    "OPTION 4": "Never",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 351,
+    "QUESTIONS": "Cost to date \u20b93,00,000, Estimated cost to complete \u20b91,00,000,\nContract price \u20b95,00,000. Estimated profit?",
+    "OPTION 1": 50000,
+    "OPTION 2": "\u20b9 1,50,000",
+    "OPTION 3": "\u20b9 2,00,000",
+    "OPTION 4": "\u20b9 1,00,000",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 352,
+    "QUESTIONS": "Which of the following is not a feature of process costing?",
+    "OPTION 1": "Continuous\nproduction",
+    "OPTION 2": "Separate costing for\neach unit",
+    "OPTION 3": "Standardized\noperations",
+    "OPTION 4": "Accumulation of\ncosts by process",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 353,
+    "QUESTIONS": "A company has two processes. Process I transfers 5,000 units to Process II. Process II loses 2% normal loss on its input. In process II, materials are added at start, conversion equally. If Process II\nstarts 5,000 units, what is the good output expected?",
+    "OPTION 1": "4,900 units",
+    "OPTION 2": "4,400 units",
+    "OPTION 3": "5,900 units",
+    "OPTION 4": "8,300 units",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 354,
+    "QUESTIONS": "A company processes 5,000 units. Normal loss = 10%. Actual\noutput = 4,300 units. Scrap from normal loss has no value. What is the abnormal loss in units?",
+    "OPTION 1": 500,
+    "OPTION 2": 700,
+    "OPTION 3": 200,
+    "OPTION 4": 300,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 355,
+    "QUESTIONS": "Normal loss is expected and is:",
+    "OPTION 1": "Charged to costing\nP&L",
+    "OPTION 2": "Ignored in cost\naccounting",
+    "OPTION 3": "Spread over good\nunits",
+    "OPTION 4": "Added to abnormal\nloss",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 356,
+    "QUESTIONS": "Abnormal loss units are valued at:",
+    "OPTION 1": "Cost per equivalent\nunit",
+    "OPTION 2": "Scrap value",
+    "OPTION 3": "Zero",
+    "OPTION 4": "Sales price",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 357,
+    "QUESTIONS": "Process costing is used in:",
+    "OPTION 1": "Construction",
+    "OPTION 2": "Hospitals",
+    "OPTION 3": "Sugar industry",
+    "OPTION 4": "Automobile\nmanufacturing",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 358,
+    "QUESTIONS": "A bus runs 80 km with 40 passengers. Return trip is 60 km with 20\npassengers. What are the total passenger-km?",
+    "OPTION 1": 4400,
+    "OPTION 2": 3200,
+    "OPTION 3": 2000,
+    "OPTION 4": 5600,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 359,
+    "QUESTIONS": "A hotel has 40 rooms, average occupancy 75%. Monthly operating\ncost \u20b912,00,000. What is cost per room-day?",
+    "OPTION 1": 1000,
+    "OPTION 2": 1200,
+    "OPTION 3": 1333,
+    "OPTION 4": 1100,
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 360,
+    "QUESTIONS": "A truck runs 100 km daily with a 5-tonne load one way and returns empty. Operating 25 days/month. What is the total tonne-km?",
+    "OPTION 1": 5000,
+    "OPTION 2": 12500,
+    "OPTION 3": 25000,
+    "OPTION 4": 15000,
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 361,
+    "QUESTIONS": "Operating costing is most suitable for which of the following?",
+    "OPTION 1": "Construction firms",
+    "OPTION 2": "Transport\ncompanies",
+    "OPTION 3": "Manufacturing units",
+    "OPTION 4": "Auditing firms",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 362,
+    "QUESTIONS": "Which of the following is a characteristic of operating costing?",
+    "OPTION 1": "Applied to goods\ncosting",
+    "OPTION 2": "Used for uniform\nservices",
+    "OPTION 3": "Used for one-time\ncontracts",
+    "OPTION 4": "Has no overheads",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 363,
+    "QUESTIONS": "Which of the following is not a component of operating cost for\ntransport?",
+    "OPTION 1": "Diesel cost",
+    "OPTION 2": "Driver's salary",
+    "OPTION 3": "Factory rent",
+    "OPTION 4": "Depreciation on\nvehicle",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 364,
+    "QUESTIONS": "In operating costing, composite cost units are used when:",
+    "OPTION 1": "Only one service is offered",
+    "OPTION 2": "Service is measurable in one\nmetric",
+    "OPTION 3": "Multiple elements affect service",
+    "OPTION 4": "Costing is not needed",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 365,
+    "QUESTIONS": "In marginal costing, fixed costs are treated as:",
+    "OPTION 1": "Product cost",
+    "OPTION 2": "Partially variable\ncost",
+    "OPTION 3": "Period cost",
+    "OPTION 4": "Avoidable cost",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 366,
+    "QUESTIONS": "If selling price per unit increases, the break-even point will:",
+    "OPTION 1": "Increase",
+    "OPTION 2": "Decrease",
+    "OPTION 3": "Remain unchanged",
+    "OPTION 4": "Cannot say",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 367,
+    "QUESTIONS": "When marginal cost and average cost are equal, then:",
+    "OPTION 1": "Average cost is\nincreasing",
+    "OPTION 2": "Average cost is\ndecreasing",
+    "OPTION 3": "Average cost is\nconstant",
+    "OPTION 4": "Fixed cost is zero",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 368,
+    "QUESTIONS": "Profit-Volume (P/V) Ratio improves when:",
+    "OPTION 1": "Variable cost\nincreases",
+    "OPTION 2": "Fixed cost increases",
+    "OPTION 3": "Selling price\ndecreases",
+    "OPTION 4": "Variable cost\ndecreases",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 369,
+    "QUESTIONS": "Selling price = \u20b950, Variable cost = \u20b930, Fixed cost = \u20b940,000.\nCalculate break-even sales (units).",
+    "OPTION 1": 2000,
+    "OPTION 2": 1333,
+    "OPTION 3": 1500,
+    "OPTION 4": 800,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 370,
+    "QUESTIONS": "If sales increase by \u20b925,000 and the P/V ratio is 40%, how much\ndoes profit increase?",
+    "OPTION 1": 10000,
+    "OPTION 2": 15000,
+    "OPTION 3": 5000,
+    "OPTION 4": 12500,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 371,
+    "QUESTIONS": "If Margin of safety = \u20b91,20,000; P/V ratio = 30%. What will be the\nProfit = ?",
+    "OPTION 1": 36000,
+    "OPTION 2": 40000,
+    "OPTION 3": 24000,
+    "OPTION 4": 30000,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 372,
+    "QUESTIONS": "Selling price = \u20b9100, Variable cost = \u20b960, Fixed cost = \u20b91,60,000.\nProfit desired \u20b940,000. What is the required sales?",
+    "OPTION 1": "\u20b9 4,00,000",
+    "OPTION 2": "\u20b9 5,00,000",
+    "OPTION 3": "\u20b9 6,00,000",
+    "OPTION 4": "\u20b9 3,00,000",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 373,
+    "QUESTIONS": "If a company's operating capacity increases from 60% to 80%,\nwhile fixed costs remain the same, how will the Break-Even Point (BEP) be affected?",
+    "OPTION 1": "Increase",
+    "OPTION 2": "Decrease",
+    "OPTION 3": "Remain unchanged",
+    "OPTION 4": "Become irrelevant",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 374,
+    "QUESTIONS": "Sales is \u20b91,00,000, Variable cost is \u20b960,000 and Fixed cost is\n\u20b940,000. What is the P/V ratio?",
+    "OPTION 1": 0.6,
+    "OPTION 2": 0.4,
+    "OPTION 3": 0.5,
+    "OPTION 4": 0.3,
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 375,
+    "QUESTIONS": "Which is NOT a component of material cost variance?",
+    "OPTION 1": "Material price\nvariance",
+    "OPTION 2": "Material usage\nvariance",
+    "OPTION 3": "Material mix variance",
+    "OPTION 4": "Material production\nvariance",
+    "Answer Code": 4
+  },
+  {
+    "SL NO": 376,
+    "QUESTIONS": "Actual usage = 2,100kg, standard = 2,000kg, Selling price = \u20b925.\nFind material usage variance.",
+    "OPTION 1": "\u20b92,500 (A)",
+    "OPTION 2": "\u20b92,500 (F)",
+    "OPTION 3": "\u20b91,500 (A)",
+    "OPTION 4": "\u20b91,500 (F)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 377,
+    "QUESTIONS": "Paying a higher wage rate than standard leads to:",
+    "OPTION 1": "Labour efficiency\nvariance",
+    "OPTION 2": "Labour rate variance",
+    "OPTION 3": "Labour idle time\nvariance",
+    "OPTION 4": "Labour mix variance",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 378,
+    "QUESTIONS": "Standard price = \u20b920/kg, standard quantity = 500 kg, actual quantity = 520 kg, actual price = \u20b922/kg. Find Material Cost\nVariance (MCV).",
+    "OPTION 1": "\u20b91,000 (A)",
+    "OPTION 2": "\u20b91,000 (F)",
+    "OPTION 3": "\u20b91,440 (A)",
+    "OPTION 4": "\u20b91,040 (F)",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 379,
+    "QUESTIONS": "Standard mix: A = 60%, B = 40% of 1,000 kg. Standard prices: A\n= \u20b910, B = \u20b95. Actual: A = 550kg, B = 450kg. Find Material Mix Variance.",
+    "OPTION 1": "\u20b9250 (F)",
+    "OPTION 2": "\u20b9250 (A)",
+    "OPTION 3": "\u20b9200 (F)",
+    "OPTION 4": "\u20b9200 (A)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 380,
+    "QUESTIONS": "Standard rate = \u20b950/hr; Standard time = 1,000 hrs; Actual rate =\n\u20b952/hr; Actual time = 1,050 hrs. What is Labour Cost Variance?",
+    "OPTION 1": "\u20b94,600 (A)",
+    "OPTION 2": "\u20b92,000 (F)",
+    "OPTION 3": "\u20b91,500 (A)",
+    "OPTION 4": "\u20b91,500 (F)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 381,
+    "QUESTIONS": "Standard rate = \u20b955/hr; Actual rate = \u20b960/hr; Actual hours = 900.\nWhat is Labour Rate Variance (LRV)?",
+    "OPTION 1": "\u20b94,500 (A)",
+    "OPTION 2": "\u20b94,500 (F)",
+    "OPTION 3": "\u20b95,000 (A)",
+    "OPTION 4": "\u20b95,000 (F)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 382,
+    "QUESTIONS": "Budgeted Output = 1,000 units; Standard overhead Rate = \u20b98/unit; Actual Output = 950; Actual Overhead = \u20b97,800. What is\nOverhead Cost Variance?",
+    "OPTION 1": "\u20b9200 (F)",
+    "OPTION 2": "\u20b9200 (A)",
+    "OPTION 3": "\u20b9400 (A)",
+    "OPTION 4": "\u20b9400 (F)",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 383,
+    "QUESTIONS": "\u201cMaster budget\u201d usually comprises:",
+    "OPTION 1": "Sales budget only",
+    "OPTION 2": "Production budget only",
+    "OPTION 3": "All functional budgets + budgeted\nfinancial statements",
+    "OPTION 4": "Cash budget only",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 384,
+    "QUESTIONS": "A flexible budget is useful when:",
+    "OPTION 1": "Activity level is fixed and known in advance",
+    "OPTION 2": "Actual output differs from the level assumed in the\nbudget",
+    "OPTION 3": "All costs are fixed",
+    "OPTION 4": "There is no variance between budgeted and actual",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 385,
+    "QUESTIONS": "A static budget is one which:",
+    "OPTION 1": "Changes with output",
+    "OPTION 2": "Remains unchanged despite output\nchanges",
+    "OPTION 3": "Is too flexible",
+    "OPTION 4": "Is for govt only",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 386,
+    "QUESTIONS": "Flexible budget at 12,000 units: Variable cost is \u20b95/unit, Fixed cost is \u20b920,000; actual Variable Cost is \u20b963,000, Fixed cost is \u20b922,000.\nCalculate total cost variance.",
+    "OPTION 1": "\u20b95,000 (A)",
+    "OPTION 2": "\u20b95,000 (F)",
+    "OPTION 3": "\u20b93,000 (A)",
+    "OPTION 4": "\u20b92,000 (A)",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 387,
+    "QUESTIONS": "Zero-base budgeting means:",
+    "OPTION 1": "Build budget from\nscratch",
+    "OPTION 2": "Budget with zero\nprofit",
+    "OPTION 3": "First year budget",
+    "OPTION 4": "Zero idle capacity",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 388,
+    "QUESTIONS": "Budget that adjusts to activity level & cost behaviour:",
+    "OPTION 1": "Fixed budget",
+    "OPTION 2": "Flexible budget",
+    "OPTION 3": "Sales budget",
+    "OPTION 4": "Production budget",
+    "Answer Code": 2
+  },
+  {
+    "SL NO": 389,
+    "QUESTIONS": "Planned sales = 8,000; Opening stock = 500; Closing stock =\n1,000. Production budget is:",
+    "OPTION 1": "7,000 units",
+    "OPTION 2": "7,500 units",
+    "OPTION 3": "8,500 units",
+    "OPTION 4": "8,000 units",
+    "Answer Code": 3
+  },
+  {
+    "SL NO": 390,
+    "QUESTIONS": "Cash budget: Opening \u20b95,000; Receipts \u20b925,000; Payments\n\u20b930,000. Find Closing balance.",
+    "OPTION 1": 0,
+    "OPTION 2": 5000,
+    "OPTION 3": 10000,
+    "OPTION 4": 15000,
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 391,
+    "QUESTIONS": "Budgetary slack means:",
+    "OPTION 1": "Understating revenue / overstating cost",
+    "OPTION 2": "Overstating revenue\n/ understating cost",
+    "OPTION 3": "Estimation error due to uncertainty",
+    "OPTION 4": "Always due to fraud",
+    "Answer Code": 1
+  },
+  {
+    "SL NO": 392,
+    "QUESTIONS": "Standard usage = 4 kg/unit; Expected production = 2,000 units.\nWhat is Material usage budget?",
+    "OPTION 1": "8,000 kg",
+    "OPTION 2": "6,000 kg",
+    "OPTION 3": "10,000 kg",
+    "OPTION 4": "12,000 kg",
+    "Answer Code": 1
+  }        
+ ]
           }
         ]
       },
@@ -14262,2706 +17789,4944 @@
             label: "FM & BDA",
             questions:
             [
-    {
-        "question": "Time value of money explains that:",
-        "options": [
-            "a unit of money received today is worth more than a unit received in future",
-            "a unit of money received today is worth less than a unit received in future",
-            "a unit of money received today and at some other time in future is equal",
-            "none of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Time value of money facilitates comparison of cash flows occurring at different time periods by:",
-        "options": [
-            "compounding all cash flows to a common point of time",
-            "discounting all cash flows to a common point of time",
-            "using either (1) or (2)",
-            "neither (1) nor (2)."
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "If the nominal rate of interest is 10 per cent per annum and frequency of compounding is 4 i.e. quarterly compounding, the effective rate of interest will be:",
-        "options": [
-            "10.25% per annum",
-            "10.38% per annum",
-            "10% per annum",
-            "none of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Relationship between annual effective rate of interest and annual nominal rate of interest is, if frequency of compounding is more than 1:",
-        "options": [
-            "Effective Rate < Nominal rate",
-            "Effective Rate > Nominal rate",
-            "Effective Rate = Nominal rate",
-            "none of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "If annual effective rate of interest is 10.25% per annum and nominal rate of return is 10% per annum what is the frequency of compounding?",
-        "options": [
-            "1",
-            "3",
-            "2",
-            "4"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A student takes a loan of Rs. 50,000 from SBI. The rate of interest being charged by SBI is 10% per annum. What would be the amount of equal annual instalment if he wishes to pay it back in five instalments and first instalment, he will pay at the end of year 5?",
-        "options": [
-            "Rs. 11,000",
-            "Rs. 19,310",
-            "Rs. 15,000",
-            "None of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "How much amount should an investor invest now in order to receive five annuities starting from the end of this year of Rs. 10,000 if the rate of interest offered by bank is 10% per annum?",
-        "options": [
-            "Rs. 40,000",
-            "Rs. 45,000",
-            "Rs. 37,910",
-            "none of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A bank offers 12% compound interests payable quarterly. If you deposit Rs.2,000 now, how much it will grow at the end of 5 years?",
-        "options": [
-            "Rs.3,050",
-            "Rs.3,430",
-            "Rs.3,612",
-            "Rs.3,722"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A company wants to repay a loan of Rs. 5,00,000, 10 years from today. What amount should it invest each year for 10 years if the funds can earn 8% per annum? The first investment will be made at the beginning of this year.",
-        "options": [
-            "Rs. 50,000",
-            "Rs. 31,950",
-            "Rs. 40,000",
-            "Rs. 32,950"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Risk of two securities having different expected return can be compared with:",
-        "options": [
-            "standard deviation of securities",
-            "variance of securities",
-            "coefficient of variation",
-            "mean"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A portfolio consists of two securities and the expected return on two securities is 12% and 16% respectively. Calculate return of portfolio if first security accounts for 40% of portfolio.",
-        "options": [
-            "0.14",
-            "0.144",
-            "0.16",
-            "0.12"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "If the rate of interest is 12%, what are the doubling periods as per the rule 72 and the rule of 69 respectively?",
-        "options": [
-            "5 Years and 5.2 Years",
-            "5.8 Years and 5.3 Years",
-            "6 Years and 6.1 Years",
-            "6.5 Years and 6.6 Years"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "To create a minimum variance portfolio, in what proportion should the two securities be mixed if the following information is given S1 = 10%, S2 = 12%, P12 = 0.6?",
-        "options": [
-            "0.72 and 0.28",
-            "0.70 and 0.30",
-            "0.60 and 0.40",
-            "0.50 and 0.40"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "A portfolio consisting of two risky securities can be made risk less i.e., Sp = 0, if:",
-        "options": [
-            "the securities are perfectly positively correlated",
-            "the securities are perfectly negatively correlated",
-            "if the correlation ranges between 0 to 1",
-            "if the correlation ranges between -1 to +1"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Efficient portfolios are those portfolios, which offer (for a given level of risk)",
-        "options": [
-            "maximum return",
-            "minimum return",
-            "average return",
-            "positive return"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "CAPM accounts for -",
-        "options": [
-            "systematic risk",
-            "unsystematic risk",
-            "both of the above",
-            "moderate risk"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Assets Management company is formed:",
-        "options": [
-            "To manage bank\u2019s assets",
-            "To manage mutual funds investments",
-            "To construct infrastructure projects",
-            "To run a stock exchange"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Prime duty of a merchant banker is -",
-        "options": [
-            "Maintaining records of clients",
-            "Giving loans to clients",
-            "Working as a Capital Market Intermediary",
-            "None of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Basic objective of a money market mutual fund is:",
-        "options": [
-            "Guaranteed rate of return",
-            "Investment in short-term securities",
-            "Both (1) and (2)",
-            "None of (1) and (2)"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Short selling refers to:",
-        "options": [
-            "Buying shares and then selling them on the same day",
-            "Selling shares without owning them",
-            "Selling some shares out of a large holding",
-            "Continuously selling shares in lots."
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not regulated by SEBI?",
-        "options": [
-            "Foreign Institutional Investors",
-            "Foreign Direct Investment",
-            "Mutual Funds",
-            "Depositories"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is true for mutual funds in India?",
-        "options": [
-            "Exit load is not allowed",
-            "Entry load is allowed",
-            "Entry load is not allowed",
-            "Exit load allowed is some cases"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not available in India?",
-        "options": [
-            "Index Options",
-            "Index Futures,",
-            "Commodity Options",
-            "Commodity Futures"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is the benefit of Depositories?",
-        "options": [
-            "Reduction in the share transfer time to the buyer",
-            "Reduced Risk of stolen, fake, forged shares",
-            "No Stamp duty on transfer of shares in dematerialized form",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Credit Rating of a debt security is:",
-        "options": [
-            "Guarantee of Repayment",
-            "Merely opinion",
-            "Positive suggestion",
-            "Negative suggestion"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The first computerised online stock exchange in India was:",
-        "options": [
-            "NSE",
-            "OTCEI",
-            "BSE",
-            "MCX"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following derivative is not traded on Indian Stock Market?",
-        "options": [
-            "Index Options",
-            "Stock Futures",
-            "Index Futures",
-            "Forward Rate Agreements"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "How many depositories are there in India?",
-        "options": [
-            "2",
-            "3",
-            "0",
-            "1"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Secondary Market in India is regulated by:",
-        "options": [
-            "Reserve Bank of India",
-            "Securities and Exchange Board of India",
-            "Ministry of Finance",
-            "Forward Market Commission"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "_________ funds do not have a fixed date of redemption.",
-        "options": [
-            "Open ended funds",
-            "Close ended funds",
-            "Diversified funds",
-            "Both A and B."
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "In India, NIFTY and SENSEX are calculated on the basis of:",
-        "options": [
-            "Market Capitalization",
-            "Paid up Capital",
-            "Free-float Capitalization",
-            "Authorized Share Capital"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "The type of collateral (security) used for short-term loan is:",
-        "options": [
-            "Real estate",
-            "Plant & Machinery",
-            "Stock of good",
-            "Equity share capital"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a liability of a bank?",
-        "options": [
-            "Treasury Bills",
-            "Commercial papers",
-            "Certificate of Deposits",
-            "Junk Bonds."
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Commercial paper is a type of:",
-        "options": [
-            "Fixed coupon Bond",
-            "Unsecured short-term debt",
-            "Equity share capital",
-            "Government Bond"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not a spontaneous source of short-term funds?",
-        "options": [
-            "Trade credit",
-            "Accrued expenses",
-            "Provision for dividend",
-            "All of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "In India, Commercial Papers are issued as per the lines issued by -",
-        "options": [
-            "Securities and Exchange Board of India",
-            "Reserve Bank of India",
-            "Forward Market Commission",
-            "RBI"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Commercial paper are generally issued at a pries:",
-        "options": [
-            "Equal to face value",
-            "More than face value",
-            "Less than face value",
-            "Equal to redemption value"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not applicable to commercial paper?",
-        "options": [
-            "Face Value",
-            "Issue Price",
-            "Coupon Rate",
-            "None of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Accounting Ratios are important tools used by \u2013",
-        "options": [
-            "Managers",
-            "Researchers",
-            "Investors",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Net Profit Ratio Signifies:",
-        "options": [
-            "Operational Profitability",
-            "Liquidity Position",
-            "Big-term Solvency",
-            "Profit for Lenders"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Working Capital Turnover measures, the relationship of Working Capital with:",
-        "options": [
-            "Fixed Assets",
-            "Sales",
-            "Purchases",
-            "Stock"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Dividend Pay-out Ratio is:",
-        "options": [
-            "PAT Capital",
-            "DPS \u00f7 EPS",
-            "Pref. Dividend \u00f7 PAT",
-            "Pref. Dividend \u00f7 Equity Dividend"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "DuPont Analysis deals with:",
-        "options": [
-            "Analysis of Current Assets",
-            "Analysis of Profit",
-            "Capital Budgeting",
-            "Analysis of Fixed Assets"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "In Net Profit Ratio, the denominator is:",
-        "options": [
-            "Net Purchases",
-            "Net Sales",
-            "Credit Sales",
-            "Cost of goods sold"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Inventory Turnover measures the relationship of inventory with:",
-        "options": [
-            "Average Sales",
-            "Cost of Goods Sold",
-            "Total Purchases",
-            "Total Assets"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The term \u2018EVA\u2019 is used for:",
-        "options": [
-            "Extra Value Analysis",
-            "Economic Value Added",
-            "Expected Value Analysis",
-            "Engineering Value Analysis."
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Return on Investment may be improved by:",
-        "options": [
-            "Increasing Turnover",
-            "Reducing Expenses",
-            "Increasing Capital Utilization",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "In Current Ratio, Current Assets are compared with:",
-        "options": [
-            "Current Profit",
-            "Current Liabilities",
-            "Fixed Assets",
-            "Equity Share Capital"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "ABC Ltd. has a Current Ratio of 1.5: 1 and Net Current Assets of Rs. 5,00,000. What are the Current Assets?",
-        "options": [
-            "Rs. 5,00,000",
-            "Rs. 10,00,000",
-            "Rs. 15,00,000",
-            "Rs. 25,00,000"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "There is deterioration in the management of working capital of XYZ Ltd. What does it refer to?",
-        "options": [
-            "That the Capital Employed has reduced",
-            "That the Profitability has gone up",
-            "That debtors collection period has increased",
-            "That Sales has decreased"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following does not help to increase Current Ratio?",
-        "options": [
-            "Issue of Debentures to buy Stock",
-            "Issue of Debentures to pay Creditors",
-            "Sale of Investment to pay Creditors",
-            "Avail Bank Overdraft to buy Machine"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Debt to Total Assets Ratio can be improved by:",
-        "options": [
-            "Borrowing More",
-            "Issue of Debentures",
-            "Issue of Equity Shares",
-            "Redemption of Debt"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Ratio of Net Income to Number of Equity Shares known as:",
-        "options": [
-            "Price Earnings Ratio",
-            "Net Profit Ratio",
-            "Earnings per Share",
-            "Dividend per Share"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Trend Analysis helps comparing performance of a firm -",
-        "options": [
-            "With other firms",
-            "Over a period of firm",
-            "With other industries",
-            "With other companies"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A Current Ratio of less than one means:",
-        "options": [
-            "Current Liabilities < Current Assets",
-            "Fixed Assets > Current Assets",
-            "Current Assets < Current Liabilities",
-            "Share Capital > Current Assets"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A firm has Capital of Rs. 10,00,000; Sales of Rs. 5,00,000; Gross Profit of Rs. 2,00,000 and Expenses of Rs. 1,00,000. What is the Net Profit Ratio?",
-        "options": [
-            "0.2",
-            "0.5",
-            "0.1",
-            "0.4"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "XYZ Ltd. has earned 8% Return on Total Assests of Rs. 50,00,000 and has a Net Profit Ratio of 5%. Find out the Sales of the firm.",
-        "options": [
-            "Rs. 4,00,000",
-            "Rs. 2,50,000",
-            "Rs. 80,00,000",
-            "Rs. 83,33,333"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Suppliers and Creditors of a firm are interested in:",
-        "options": [
-            "Profitability Position",
-            "Liquidity Position",
-            "Market Share Position",
-            "Debt Position"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a measure of Debt Service capacity of a firm?",
-        "options": [
-            "Current Ratio",
-            "Acid Test Ratio",
-            "Interest Coverage Ratio",
-            "Debtors Turnover"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Gross Profit Ratio for a firm remains same but the Net Profit Ratio is decreasing. The reason for such behavior could be:",
-        "options": [
-            "Increase in Costs of Goods Sold",
-            "If Increase in Expense",
-            "Increase in Dividend",
-            "Decrease in Sales"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following statements is correct?",
-        "options": [
-            "A Higher Receivable Turnover is not desirable",
-            "Interest Coverage Ratio depends upon Tax Rate",
-            "Increase in Net Profit Ratio means increase in Sales",
-            "Lower Debt-Equity Ratio means lower Financial Risk"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Debt to Total Assets of a firm is 2. The Debt to Equity would be:",
-        "options": [
-            "0.8",
-            "0.25",
-            "1",
-            "0.75"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following helps analysing return to equity Shareholders?",
-        "options": [
-            "Return on Assets",
-            "Earnings Per Share",
-            "Net Profit Ratio",
-            "Return on Investment"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Return on Assets and Return on Investment Ratios belong to:",
-        "options": [
-            "Liquidity Ratios",
-            "Profitability Ratios",
-            "Solvency Ratios",
-            "Turnover"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "XYZ Ltd. has a Debt Equity Ratio of 1.5 as compared to 1.3 Industry average. It means that the firm has:",
-        "options": [
-            "Higher Liquidity",
-            "Higher Financial Risk",
-            "Higher Profitability",
-            "Higher Capital Employed"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Ratio Analysis can be used to study liquidity, turnover, profitability, etc. of a firm. What does Debt-Equity Ratio help to study?",
-        "options": [
-            "Solvency",
-            "Liquidity",
-            "Profitability",
-            "Turnover"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "In Inventory Turnover calculation, what is taken in the numerator?",
-        "options": [
-            "Sales",
-            "Cost of Goods Sold",
-            "Opening Stock",
-            "Closing Stock"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Statement of cash flows are included in:",
-        "options": [
-            "Ind AS - 3",
-            "Ind AS - 6",
-            "Ind AS - 7",
-            "Ind AS - 113"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Cost of capital refers to:",
-        "options": [
-            "Flotation Cost",
-            "Dividend",
-            "Required Rate of Return",
-            "None of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following sources of funds has an implicit cost of capital?",
-        "options": [
-            "Equity Share Capital",
-            "Preference Share Capital",
-            "Debentures",
-            "Retained earnings"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following has the highest cost of capital?",
-        "options": [
-            "Equity shares",
-            "Loans",
-            "Bonds",
-            "Preference shares"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Cost of capital for Government securities is also known as:",
-        "options": [
-            "Risk-free Rate of Interest",
-            "Maximum Rate of Return",
-            "Rate of Interest on Fixed Deposits",
-            "None of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Cost of capital for bonds and debentures is calculated on:",
-        "options": [
-            "Before Tax basis",
-            "After Tax basis",
-            "Risk-free Rate of Interest basis",
-            "Compound interest"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Weighted Average Cost of Capital (WACC) is generally denoted by:",
-        "options": [
-            "k_{a}",
-            "k_{w}",
-            "k_{0}",
-            "k_{c}"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following cost of capital require tax adjustment?",
-        "options": [
-            "Cost of Equity Shares",
-            "Cost of Preference Shares",
-            "Cost of Debentures",
-            "Cost of Retained Earnings"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which is the most expensive source of funds?",
-        "options": [
-            "New Equity Shares",
-            "New Preference Shares",
-            "New Debts",
-            "Retained Earnings"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Marginal cost of capital is the cost of:",
-        "options": [
-            "Additional Sales",
-            "Additional Funds",
-            "Additional Interests",
-            "Additional Revenue"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "In case the firm is all-equity financed, the WACC would be equal to:",
-        "options": [
-            "Cost of Debt",
-            "Cost of Equity",
-            "Neither (1) nor (2)",
-            "Both (1) and (2)"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "In order to calculate Weighted Average Cost of capitals (WACC) weights may be based on:",
-        "options": [
-            "Market Values",
-            "Target Values",
-            "Book Values",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Firm\u2019s cost of capital is the average cost of:",
-        "options": [
-            "All sources",
-            "All borrowings",
-            "Share capital",
-            "Share, Bonds and Debentures"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "An implicit cost of increasing proportion of debt is:",
-        "options": [
-            "Tax should would not be available on new debt",
-            "P/E Ratio would increase",
-            "Equity shareholders would demand higher return",
-            "Rate of Return of the company would decrease."
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Cost of redeemable preference share capital is:",
-        "options": [
-            "Rate of Dividend",
-            "After Tax Rate of Dividend",
-            "Discount Rate that equates PV of inflows and out-flows relating to capital",
-            "None of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is true?",
-        "options": [
-            "Retained earnings are cost free",
-            "External Equity is cheaper than Internal Equity",
-            "Retained Earnings are cheaper than External Equity",
-            "Retained Earnings are costlier than External Equity"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Capital Budgeting is a part of:",
-        "options": [
-            "Investment Decision",
-            "Working Capital Management",
-            "Marketing Management",
-            "Capital Structure"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Capital Budgeting deals with:",
-        "options": [
-            "Long-term Decisions",
-            "Short-term Decisions",
-            "Both (1) and (2)",
-            "Neither (1) nor (2)"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not used in Capital Budgeting?",
-        "options": [
-            "Time Value of Money",
-            "Sensitivity Analysis",
-            "Net Assets Method",
-            "Cash Flows"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Capital Budgeting Decisions are:",
-        "options": [
-            "Reversible",
-            "Irreversible",
-            "Unimportant",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not incorporated in Capital Budgeting?",
-        "options": [
-            "Tax-Effect",
-            "Time Value of Money",
-            "Required Rate of Return",
-            "Rate of Cash Discount"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not a capital budgeting decision?",
-        "options": [
-            "Expansion Programme",
-            "Merger",
-            "Replacement of an Asset",
-            "Inventory Level"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "A sound Capital Budgeting technique is based on:",
-        "options": [
-            "Cash Flows",
-            "Accounting Profit",
-            "Interest Rate on Borrowings",
-            "Last Dividend Paid"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not a relevant cost in Capital Budgeting?",
-        "options": [
-            "Sunk Cost",
-            "Opportunity Cost",
-            "Allocated Overheads",
-            "Both (1) and (3) above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Capital Budgeting Decisions are based on:",
-        "options": [
-            "Incremental Profit",
-            "Incremental Cash Flows",
-            "Incremental Assets",
-            "Incremental Capital"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following does not effect cash flows proposal?",
-        "options": [
-            "Salvage Value",
-            "Depreciation Amount",
-            "Tax Rate Change",
-            "Method of Project Financing"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Cash Inflows from a project include:",
-        "options": [
-            "Tax Shield of Depreciation",
-            "After-tax Operating Profits",
-            "Raising of Funds",
-            "Both (1) and (2)"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not true with reference capital budgeting?",
-        "options": [
-            "Capital budgeting is related to asset replacement decisions",
-            "Cost of capital is equal to minimum required return",
-            "Existing investment in a project is not treated as sunk cost",
-            "Timing of cash flows is relevant"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not followed in capital budgeting?",
-        "options": [
-            "Cash flows Principle",
-            "Interest Exclusion Principle",
-            "Accrual Principle",
-            "Post-tax Principle"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Depreciation is incorporated in cash flows because it:",
-        "options": [
-            "Is unavoidable cost",
-            "Is a cash flow",
-            "Reduces Tax liability",
-            "Involves an outflow"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not true for capital budgeting?",
-        "options": [
-            "Sunk costs are ignored",
-            "Opportunity costs are excluded",
-            "Incremental cash flows are considered",
-            "Relevant cash flows are considered"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not applied in capital budgeting?",
-        "options": [
-            "Cash flows be calculated in incremental terms",
-            "All costs and benefits are measured on cash basis",
-            "All accrued costs and revenues be incorporated",
-            "All benefits are measured on after-tax basis"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Evaluation of Capital Budgeting proposals is based on Cash Flows because:",
-        "options": [
-            "Cash Flows are easy to calculate",
-            "Cash Flows are suggested by SEBI",
-            "Cash is more important than profit",
-            "Cash Flows are suggested by RBI"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is not included in incremental A flows?",
-        "options": [
-            "Opportunity Costs",
-            "Sunk Costs",
-            "Change in Working Capital",
-            "Inflation effect"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A proposal is not a Capital Budgeting proposal if it:",
-        "options": [
-            "is related to Fixed Assets",
-            "brings long-term benefits",
-            "brings short-term benefits only",
-            "has very large investment"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "In Capital Budgeting, Sunk cost is excluded because it is:",
-        "options": [
-            "of small amount",
-            "not incremental",
-            "not reversible",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Savings in respect of a cost is treated in capital budgeting as:",
-        "options": [
-            "An Inflow",
-            "An Outflow",
-            "Opening balance",
-            "Closing balance"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "____________ ignores the time value of money.",
-        "options": [
-            "Internal Rate of Return (IRR)",
-            "Average Rate of Return (ARR)",
-            "Net Present Value (NPV)",
-            "Profitability Index (PI)"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The discounted cash flows techniques are:",
-        "options": [
-            "Net Present Value (NPV)",
-            "Internal Rate of Return (IRR)",
-            "Profitability Index (PI)",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Working capital is calculated as _____.",
-        "options": [
-            "Core current assets less core current liabilities",
-            "Current assets less current liabilities",
-            "Core current assets less current liabilities",
-            "Liquid assets less current liabilities"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The basic current liabilities are _____.",
-        "options": [
-            "accounts payable and bills payable",
-            "bank overdraft",
-            "outstanding expenses",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "There are two concepts of working capital \u2013 gross and ____",
-        "options": [
-            "Zero",
-            "Net",
-            "Cumulative",
-            "distinctive"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Working capital is also known as___ capital.",
-        "options": [
-            "Current asset",
-            "Operating",
-            "Projecting",
-            "Operation capital"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "______ working Capital refers to the firm\u2019s investment in current assets.",
-        "options": [
-            "Zero",
-            "Net",
-            "Gross",
-            "Distinctive"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "In finance, \u201cworking capital\u201d means the same thing as _______ assets.",
-        "options": [
-            "Current",
-            "Fixed",
-            "Total",
-            "All of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "______ working capital refers to the difference between current assets and current liabilities.",
-        "options": [
-            "Zero",
-            "Net",
-            "Gross",
-            "Distinctive"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A _______ net working capital will arise when current assets exceed current liabilities.",
-        "options": [
-            "Summative",
-            "Negative",
-            "Excessive",
-            "Positive"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "A ______ net working capital occurs when current liabilities are in excess of current assets.",
-        "options": [
-            "Positive",
-            "Negative",
-            "Excessive",
-            "Zero"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "X Ltd. distributes its products to more than 500 retailers. The company\u2019s collection period is 30 days and keeps its inventory for 20 days. The operating cycle would be:",
-        "options": [
-            "40 Days",
-            "43 Days",
-            "45 Days",
-            "50 Days"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "________ refers to the funds, which an organisation must possess to finance its day to day operations.",
-        "options": [
-            "Retained earnings",
-            "Fixed capital",
-            "Working Capital",
-            "All of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Investment in current assets should be _____",
-        "options": [
-            "just adequate",
-            "more",
-            "less",
-            "maximum"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "_______ varies inversely with profitability.",
-        "options": [
-            "Risk",
-            "Assets",
-            "Liquidity",
-            "Revenue"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Capital intensive firms rely on ______",
-        "options": [
-            "debt",
-            "retained earnings",
-            "short term debts",
-            "equity"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "On the basis of _____, working capital is classified as gross working capital and net working capital.",
-        "options": [
-            "concept",
-            "time",
-            "future",
-            "work"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "______ cycle analyzes the accounts receivable, inventory, and accounts payable cycles in terms of a number of days?",
-        "options": [
-            "Business",
-            "Current asset",
-            "Operation",
-            "Operating"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "_______ method is not used for calculating working capital cycle.",
-        "options": [
-            "Trial and error method",
-            "Regression analysis method",
-            "Percentage of sales method",
-            "Operating cycle approach"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "On the basis of _____, working capital may be classified as: 1) Permanent or fixed working capital. 2) Temporary or variable working capital.",
-        "options": [
-            "concept",
-            "time",
-            "future",
-            "work"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Operating cycle is also called as _____",
-        "options": [
-            "Business cycle",
-            "Working capital cycle",
-            "Working cycle",
-            "Current asset cycle"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Spontaneous financing consists of ______",
-        "options": [
-            "a line of credit",
-            "short-term loans",
-            "accounts receivable",
-            "accounts payable"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Conversation of marketable securities into cash entails a fixed cost of Rs.1,000 per transaction. What will be the optimal conversation size as per Baumol model of cash management?",
-        "options": [
-            "Rs. 315,628",
-            "Rs. 316,228",
-            "Rs. 317,678",
-            "Rs. 318,426"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Average collection period is 2 months, cash sales and average receivables are Rs.5,00,000 and Rs.6,50,000 respectively. The sales amount would be-",
-        "options": [
-            "Rs. 40,00,000",
-            "Rs. 42,00,000",
-            "Rs. 44,00,000",
-            "Rs. 48,50,000"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "If the current ratio is 2.4:1 and working capital is Rs.25,20,000, find the amount of current assets and current liabilities.",
-        "options": [
-            "Current Assets Rs. 43,20,000 and Current Liabilities Rs.18,00,000",
-            "Current Assets Rs. 44,00,000 and Current Liabilities Rs.18,50,000",
-            "Current Assets Rs. 45,50,000 and Current Liabilities Rs. 19,00,000",
-            "Current Assets Rs. 46,60,000 and Current Liabilities Rs. 19,30,000"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Operating leverage helps in analysis of:",
-        "options": [
-            "Business Risk",
-            "Financing Risk",
-            "Production Risk",
-            "Credit Risk"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is studied with the help of financial leverage?",
-        "options": [
-            "Marketing Risk",
-            "Interest Rate Risk",
-            "Foreign Exchange Risk",
-            "Financing risk"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Combined Leverage is obtained from OL and FL by their:",
-        "options": [
-            "Addition",
-            "Subtraction",
-            "Multiplication",
-            "Any of these"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "High degree of financial leverage means:",
-        "options": [
-            "High debt proportion",
-            "Lower debt proportion",
-            "Equal debt and equity",
-            "No debt"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Operating leverage arises because of:",
-        "options": [
-            "Fixed Cost of Production",
-            "Fixed Interest Cost",
-            "Variable Cost",
-            "Step Cost"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Financial Leverage arises because of:",
-        "options": [
-            "Fixed cost of production",
-            "Variable Cost",
-            "Interest Cost",
-            "Step Cost"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Operating Leverage is calculated as:",
-        "options": [
-            "Contribution \u00f7 EBIT",
-            "EBIT\u00f7PBT",
-            "EBIT \u00f7Interest",
-            "EBIT \u00f7Tax"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Financial Leverage is calculated as:",
-        "options": [
-            "EBIT\u00f7 Contribution",
-            "EBIT\u00f7 PBT",
-            "EBIT\u00f7 Sales",
-            "EBIT \u00f7 Variable Cost"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which combination is generally good for firms?",
-        "options": [
-            "High Operating leverage, High Financial leverage",
-            "Low Operating leverage, Low Financial leverage",
-            "High Operating leverage, Low Financial leverage",
-            "ModerateOperating leverage. Moderate Financial leverage"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Combined leverage can be used to measure the relationship between:",
-        "options": [
-            "EBIT and EPS",
-            "PAT and EPS",
-            "Sales and EPS",
-            "Sales and EBIT"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Financial Leverage is zero if:",
-        "options": [
-            "EBIT = Interest",
-            "EBIT = Zero",
-            "EBIT = Fixed Cost",
-            "EBIT = Pref. Dividend"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Business risk can be measured by:",
-        "options": [
-            "Financial leverage",
-            "Operating leverage",
-            "Combined leverage",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Financial Leverage measures relationship between",
-        "options": [
-            "EBIT and PBT",
-            "EBIT and EPS",
-            "Sales and PBT",
-            "Sales and EPS"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Use of Preference Share Capital in Capital structure",
-        "options": [
-            "Increases Operating leverage",
-            "Increases Financial leverage",
-            "Decreases Operating leverage",
-            "Decreases Financial leverage"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Relationship between change in sales and change in EPS is measured by:",
-        "options": [
-            "Financial leverage",
-            "Combined leverage",
-            "Operating leverage",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Numerical data may be expressed as:",
-        "options": [
-            "In the form of text",
-            "In the form of numbers",
-            "In the form of images",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The descriptive data may be deciphered as:",
-        "options": [
-            "May be deciphered in the form of qualitative information",
-            "May be deciphered in the form of quantitative information",
-            "May be deciphered in the form of information from informal sources",
-            "All of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Data represented in the form of picture is termed as:",
-        "options": [
-            "Graphic data",
-            "Qualitative data",
-            "Quantitative data",
-            "All of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is/are the reason for digitization?",
-        "options": [
-            "Helps in work processing",
-            "Requires less physical storage space",
-            "Digitized records may be accessed by more than one person simultaneously",
-            "All of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "To make the data turn into user friendly information, it should go one/more of following core steps:",
-        "options": [
-            "Collection of data",
-            "Organising the data",
-            "Data processing",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Any data expressed as a number is a ____________ data.",
-        "options": [
-            "graphical",
-            "descriptive",
-            "numerical",
-            "None of the above"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Classifying equities into small-cap, mid-cap, and large-cap categories are the examples of _________ Scale",
-        "options": [
-            "Nominal",
-            "Ordinal",
-            "Interval",
-            "Ratio"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a phase for a process of digitization?",
-        "options": [
-            "Justification of the proposed digitization project",
-            "Assessment",
-            "Planning",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Data science plays an important role in:",
-        "options": [
-            "Risk analytics",
-            "Customer data management",
-            "Consumer analytics",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "The primary benefit of data distribution is:",
-        "options": [
-            "the estimation of the probability of any certain observation within a sample space",
-            "the estimation of the probability of any certain observation within a non-sample space",
-            "the estimation of the probability of any certain observation within a population",
-            "the estimation of the probability of any certain observation without a non-sample space"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Binomial distribution applies to attributes:",
-        "options": [
-            "that are categorised into two mutually exclusive and exhaustive classes",
-            "that are categorised into three mutually exclusive and exhaustive classes",
-            "that are categorised into less than two mutually exclusive and exhaustive classes",
-            "that are categorised into four mutually exclusive and exhaustive classes"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "The geometric distribution is a discrete distribution that assesses:",
-        "options": [
-            "the probability of the occurrence of the first success",
-            "the probability of the occurrence of the second success",
-            "the probability of the occurrence of the third success",
-            "the probability of the occurrence of the less success"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "The probability density function describes:",
-        "options": [
-            "the characteristics of a random variable",
-            "the characteristics of a non-random variable",
-            "the characteristics of a random constant",
-            "the characteristics of a non-random constant"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "When independent variables with standard normal distribution are squared and added, the _________ distribution occurs.",
-        "options": [
-            "Normal",
-            "Chi square",
-            "Exponential",
-            "Lognormal"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The procedure that organises data into a meaningful order to make it simpler to comprehend, analyse, and visualise, is called _____________",
-        "options": [
-            "Data validation",
-            "Data sorting",
-            "Data aggregation",
-            "Data analysis"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Following is a widely used graph for data Visualisation:",
-        "options": [
-            "Bar chart",
-            "Pie chart",
-            "Histogram",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Following are the objectives of data visualisation:",
-        "options": [
-            "Making a better data analysis",
-            "Faster decision making",
-            "Analysing complicated data",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Following are the scope of DPA:",
-        "options": [
-            "Defining significant meaning (relevant information) required by each audience member in every scenario.",
-            "Obtaining the proper data (focus area, historic reach, extensiveness, level of detail, etc.)",
-            "Determining the needed frequency of data refreshes (the currency of the data)",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Maps may be used for displaying:",
-        "options": [
-            "Pincode",
-            "Country name",
-            "State abbreviation",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "A scatter plot displays several unique data points:",
-        "options": [
-            "on a single graph",
-            "On two different graphs",
-            "On four different graphs",
-            "None of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "A ___________ chart depicts tasks that must be accomplished before others may begin, as well as the allocation of resources.",
-        "options": [
-            "Bubble",
-            "Gantt",
-            "Scatter",
-            "Density"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "____________ is a set of skills that aims to identify, find, modify, format, and present data in a manner that ideally conveys meaning and provides insight.",
-        "options": [
-            "Data Presentation Architecture",
-            "Data Presentation Hierarchy",
-            "Data Visualization Architecture",
-            "None of the above"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a data discovery platform that enables users to make quicker, more informed choices by speeding analytics, uncovering new business insights, and enhancing the precision of outcomes?",
-        "options": [
-            "Microsoft Excel",
-            "Microsoft Power BI",
-            "QlikView",
-            "Tableau"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is/ are the benefit/ benefits of data analytics?",
-        "options": [
-            "Improves decision making process",
-            "Increase in efficiency of operations",
-            "Improved service to stakeholders",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is/ are the technique/s of data mining?",
-        "options": [
-            "Association rules",
-            "Neural network",
-            "Decision tree",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "XML is the abbreviated form of:",
-        "options": [
-            "Extensible mark-up language",
-            "Extended mark-up language",
-            "Extendable mark-up language",
-            "Extensive mark-up language"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "XBRL is the abbreviated form of:",
-        "options": [
-            "eXtensible Business Reporting Language",
-            "eXtensive Business Reporting Language",
-            "eXtended Business Reporting Language",
-            "eXtensive Business Reporting Language"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is/ are the types of cloud computing?",
-        "options": [
-            "Private cloud",
-            "Public cloud",
-            "Hybrid cloud",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "On the basis of the type of \u201csignal\u201d or \u201cfeedback\u201d provided to the learning system, which of the following is not a type of machine learning?",
-        "options": [
-            "Supervised learning",
-            "Unsupervised learning",
-            "Semi supervised learning",
-            "Robotic Process learning"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "In recent years, business intelligence has expanded to incorporate more procedures and activities designed to enhance performance. These procedures consist of:",
-        "options": [
-            "Data mining",
-            "Reporting",
-            "Querying",
-            "All of the above"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "What does the term \"break-even point\" refer to?",
-        "options": [
-            "The point where expenses are double the income",
-            "The point at which total revenue equals total costs",
-            "The point where profits are at their maximum",
-            "The time when a firm repays its debts"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Why is it important for a firm to move far from the break-even point?",
-        "options": [
-            "To increase tax liabilities",
-            "To attract new investors",
-            "To ensure survival against seasonal fluctuations",
-            "To avoid employee layoffs"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "What is one reason profit maximization is criticized?",
-        "options": [
-            "It enhances employee satisfaction",
-            "It increases the firm's equity base",
-            "It can lead to exploitation of workers and consumers",
-            "It ensures long-term sustainability"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "What is a key assumption of the time value of money concept in financial decision-making?",
-        "options": [
-            "The timing of cash flows affects their value",
-            "Cash flows occur at the same time",
-            "Money depreciates automatically",
-            "Interest rates have no impact on investment"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "In which situation is the time value of money most relevant?",
-        "options": [
-            "Evaluating historical costs",
-            "Budgeting fixed expenses",
-            "Recording daily transactions",
-            "Comparing cash flows at different points in time"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "What is the present value of \u20b92,000 receivable 5 years from now at an 8% annual discount rate?",
-        "options": [
-            "1500",
-            "1200.5",
-            "1361.73",
-            "1750.2"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "If the future value remains the same, what happens to present value if the time period increases?",
-        "options": [
-            "Present value decreases",
-            "Present value increases",
-            "Present value remains unchanged",
-            "Present value becomes zero"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "What type of risk is caused by factors that affect the entire market or economy?",
-        "options": [
-            "Unsystematic Risk",
-            "Credit Risk",
-            "Systematic Risk",
-            "Default Risk"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Given: Beta = 1.2, Risk-free rate = 4%, Expected market return = 12%. What is the expected return on the security?",
-        "options": [
-            "0.12",
-            "0.104",
-            "0.136",
-            "0.152"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "SPO refers to___________ , the second and subsequent time a company raises money from the public directly.",
-        "options": [
-            "Secondary Public Offering",
-            "Second Public Offering",
-            "Subsequent Public Offer",
-            "Subsequent Public Offering"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is an example of a non-banking financial intermediary?",
-        "options": [
-            "LIC (Life Insurance Corporation)",
-            "Reserve Bank of India",
-            "State Bank of India",
-            "Ministry of Finance"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "What is the primary role of the Reserve Bank of India (RBI)?",
-        "options": [
-            "To collect taxes from citizens",
-            "To maintain India\u2019s monetary and financial stability",
-            "To manage public sector banks",
-            "To regulate stock markets"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is an example of a sector that may receive refinance support from RBI?",
-        "options": [
-            "Real estate",
-            "Film industry",
-            "Retail trade",
-            "Export sector"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following assets can be used to maintain Statutory Liquidity Ratio (SLR)?",
-        "options": [
-            "Personal loans",
-            "Government securities, cash, and gold",
-            "Real estate investments",
-            "Corporate shares"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What is the purpose of maintaining CRR?",
-        "options": [
-            "To increase bank profits",
-            "To control inflation only",
-            "To ensure banks have enough cash to meet withdrawal needs",
-            "To promote stock market investments"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "What does the Liquidity Adjustment Facility (LAF) primarily deal with?",
-        "options": [
-            "Managing long-term loans to the government",
-            "Daily liquidity injection and absorption through repo and reverse repo",
-            "Regulating foreign exchange reserves",
-            "Issuing new currency notes"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "An increase in Repo Rate by RBI is generally aimed at:",
-        "options": [
-            "Controlling inflation by making borrowing costlier",
-            "Encouraging borrowing by banks",
-            "Boosting exports",
-            "Reducing the cash reserve ratio"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "What is the main purpose of Open Market Operations (OMO)?",
-        "options": [
-            "To fund government spending",
-            "To control stock market volatility",
-            "To regulate medium-term liquidity in the economy",
-            "To provide long-term capital to banks"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Who is the sole authority for issuing currency notes in India?",
-        "options": [
-            "Ministry of Finance",
-            "State Bank of India",
-            "Reserve Bank of India",
-            "Indian Banks\u2019 Association"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "The increasing importance of the foreign exchange market in India is due to:",
-        "options": [
-            "A decline in international investments",
-            "India's isolation from global markets",
-            "Restriction on currency exchange",
-            "Increased trade and capital flows"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is empowered to issue, renew, modify, suspend, or cancel registration certificates of insurers?",
-        "options": [
-            "IRDA",
-            "SEBI",
-            "RBI",
-            "LIC"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Who supervises the functioning of the Tariff Advisory Committee?",
-        "options": [
-            "LIC",
-            "RBI",
-            "SEBI",
-            "IRDA"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "IRDA has the power to specify how insurers should:",
-        "options": [
-            "File for bankruptcy",
-            "Maintain and report their accounts",
-            "Manage real estate",
-            "Issue credit cards"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "How can an Angel Fund raise money?",
-        "options": [
-            "Through bank loans",
-            "By issuing shares to the public",
-            "By issuing units to angel investors",
-            "By crowdfunding platforms"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Compared to mutual funds, hedge funds are:",
-        "options": [
-            "More regulated",
-            "Less regulated",
-            "Equally regulated",
-            "Regulated by RBI"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A major characteristic of hedge fund returns is:",
-        "options": [
-            "Guaranteed fixed returns",
-            "High correlation with equity markets",
-            "Consistency of returns and capital preservation",
-            "Government-backed guarantees"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a feature of hedge funds?",
-        "options": [
-            "Investment only in government securities",
-            "Strict adherence to equity-only investment",
-            "Flexibility in investment options",
-            "Tax-free returns"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "What is the main function of SEBI as per its preamble?",
-        "options": [
-            "To protect investors and regulate the securities market",
-            "To promote foreign direct investment",
-            "To regulate banks and insurance companies",
-            "To provide loans to startups"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "What is another name for the Primary Market?",
-        "options": [
-            "Old issue market",
-            "New issue market",
-            "Secondary market",
-            "Derivatives market"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What is another name for the Secondary Market?",
-        "options": [
-            "New issue market",
-            "Bond market",
-            "Derivatives market",
-            "Stock market"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Who introduced Masala Bonds in India?",
-        "options": [
-            "Reserve Bank of India",
-            "World Bank",
-            "International Finance Corporation (IFC)",
-            "Ministry of Finance"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Insider trading becomes illegal when:",
-        "options": [
-            "Done by a foreign investor",
-            "It leads to a rise in share price",
-            "It is based on confidential information not available to the public",
-            "It is done through a SEBI-registered broker"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "What does the repo rate represent?",
-        "options": [
-            "The inflation rate in the economy",
-            "The annual interest rate earned on a repo transaction",
-            "The profit earned from securities",
-            "The tax rate on capital gains"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "XYZ Ltd. has a Current Ratio of 3: 1 and Net Current Assets of 10,00,000. What are the Current Assets?",
-        "options": [
-            "1000000",
-            "1200000",
-            "1500000",
-            "2000000"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "A firm has Capital of 18,00,000; Sales of 9,00,000; Gross Profit of 3,00,000 and Expenses of 1,50,000. What is the Net Profit Ratio?",
-        "options": [
-            "0.1",
-            "0.1667",
-            "0.2",
-            "0.25"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Current Assets \u20b950,00,000; Current Liabilities \u20b920,00,000; and Stock \u20b910,00,000. What is the Liquid Ratio?",
-        "options": [
-            "1.5 times",
-            "2 times",
-            "2.5 times",
-            "1.75 times"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "JK Ltd. has a gearing of 40%. Its cost of equity is 18%, and the cost of debt is 12%. The company\u2019s WACC is:",
-        "options": [
-            "0.156",
-            "0.162",
-            "0.132",
-            "0.128"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "X Ltd. has issued a 10% perpetual debt of \u20b91,00,000 at par. The tax rate is 35%. What is the cost of capital?",
-        "options": [
-            "10% before tax; 6.5% after tax",
-            "6.5% before tax; 10% after tax",
-            "10% before tax; 3.5% after tax",
-            "6.5% before tax; 6.5% after tax"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Using the CAPM approach, determine the cost of equity capital from the following data:Risk-free rate = 8% Market return = 13%Beta of the firm = 1.6",
-        "options": [
-            "0.13",
-            "0.16",
-            "0.15",
-            "0.18"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Calculate the cost of equity capital of Mamon Ltd., whose risk-free rate is 10%, beta is 1.75, and market return is 15%.",
-        "options": [
-            "0.1725",
-            "0.1875",
-            "0.165",
-            "0.1925"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Net Income Approach to capital structure decision was proposed by ________",
-        "options": [
-            "J. E. Walter",
-            "D. Durand",
-            "E. Solomon",
-            "M.H. Miller and D. Orr"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "If a firm has a DOL of 3.5, it means:",
-        "options": [
-            "If sales increase by 3.5%, the EBIT will increase by 1%",
-            "If EBIT increases by 3.5%, the EPS will increase by 1%",
-            "If sales rise by 1%, EBIT will rise by 3.5%",
-            "None of the above"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "The Degree of Operating Leverage and Degree of Financial Leverage of VINTEX LTD. are 2.00 and 1.5 respectively. What will be the percentage change in EPS if the sales increase by 10%?",
-        "options": [
-            "10% increase",
-            "30% increase",
-            "35% increase",
-            "15% increase"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "What is data?",
-        "options": [
-            "Processed facts and figures with meaning",
-            "Raw facts and figures, often numbers or text strings",
-            "Analysis of information for decision making",
-            "Knowledge gained from experience"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following represents the correct flow from raw input to decision making?",
-        "options": [
-            "Knowledge \u2192 Data \u2192 Information",
-            "Data \u2192 Knowledge \u2192 Information",
-            "Information \u2192 Data \u2192 Knowledge",
-            "Data \u2192 Information \u2192 Knowledge"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is an example of quantitative financial data?",
-        "options": [
-            "Management discussion and analysis in text",
-            "Stock price data",
-            "Executive interviews on business channels",
-            "Video presentations"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Qualitative financial data can be in the form of:",
-        "options": [
-            "Financial statements",
-            "Stock prices",
-            "Text, videos, and audio",
-            "Numerical tables"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is easier after digitization?",
-        "options": [
-            "Reusing very large maps or data from microfilms",
-            "Increasing the size of physical files",
-            "Preventing data backups",
-            "Limiting data access to a single location"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Digitization requires:",
-        "options": [
-            "More physical storage space",
-            "Less physical storage space",
-            "No changes in storage requirements",
-            "More manual filing"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is a benefit of digitization during disasters?",
-        "options": [
-            "Makes backup files harder to retrieve",
-            "Easier to keep backup files and retrieve data during unexpected disasters",
-            "Increases physical storage space requirements",
-            "Limits access to one location only"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Resources that may face quick destruction should be:",
-        "options": [
-            "Ignored",
-            "Stored for later",
-            "Given low priority",
-            "Prioritized for early digitization"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "In which phase is it decided whether digitization will be done in-house or outsourced?",
-        "options": [
-            "Justification",
-            "Assessment",
-            "Planning",
-            "Digitization activities"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which phase includes deciding the digitization format (e.g. consolidated or detailed)?",
-        "options": [
-            "Justification",
-            "Assessment",
-            "Planning",
-            "Editing"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Which of the following is NOT part of the care of digitized records?",
-        "options": [
-            "Intellectual control over data",
-            "Permission for accession of data",
-            "Editing and cropping",
-            "Maintenance and upkeeping"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "In which currency is a GDR typically denominated?",
-        "options": [
-            "Local currency",
-            "British Pound",
-            "Indian Rupee",
-            "US Dollar"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "Who facilitates the conversion of GDRs into underlying shares?",
-        "options": [
-            "Stock exchanges",
-            "Government agencies",
-            "Depository or custodian banks",
-            "Mutual funds"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What formula is used to calculate the cost of equity capital under the CAPM model?",
-        "options": [
-            "Ke = Rf \u00d7 \u03b2(Rm - Rf)",
-            "Ke = Rm + Rf + \u03b2",
-            "Ke = Rf + \u03b2(Rm - Rf)",
-            "Ke = Rm \u00d7 \u03b2 + Rf"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "If the risk-free rate is 14%, the market return is 18%, and \u03b2 = 1, what is the cost of equity?",
-        "options": [
-            "0.14",
-            "0.16",
-            "0.18",
-            "0.2"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What is the formula for calculating the cost of retained earnings (kr)?",
-        "options": [
-            "kr = ke \u00d7 (1 + t) \u00d7 (1 + b)",
-            "kr = ke \u00d7 (1 \u2013 t) \u00d7 (1 \u2013 b)",
-            "kr = ke \u00f7 (1 \u2013 t)",
-            "kr = ke \u00d7 t \u00d7 b"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "Company X issues 11% bonds of 100 for an amount aggregating 200,000 at 10% premium, redeemable at par after 5 years. Corporate tax rate is 35%. The cost of bonds would be:",
-        "options": [
-            "0.049",
-            "0.05",
-            "0.052",
-            "0.06"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Ramya Ltd.\u2019s share beta factor is 1.40. The risk free rate of interest of government securities is 9%. The expected rate of return on the company equity shares is 16%. The cost of equity capital based on CAPM is:",
-        "options": [
-            "0.09",
-            "0.16",
-            "0.188",
-            "0.158"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What does a positive Net Present Value (NPV) indicate about a project?",
-        "options": [
-            "The project generates returns lower than the firm's required rate",
-            "The project will result in a loss",
-            "The project earns a return higher than the required rate",
-            "The firm should reject the project"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "A company has the following data: Sales: 2,00,000 Variable Costs: \u20b9160,000 Fixed Costs: \u20b920,000 What is the Degree of Operating Leverage (DOL)?",
-        "options": [
-            "1.5",
-            "2",
-            "2.5",
-            "3"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A firm has: DOL = 4.0 DFL = 3.5 What is the Degree of Combined Leverage (DCL)?",
-        "options": [
-            "2.5",
-            "3.5",
-            "6",
-            "14"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "According to Walter's Model, when should a company retain its earnings?",
-        "options": [
-            "- When return (r) < cost of capital (k)",
-            "- When return (r) = cost of capital (k)",
-            "- When return (r) > cost of capital (k)",
-            ". When the company has surplus cash"
-        ],
-        "answer": 0,
-        "explanation": ""
-    },
-    {
-        "question": "If EBIT is \u20b92,50,000 and Net Sales are \u20b912,00,000, what is the Operating Profit Ratio?",
-        "options": [
-            "0.185",
-            "0.2083",
-            "0.215",
-            "0.25"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "Operating Profit is also known as:",
-        "options": [
-            "Net Profit",
-            "Gross Profit",
-            "EBIT",
-            "EBT"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "What is the formula for Operating Profit Ratio?",
-        "options": [
-            "EBIT \u00f7 Total Assets \u00d7 100",
-            "Net Profit \u00f7 Net Sales \u00d7 100",
-            "Gross Profit \u00f7 Net Sales \u00d7 100",
-            "EBIT \u00f7 Net Sales \u00d7 100"
-        ],
-        "answer": 3,
-        "explanation": ""
-    },
-    {
-        "question": "If the Cost of Goods Sold (COGS) is \u20b98,00,000 and the Average Inventory is \u20b92,00,000, what is the Inventory Turnover Ratio?",
-        "options": [
-            "4 times",
-            "6 times",
-            "7 times",
-            "5 times"
-        ],
-        "answer": 2,
-        "explanation": ""
-    },
-    {
-        "question": "A company has the following data: Net Credit Purchases \u20b912,00,000, Opening Accounts Payable \u20b94,00,000, Closing Accounts Payable \u20b98,00,000. What is the Creditors Turnover Ratio?",
-        "options": [
-            "1.5 times",
-            "2 times",
-            "2.5 times",
-            "3 times"
-        ],
-        "answer": 1,
-        "explanation": ""
-    },
-    {
-        "question": "A company reports Net Annual Sales of \u20b920,00,000 and has Working Capital of \u20b95,00,000. What is the Working Capital Turnover Ratio?",
-        "options": [
-            "2.5 times",
-            "4 times",
-            "3 times",
-            "10 times"
-        ],
-        "answer": 2,
-        "explanation": ""
-    }
-]
+                {
+    "SL NO": 1,
+    "QUESTIONS": "Time value of money explains that:",
+    "OPTION 1": "a unit of money received today\nis worth more than a unit\nreceived in future",
+    "OPTION 2": "a unit of money received\ntoday is worth less than a unit\nreceived in future",
+    "OPTION 3": "a unit of money\nreceived today and at\nsome other time in\nfuture is equal",
+    "OPTION 4": "none of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 2,
+    "QUESTIONS": "Time value of money facilitates comparison of cash flows\noccurring at different time periods by:",
+    "OPTION 1": "compounding all cash flows to a\ncommon point of time",
+    "OPTION 2": "discounting all cash flows to a\ncommon point of time",
+    "OPTION 3": "using either (1) or (2)",
+    "OPTION 4": "neither (1) nor (2).",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 3,
+    "QUESTIONS": "If the nominal rate of interest is 10 per cent per annum and\nfrequency of compounding is 4 i.e. quarterly compounding, the\neffective rate of interest will be:",
+    "OPTION 1": "10.25% per annum",
+    "OPTION 2": "10.38% per annum",
+    "OPTION 3": "10% per annum",
+    "OPTION 4": "none of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 4,
+    "QUESTIONS": "Relationship between annual effective rate of interest and annual\nnominal rate of interest is, if frequency of compounding is more\nthan 1:",
+    "OPTION 1": "Effective Rate < Nominal rate",
+    "OPTION 2": "Effective Rate > Nominal rate",
+    "OPTION 3": "Effective Rate =\nNominal rate",
+    "OPTION 4": "none of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 5,
+    "QUESTIONS": "If annual effective rate of interest is 10.25% per annum and\nnominal rate of return is 10% per annum what is the frequency of\ncompounding?",
+    "OPTION 1": 1,
+    "OPTION 2": 3,
+    "OPTION 3": 2,
+    "OPTION 4": 4,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 6,
+    "QUESTIONS": "A student takes a loan of Rs. 50,000 from SBI. The rate of interest\nbeing charged by SBI is 10% per annum. What would be the\namount of equal annual instalment if he wishes to pay it back in\nfive instalments and first instalment, he will pay at the end of year\n5?",
+    "OPTION 1": "Rs. 11,000",
+    "OPTION 2": "Rs. 19,310",
+    "OPTION 3": "Rs. 15,000",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 7,
+    "QUESTIONS": "How much amount should an investor invest now in order to\nreceive five annuities starting from the end of this year of Rs.\n10,000 if the rate of interest offered by bank is 10% per annum?",
+    "OPTION 1": "Rs. 40,000",
+    "OPTION 2": "Rs. 45,000",
+    "OPTION 3": "Rs. 37,910",
+    "OPTION 4": "none of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 8,
+    "QUESTIONS": "A bank offers 12% compound interests payable quarterly. If you\ndeposit Rs.2,000 now, how much it will grow at the end of 5\nyears?",
+    "OPTION 1": "Rs.3,050",
+    "OPTION 2": "Rs.3,430",
+    "OPTION 3": "Rs.3,612",
+    "OPTION 4": "Rs.3,722",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 9,
+    "QUESTIONS": "A company wants to repay a loan of Rs. 5,00,000, 10 years from\ntoday. What amount should it invest each year for 10 years if the\nfunds can earn 8% per annum? The first investment will be made at\nthe beginning of this year.",
+    "OPTION 1": "Rs. 50,000",
+    "OPTION 2": "Rs. 31,950",
+    "OPTION 3": "Rs. 40,000",
+    "OPTION 4": "Rs. 32,950",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 10,
+    "QUESTIONS": "Risk of two securities having different expected return can be\ncompared with:",
+    "OPTION 1": "standard deviation of securities",
+    "OPTION 2": "variance of securities",
+    "OPTION 3": "coefficient of variation",
+    "OPTION 4": "mean",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 11,
+    "QUESTIONS": "A portfolio consists of two securities and the expected return on\ntwo securities is 12% and 16% respectively. Calculate return of\nportfolio if first security accounts for 40% of portfolio.",
+    "OPTION 1": 0.14,
+    "OPTION 2": 0.144,
+    "OPTION 3": 0.16,
+    "OPTION 4": 0.12,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 12,
+    "QUESTIONS": "If the rate of interest is 12%, what are the doubling periods as per\nthe rule 72 and the rule of 69 respectively?",
+    "OPTION 1": "5 Years and 5.2 Years",
+    "OPTION 2": "5.8 Years and 5.3 Years",
+    "OPTION 3": "6 Years and 6.1 Years",
+    "OPTION 4": "6.5 Years and 6.6 Years",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 13,
+    "QUESTIONS": "To create a minimum variance portfolio, in what proportion should\nthe two securities be mixed if the following information is given S1\n= 10%, S2 = 12%, P12 = 0.6?",
+    "OPTION 1": "0.72 and 0.28",
+    "OPTION 2": "0.70 and 0.30",
+    "OPTION 3": "0.60 and 0.40",
+    "OPTION 4": "0.50 and 0.40",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 14,
+    "QUESTIONS": "A portfolio consisting of two risky securities can be made risk less\ni.e., Sp = 0, if:",
+    "OPTION 1": "the securities are perfectly\npositively correlated",
+    "OPTION 2": "the securities are perfectly\nnegatively correlated",
+    "OPTION 3": "if the correlation ranges\nbetween 0 to 1",
+    "OPTION 4": "if the correlation ranges\nbetween -1 to +1",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 15,
+    "QUESTIONS": "Efficient portfolios are those portfolios, which offer (for a given\nlevel of risk)",
+    "OPTION 1": "maximum return",
+    "OPTION 2": "minimum return",
+    "OPTION 3": "average return",
+    "OPTION 4": "positive return",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 16,
+    "QUESTIONS": "CAPM accounts for -",
+    "OPTION 1": "systematic risk",
+    "OPTION 2": "unsystematic risk",
+    "OPTION 3": "both of the above",
+    "OPTION 4": "moderate risk",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 17,
+    "QUESTIONS": "Assets Management company is formed:",
+    "OPTION 1": "To manage bank\u2019s assets",
+    "OPTION 2": "To manage mutual funds\ninvestments",
+    "OPTION 3": "To construct\ninfrastructure projects",
+    "OPTION 4": "To run a stock exchange",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 18,
+    "QUESTIONS": "Prime duty of a merchant banker is -",
+    "OPTION 1": "Maintaining records of clients",
+    "OPTION 2": "Giving loans to clients",
+    "OPTION 3": "Working as a Capital\nMarket Intermediary",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 19,
+    "QUESTIONS": "Basic objective of a money market mutual fund is:",
+    "OPTION 1": "Guaranteed rate of return",
+    "OPTION 2": "Investment in short-term\nsecurities",
+    "OPTION 3": "Both (1) and (2)",
+    "OPTION 4": "None of (1) and (2)",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 20,
+    "QUESTIONS": "Short selling refers to:",
+    "OPTION 1": "Buying shares and then selling\nthem on the same day",
+    "OPTION 2": "Selling shares without owning\nthem",
+    "OPTION 3": "Selling some shares out\nof a large holding",
+    "OPTION 4": "Continuously selling\nshares in lots.",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 21,
+    "QUESTIONS": "Which of the following is not regulated by SEBI?",
+    "OPTION 1": "Foreign Institutional Investors",
+    "OPTION 2": "Foreign Direct Investment",
+    "OPTION 3": "Mutual Funds",
+    "OPTION 4": "Depositories",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 22,
+    "QUESTIONS": "Which of the following is true for mutual funds in India?",
+    "OPTION 1": "Exit load is not allowed",
+    "OPTION 2": "Entry load is allowed",
+    "OPTION 3": "Entry load is not\nallowed",
+    "OPTION 4": "Exit load allowed is some\ncases",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 23,
+    "QUESTIONS": "Which of the following is not available in India?",
+    "OPTION 1": "Index Options",
+    "OPTION 2": "Index Futures,",
+    "OPTION 3": "Commodity Options",
+    "OPTION 4": "Commodity Futures",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 24,
+    "QUESTIONS": "Which of the following is the benefit of Depositories?",
+    "OPTION 1": "Reduction in the share transfer\ntime to the buyer",
+    "OPTION 2": "Reduced Risk of stolen, fake,\nforged shares",
+    "OPTION 3": "No Stamp duty on\ntransfer of shares in\ndematerialized form",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 25,
+    "QUESTIONS": "Credit Rating of a debt security is:",
+    "OPTION 1": "Guarantee of Repayment",
+    "OPTION 2": "Merely opinion",
+    "OPTION 3": "Positive suggestion",
+    "OPTION 4": "Negative suggestion",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 26,
+    "QUESTIONS": "The first computerised online stock exchange in India was:",
+    "OPTION 1": "NSE",
+    "OPTION 2": "OTCEI",
+    "OPTION 3": "BSE",
+    "OPTION 4": "MCX",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 27,
+    "QUESTIONS": "Which of the following derivative is not traded on Indian Stock\nMarket?",
+    "OPTION 1": "Index Options",
+    "OPTION 2": "Stock Futures",
+    "OPTION 3": "Index Futures",
+    "OPTION 4": "Forward Rate\nAgreements",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 28,
+    "QUESTIONS": "How many depositories are there in India?",
+    "OPTION 1": 2,
+    "OPTION 2": 3,
+    "OPTION 3": 0,
+    "OPTION 4": 1,
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 29,
+    "QUESTIONS": "Secondary Market in India is regulated by:",
+    "OPTION 1": "Reserve Bank of India",
+    "OPTION 2": "Securities and Exchange\nBoard of India",
+    "OPTION 3": "Ministry of Finance",
+    "OPTION 4": "Forward Market\nCommission",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 30,
+    "QUESTIONS": "_________ funds do not have a fixed date of redemption.",
+    "OPTION 1": "Open ended funds",
+    "OPTION 2": "Close ended funds",
+    "OPTION 3": "Diversified funds",
+    "OPTION 4": "Both A and B.",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 31,
+    "QUESTIONS": "In India, NIFTY and SENSEX are calculated on the basis of:",
+    "OPTION 1": "Market Capitalization",
+    "OPTION 2": "Paid up Capital",
+    "OPTION 3": "Free-float Capitalization",
+    "OPTION 4": "Authorized Share Capital",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 32,
+    "QUESTIONS": "The type of collateral (security) used for short-term loan is:",
+    "OPTION 1": "Real estate",
+    "OPTION 2": "Plant & Machinery",
+    "OPTION 3": "Stock of good",
+    "OPTION 4": "Equity share capital",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 33,
+    "QUESTIONS": "Which of the following is a liability of a bank?",
+    "OPTION 1": "Treasury Bills",
+    "OPTION 2": "Commercial papers",
+    "OPTION 3": "Certificate of Deposits",
+    "OPTION 4": "Junk Bonds.",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 34,
+    "QUESTIONS": "Commercial paper is a type of:",
+    "OPTION 1": "Fixed coupon Bond",
+    "OPTION 2": "Unsecured short-term debt",
+    "OPTION 3": "Equity share capital",
+    "OPTION 4": "Government Bond",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 35,
+    "QUESTIONS": "Which of the following is not a spontaneous source of short-term\nfunds?",
+    "OPTION 1": "Trade credit",
+    "OPTION 2": "Accrued expenses",
+    "OPTION 3": "Provision for dividend",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 36,
+    "QUESTIONS": "In India, Commercial Papers are issued as per the lines issued by -",
+    "OPTION 1": "Securities and Exchange Board\nof India",
+    "OPTION 2": "Reserve Bank of India",
+    "OPTION 3": "Forward Market\nCommission",
+    "OPTION 4": "RBI",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 37,
+    "QUESTIONS": "Commercial paper are generally issued at a pries:",
+    "OPTION 1": "Equal to face value",
+    "OPTION 2": "More than face value",
+    "OPTION 3": "Less than face value",
+    "OPTION 4": "Equal to redemption\nvalue",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 38,
+    "QUESTIONS": "Which of the following is not applicable to commercial paper?",
+    "OPTION 1": "Face Value",
+    "OPTION 2": "Issue Price",
+    "OPTION 3": "Coupon Rate",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 39,
+    "QUESTIONS": "Accounting Ratios are important tools used by \u2013",
+    "OPTION 1": "Managers",
+    "OPTION 2": "Researchers",
+    "OPTION 3": "Investors",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 40,
+    "QUESTIONS": "Net Profit Ratio Signifies:",
+    "OPTION 1": "Operational Profitability",
+    "OPTION 2": "Liquidity Position",
+    "OPTION 3": "Big-term Solvency",
+    "OPTION 4": "Profit for Lenders",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 41,
+    "QUESTIONS": "Working Capital Turnover measures, the relationship of Working\nCapital with:",
+    "OPTION 1": "Fixed Assets",
+    "OPTION 2": "Sales",
+    "OPTION 3": "Purchases",
+    "OPTION 4": "Stock",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 42,
+    "QUESTIONS": "Dividend Pay-out Ratio is:",
+    "OPTION 1": "PAT Capital",
+    "OPTION 2": "DPS \u00f7 EPS",
+    "OPTION 3": "Pref. Dividend \u00f7 PAT",
+    "OPTION 4": "Pref. Dividend \u00f7 Equity\nDividend",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 43,
+    "QUESTIONS": "DuPont Analysis deals with:",
+    "OPTION 1": "Analysis of Current Assets",
+    "OPTION 2": "Analysis of Profit",
+    "OPTION 3": "Capital Budgeting",
+    "OPTION 4": "Analysis of Fixed Assets",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 44,
+    "QUESTIONS": "In Net Profit Ratio, the denominator is:",
+    "OPTION 1": "Net Purchases",
+    "OPTION 2": "Net Sales",
+    "OPTION 3": "Credit Sales",
+    "OPTION 4": "Cost of goods sold",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 45,
+    "QUESTIONS": "Inventory Turnover measures the relationship of inventory with:",
+    "OPTION 1": "Average Sales",
+    "OPTION 2": "Cost of Goods Sold",
+    "OPTION 3": "Total Purchases",
+    "OPTION 4": "Total Assets",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 46,
+    "QUESTIONS": "The term \u2018EVA\u2019 is used for:",
+    "OPTION 1": "Extra Value Analysis",
+    "OPTION 2": "Economic Value Added",
+    "OPTION 3": "Expected Value\nAnalysis",
+    "OPTION 4": "Engineering Value\nAnalysis.",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 47,
+    "QUESTIONS": "Return on Investment may be improved by:",
+    "OPTION 1": "Increasing Turnover",
+    "OPTION 2": "Reducing Expenses",
+    "OPTION 3": "Increasing Capital\nUtilization",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 48,
+    "QUESTIONS": "In Current Ratio, Current Assets are compared with:",
+    "OPTION 1": "Current Profit",
+    "OPTION 2": "Current Liabilities",
+    "OPTION 3": "Fixed Assets",
+    "OPTION 4": "Equity Share Capital",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 49,
+    "QUESTIONS": "ABC Ltd. has a Current Ratio of 1.5: 1 and Net Current Assets of\nRs. 5,00,000. What are the Current Assets?",
+    "OPTION 1": "Rs. 5,00,000",
+    "OPTION 2": "Rs. 10,00,000",
+    "OPTION 3": "Rs. 15,00,000",
+    "OPTION 4": "Rs. 25,00,000",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 50,
+    "QUESTIONS": "There is deterioration in the management of working capital of\nXYZ Ltd. What does it refer to?",
+    "OPTION 1": "That the Capital Employed has\nreduced",
+    "OPTION 2": "That the Profitability has gone\nup",
+    "OPTION 3": "That debtors collection\nperiod has increased",
+    "OPTION 4": "That Sales has decreased",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 51,
+    "QUESTIONS": "Which of the following does not help to increase Current Ratio?",
+    "OPTION 1": "Issue of Debentures to buy\nStock",
+    "OPTION 2": "Issue of Debentures to pay\nCreditors",
+    "OPTION 3": "Sale of Investment to\npay Creditors",
+    "OPTION 4": "Avail Bank Overdraft to\nbuy Machine",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 52,
+    "QUESTIONS": "Debt to Total Assets Ratio can be improved by:",
+    "OPTION 1": "Borrowing More",
+    "OPTION 2": "Issue of Debentures",
+    "OPTION 3": "Issue of Equity Shares",
+    "OPTION 4": "Redemption of Debt",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 53,
+    "QUESTIONS": "Ratio of Net Income to Number of Equity Shares known as:",
+    "OPTION 1": "Price Earnings Ratio",
+    "OPTION 2": "Net Profit Ratio",
+    "OPTION 3": "Earnings per Share",
+    "OPTION 4": "Dividend per Share",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 54,
+    "QUESTIONS": "Trend Analysis helps comparing performance of a firm -",
+    "OPTION 1": "With other firms",
+    "OPTION 2": "Over a period of firm",
+    "OPTION 3": "With other industries",
+    "OPTION 4": "With other companies",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 55,
+    "QUESTIONS": "A Current Ratio of less than one means:",
+    "OPTION 1": "Current Liabilities < Current\nAssets",
+    "OPTION 2": "Fixed Assets > Current Assets",
+    "OPTION 3": "Current Assets <\nCurrent Liabilities",
+    "OPTION 4": "Share Capital > Current\nAssets",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 56,
+    "QUESTIONS": "A firm has Capital of Rs. 10,00,000; Sales of Rs. 5,00,000; Gross\nProfit of Rs. 2,00,000 and Expenses of Rs. 1,00,000. What is the\nNet Profit Ratio?",
+    "OPTION 1": 0.2,
+    "OPTION 2": 0.5,
+    "OPTION 3": 0.1,
+    "OPTION 4": 0.4,
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 57,
+    "QUESTIONS": "XYZ Ltd. has earned 8% Return on Total Assests of Rs. 50,00,000\nand has a Net Profit Ratio of 5%. Find out the Sales of the firm.",
+    "OPTION 1": "Rs. 4,00,000",
+    "OPTION 2": "Rs. 2,50,000",
+    "OPTION 3": "Rs. 80,00,000",
+    "OPTION 4": "Rs. 83,33,333",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 58,
+    "QUESTIONS": "Suppliers and Creditors of a firm are interested in:",
+    "OPTION 1": "Profitability Position",
+    "OPTION 2": "Liquidity Position",
+    "OPTION 3": "Market Share Position",
+    "OPTION 4": "Debt Position",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 59,
+    "QUESTIONS": "Which of the following is a measure of Debt Service capacity of a\nfirm?",
+    "OPTION 1": "Current Ratio",
+    "OPTION 2": "Acid Test Ratio",
+    "OPTION 3": "Interest Coverage Ratio",
+    "OPTION 4": "Debtors Turnover",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 60,
+    "QUESTIONS": "Gross Profit Ratio for a firm remains same but the Net Profit Ratio\nis decreasing. The reason for such\nbehavior could be:",
+    "OPTION 1": "Increase in Costs of Goods Sold",
+    "OPTION 2": "If Increase in Expense",
+    "OPTION 3": "Increase in Dividend",
+    "OPTION 4": "Decrease in Sales",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 61,
+    "QUESTIONS": "Which of the following statements is correct?",
+    "OPTION 1": "A Higher Receivable Turnover\nis not desirable",
+    "OPTION 2": "Interest Coverage Ratio\ndepends upon Tax Rate",
+    "OPTION 3": "Increase in Net Profit\nRatio means increase in\nSales",
+    "OPTION 4": "Lower Debt-Equity Ratio\nmeans lower Financial\nRisk",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 62,
+    "QUESTIONS": "Debt to Total Assets of a firm is 2. The Debt to Equity would be:",
+    "OPTION 1": 0.8,
+    "OPTION 2": 0.25,
+    "OPTION 3": 1,
+    "OPTION 4": 0.75,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 63,
+    "QUESTIONS": "Which of the following helps analysing return to equity\nShareholders?",
+    "OPTION 1": "Return on Assets",
+    "OPTION 2": "Earnings Per Share",
+    "OPTION 3": "Net Profit Ratio",
+    "OPTION 4": "Return on Investment",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 64,
+    "QUESTIONS": "Return on Assets and Return on Investment Ratios belong to:",
+    "OPTION 1": "Liquidity Ratios",
+    "OPTION 2": "Profitability Ratios",
+    "OPTION 3": "Solvency Ratios",
+    "OPTION 4": "Turnover",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 65,
+    "QUESTIONS": "XYZ Ltd. has a Debt Equity Ratio of 1.5 as compared to 1.3\nIndustry average. It means that the firm has:",
+    "OPTION 1": "Higher Liquidity",
+    "OPTION 2": "Higher Financial Risk",
+    "OPTION 3": "Higher Profitability",
+    "OPTION 4": "Higher Capital Employed",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 66,
+    "QUESTIONS": "Ratio Analysis can be used to study liquidity, turnover,\nprofitability, etc. of a firm. What does Debt-Equity Ratio help to\nstudy?",
+    "OPTION 1": "Solvency",
+    "OPTION 2": "Liquidity",
+    "OPTION 3": "Profitability",
+    "OPTION 4": "Turnover",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 67,
+    "QUESTIONS": "In Inventory Turnover calculation, what is taken in the numerator?",
+    "OPTION 1": "Sales",
+    "OPTION 2": "Cost of Goods Sold",
+    "OPTION 3": "Opening Stock",
+    "OPTION 4": "Closing Stock",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 68,
+    "QUESTIONS": "Statement of cash flows are included in:",
+    "OPTION 1": "Ind AS - 3",
+    "OPTION 2": "Ind AS - 6",
+    "OPTION 3": "Ind AS - 7",
+    "OPTION 4": "Ind AS - 113",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 69,
+    "QUESTIONS": "Cost of capital refers to:",
+    "OPTION 1": "Flotation Cost",
+    "OPTION 2": "Dividend",
+    "OPTION 3": "Required Rate of Return",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 70,
+    "QUESTIONS": "Which of the following sources of funds has an implicit cost of\ncapital?",
+    "OPTION 1": "Equity Share Capital",
+    "OPTION 2": "Preference Share Capital",
+    "OPTION 3": "Debentures",
+    "OPTION 4": "Retained earnings",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 71,
+    "QUESTIONS": "Which of the following has the highest cost of capital?",
+    "OPTION 1": "Equity shares",
+    "OPTION 2": "Loans",
+    "OPTION 3": "Bonds",
+    "OPTION 4": "Preference shares",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 72,
+    "QUESTIONS": "Cost of capital for Government securities is also known as:",
+    "OPTION 1": "Risk-free Rate of Interest",
+    "OPTION 2": "Maximum Rate of Return",
+    "OPTION 3": "Rate of Interest on\nFixed Deposits",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 73,
+    "QUESTIONS": "Cost of capital for bonds and debentures is calculated on:",
+    "OPTION 1": "Before Tax basis",
+    "OPTION 2": "After Tax basis",
+    "OPTION 3": "Risk-free Rate of\nInterest basis",
+    "OPTION 4": "Compound interest",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 74,
+    "QUESTIONS": "Weighted Average Cost of Capital (WACC) is generally denoted\nby:",
+    "OPTION 1": "k_{a}",
+    "OPTION 2": "k_{w}",
+    "OPTION 3": "k_{0}",
+    "OPTION 4": "k_{c}",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 75,
+    "QUESTIONS": "Which of the following cost of capital require tax adjustment?",
+    "OPTION 1": "Cost of Equity Shares",
+    "OPTION 2": "Cost of Preference Shares",
+    "OPTION 3": "Cost of Debentures",
+    "OPTION 4": "Cost of Retained\nEarnings",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 76,
+    "QUESTIONS": "Which is the most expensive source of funds?",
+    "OPTION 1": "New Equity Shares",
+    "OPTION 2": "New Preference Shares",
+    "OPTION 3": "New Debts",
+    "OPTION 4": "Retained Earnings",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 77,
+    "QUESTIONS": "Marginal cost of capital is the cost of:",
+    "OPTION 1": "Additional Sales",
+    "OPTION 2": "Additional Funds",
+    "OPTION 3": "Additional Interests",
+    "OPTION 4": "Additional Revenue",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 78,
+    "QUESTIONS": "In case the firm is all-equity financed, the WACC would be equal\nto:",
+    "OPTION 1": "Cost of Debt",
+    "OPTION 2": "Cost of Equity",
+    "OPTION 3": "Neither (1) nor (2)",
+    "OPTION 4": "Both (1) and (2)",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 79,
+    "QUESTIONS": "In order to calculate Weighted Average Cost of capitals (WACC)\nweights may be based on:",
+    "OPTION 1": "Market Values",
+    "OPTION 2": "Target Values",
+    "OPTION 3": "Book Values",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 80,
+    "QUESTIONS": "Firm\u2019s cost of capital is the average cost of:",
+    "OPTION 1": "All sources",
+    "OPTION 2": "All borrowings",
+    "OPTION 3": "Share capital",
+    "OPTION 4": "Share, Bonds and\nDebentures",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 81,
+    "QUESTIONS": "An implicit cost of increasing proportion of debt is:",
+    "OPTION 1": "Tax should would not be\navailable on new debt",
+    "OPTION 2": "P/E Ratio would increase",
+    "OPTION 3": "Equity shareholders\nwould demand higher\nreturn",
+    "OPTION 4": "Rate of Return of the\ncompany would decrease.",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 82,
+    "QUESTIONS": "Cost of redeemable preference share capital is:",
+    "OPTION 1": "Rate of Dividend",
+    "OPTION 2": "After Tax Rate of Dividend",
+    "OPTION 3": "Discount Rate that\nequates PV of inflows\nand out-flows relating to\ncapital",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 83,
+    "QUESTIONS": "Which of the following is true?",
+    "OPTION 1": "Retained earnings are cost free",
+    "OPTION 2": "External Equity is cheaper\nthan Internal Equity",
+    "OPTION 3": "Retained Earnings are\ncheaper than External\nEquity",
+    "OPTION 4": "Retained Earnings are\ncostlier than External\nEquity",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 84,
+    "QUESTIONS": "Capital Budgeting is a part of:",
+    "OPTION 1": "Investment Decision",
+    "OPTION 2": "Working Capital Management",
+    "OPTION 3": "Marketing Management",
+    "OPTION 4": "Capital Structure",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 85,
+    "QUESTIONS": "Capital Budgeting deals with:",
+    "OPTION 1": "Long-term Decisions",
+    "OPTION 2": "Short-term Decisions",
+    "OPTION 3": "Both (1) and (2)",
+    "OPTION 4": "Neither (1) nor (2)",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 86,
+    "QUESTIONS": "Which of the following is not used in Capital Budgeting?",
+    "OPTION 1": "Time Value of Money",
+    "OPTION 2": "Sensitivity Analysis",
+    "OPTION 3": "Net Assets Method",
+    "OPTION 4": "Cash Flows",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 87,
+    "QUESTIONS": "Capital Budgeting Decisions are:",
+    "OPTION 1": "Reversible",
+    "OPTION 2": "Irreversible",
+    "OPTION 3": "Unimportant",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 88,
+    "QUESTIONS": "Which of the following is not incorporated in Capital Budgeting?",
+    "OPTION 1": "Tax-Effect",
+    "OPTION 2": "Time Value of Money",
+    "OPTION 3": "Required Rate of Return",
+    "OPTION 4": "Rate of Cash Discount",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 89,
+    "QUESTIONS": "Which of the following is not a capital budgeting decision?",
+    "OPTION 1": "Expansion Programme",
+    "OPTION 2": "Merger",
+    "OPTION 3": "Replacement of an\nAsset",
+    "OPTION 4": "Inventory Level",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 90,
+    "QUESTIONS": "A sound Capital Budgeting technique is based on:",
+    "OPTION 1": "Cash Flows",
+    "OPTION 2": "Accounting Profit",
+    "OPTION 3": "Interest Rate on\nBorrowings",
+    "OPTION 4": "Last Dividend Paid",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 91,
+    "QUESTIONS": "Which of the following is not a relevant cost in Capital Budgeting?",
+    "OPTION 1": "Sunk Cost",
+    "OPTION 2": "Opportunity Cost",
+    "OPTION 3": "Allocated Overheads",
+    "OPTION 4": "Both (1) and (3) above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 92,
+    "QUESTIONS": "Capital Budgeting Decisions are based on:",
+    "OPTION 1": "Incremental Profit",
+    "OPTION 2": "Incremental Cash Flows",
+    "OPTION 3": "Incremental Assets",
+    "OPTION 4": "Incremental Capital",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 93,
+    "QUESTIONS": "Which of the following does not effect cash flows proposal?",
+    "OPTION 1": "Salvage Value",
+    "OPTION 2": "Depreciation Amount",
+    "OPTION 3": "Tax Rate Change",
+    "OPTION 4": "Method of Project\nFinancing",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 94,
+    "QUESTIONS": "Cash Inflows from a project include:",
+    "OPTION 1": "Tax Shield of Depreciation",
+    "OPTION 2": "After-tax Operating Profits",
+    "OPTION 3": "Raising of Funds",
+    "OPTION 4": "Both (1) and (2)",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 95,
+    "QUESTIONS": "Which of the following is not true with reference capital\nbudgeting?",
+    "OPTION 1": "Capital budgeting is related to\nasset replacement decisions",
+    "OPTION 2": "Cost of capital is equal to\nminimum required return",
+    "OPTION 3": "Existing investment in a\nproject is not treated as\nsunk cost",
+    "OPTION 4": "Timing of cash flows is\nrelevant",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 96,
+    "QUESTIONS": "Which of the following is not followed in capital budgeting?",
+    "OPTION 1": "Cash flows Principle",
+    "OPTION 2": "Interest Exclusion Principle",
+    "OPTION 3": "Accrual Principle",
+    "OPTION 4": "Post-tax Principle",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 97,
+    "QUESTIONS": "Depreciation is incorporated in cash flows because it:",
+    "OPTION 1": "Is unavoidable cost",
+    "OPTION 2": "Is a cash flow",
+    "OPTION 3": "Reduces Tax liability",
+    "OPTION 4": "Involves an outflow",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 98,
+    "QUESTIONS": "Which of the following is not true for capital budgeting?",
+    "OPTION 1": "Sunk costs are ignored",
+    "OPTION 2": "Opportunity costs are\nexcluded",
+    "OPTION 3": "Incremental cash flows\nare considered",
+    "OPTION 4": "Relevant cash flows are\nconsidered",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 99,
+    "QUESTIONS": "Which of the following is not applied in capital budgeting?",
+    "OPTION 1": "Cash flows be calculated in\nincremental terms",
+    "OPTION 2": "All costs and benefits are\nmeasured on cash basis",
+    "OPTION 3": "All accrued costs and\nrevenues be\nincorporated",
+    "OPTION 4": "All benefits are measured\non after-tax basis",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 100,
+    "QUESTIONS": "Evaluation of Capital Budgeting proposals is based on Cash Flows\nbecause:",
+    "OPTION 1": "Cash Flows are easy to calculate",
+    "OPTION 2": "Cash Flows are suggested by\nSEBI",
+    "OPTION 3": "Cash is more important\nthan profit",
+    "OPTION 4": "Cash Flows are suggested\nby RBI",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 101,
+    "QUESTIONS": "Which of the following is not included in incremental A flows?",
+    "OPTION 1": "Opportunity Costs",
+    "OPTION 2": "Sunk Costs",
+    "OPTION 3": "Change in Working\nCapital",
+    "OPTION 4": "Inflation effect",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 102,
+    "QUESTIONS": "A proposal is not a Capital Budgeting proposal if it:",
+    "OPTION 1": "is related to Fixed Assets",
+    "OPTION 2": "brings long-term benefits",
+    "OPTION 3": "brings short-term\nbenefits only",
+    "OPTION 4": "has very large investment",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 103,
+    "QUESTIONS": "In Capital Budgeting, Sunk cost is excluded because it is:",
+    "OPTION 1": "of small amount",
+    "OPTION 2": "not incremental",
+    "OPTION 3": "not reversible",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 104,
+    "QUESTIONS": "Savings in respect of a cost is treated in capital budgeting as:",
+    "OPTION 1": "An Inflow",
+    "OPTION 2": "An Outflow",
+    "OPTION 3": "Opening balance",
+    "OPTION 4": "Closing balance",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 105,
+    "QUESTIONS": "____________ ignores the time value of money.",
+    "OPTION 1": "Internal Rate of Return (IRR)",
+    "OPTION 2": "Average Rate of Return\n(ARR)",
+    "OPTION 3": "Net Present Value\n(NPV)",
+    "OPTION 4": "Profitability Index (PI)",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 106,
+    "QUESTIONS": "The discounted cash flows techniques are:",
+    "OPTION 1": "Net Present Value (NPV)",
+    "OPTION 2": "Internal Rate of Return (IRR)",
+    "OPTION 3": "Profitability Index (PI)",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 107,
+    "QUESTIONS": "Working capital is calculated as _____.",
+    "OPTION 1": "Core current assets less core\ncurrent liabilities",
+    "OPTION 2": "Current assets less current\nliabilities",
+    "OPTION 3": "Core current assets less\ncurrent liabilities",
+    "OPTION 4": "Liquid assets less current\nliabilities",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 108,
+    "QUESTIONS": "The basic current liabilities are _____.",
+    "OPTION 1": "accounts payable and bills\npayable",
+    "OPTION 2": "bank overdraft",
+    "OPTION 3": "outstanding expenses",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 109,
+    "QUESTIONS": "There are two concepts of working capital \u2013 gross and ____",
+    "OPTION 1": "Zero",
+    "OPTION 2": "Net",
+    "OPTION 3": "Cumulative",
+    "OPTION 4": "distinctive",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 110,
+    "QUESTIONS": "Working capital is also known as___ capital.",
+    "OPTION 1": "Current asset",
+    "OPTION 2": "Operating",
+    "OPTION 3": "Projecting",
+    "OPTION 4": "Operation capital",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 111,
+    "QUESTIONS": "______ working Capital refers to the firm\u2019s investment in current\nassets.",
+    "OPTION 1": "Zero",
+    "OPTION 2": "Net",
+    "OPTION 3": "Gross",
+    "OPTION 4": "Distinctive",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 112,
+    "QUESTIONS": "In finance, \u201cworking capital\u201d means the same thing as _______\nassets.",
+    "OPTION 1": "Current",
+    "OPTION 2": "Fixed",
+    "OPTION 3": "Total",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 113,
+    "QUESTIONS": "______ working capital refers to the difference between current\nassets and current liabilities.",
+    "OPTION 1": "Zero",
+    "OPTION 2": "Net",
+    "OPTION 3": "Gross",
+    "OPTION 4": "Distinctive",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 114,
+    "QUESTIONS": "A _______ net working capital will arise when current assets\nexceed current liabilities.",
+    "OPTION 1": "Summative",
+    "OPTION 2": "Negative",
+    "OPTION 3": "Excessive",
+    "OPTION 4": "Positive",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 115,
+    "QUESTIONS": "A ______ net working capital occurs when current liabilities are in\nexcess of current assets.",
+    "OPTION 1": "Positive",
+    "OPTION 2": "Negative",
+    "OPTION 3": "Excessive",
+    "OPTION 4": "Zero",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 116,
+    "QUESTIONS": "X Ltd. distributes its products to more than 500 retailers. The\ncompany\u2019s collection period is 30 days and keeps its inventory for\n20 days. The operating cycle would be:",
+    "OPTION 1": "40 Days",
+    "OPTION 2": "43 Days",
+    "OPTION 3": "45 Days",
+    "OPTION 4": "50 Days",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 117,
+    "QUESTIONS": "________ refers to the funds, which an organisation must possess\nto finance its day to day operations.",
+    "OPTION 1": "Retained earnings",
+    "OPTION 2": "Fixed capital",
+    "OPTION 3": "Working Capital",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 118,
+    "QUESTIONS": "Investment in current assets should be _____",
+    "OPTION 1": "just adequate",
+    "OPTION 2": "more",
+    "OPTION 3": "less",
+    "OPTION 4": "maximum",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 119,
+    "QUESTIONS": "_______ varies inversely with profitability.",
+    "OPTION 1": "Risk",
+    "OPTION 2": "Assets",
+    "OPTION 3": "Liquidity",
+    "OPTION 4": "Revenue",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 120,
+    "QUESTIONS": "Capital intensive firms rely on ______",
+    "OPTION 1": "debt",
+    "OPTION 2": "retained earnings",
+    "OPTION 3": "short term debts",
+    "OPTION 4": "equity",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 121,
+    "QUESTIONS": "On the basis of _____, working capital is classified as gross\nworking capital and net working capital.",
+    "OPTION 1": "concept",
+    "OPTION 2": "time",
+    "OPTION 3": "future",
+    "OPTION 4": "work",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 122,
+    "QUESTIONS": "______ cycle analyzes the accounts receivable, inventory, and\naccounts payable cycles in terms of a number of days?",
+    "OPTION 1": "Business",
+    "OPTION 2": "Current asset",
+    "OPTION 3": "Operation",
+    "OPTION 4": "Operating",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 123,
+    "QUESTIONS": "_______ method is not used for calculating working capital cycle.",
+    "OPTION 1": "Trial and error method",
+    "OPTION 2": "Regression analysis method",
+    "OPTION 3": "Percentage of sales\nmethod",
+    "OPTION 4": "Operating cycle approach",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 124,
+    "QUESTIONS": "On the basis of _____, working capital may be classified as: 1)\nPermanent or fixed working capital. 2) Temporary or variable\nworking capital.",
+    "OPTION 1": "concept",
+    "OPTION 2": "time",
+    "OPTION 3": "future",
+    "OPTION 4": "work",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 125,
+    "QUESTIONS": "Operating cycle is also called as _____",
+    "OPTION 1": "Business cycle",
+    "OPTION 2": "Working capital cycle",
+    "OPTION 3": "Working cycle",
+    "OPTION 4": "Current asset cycle",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 126,
+    "QUESTIONS": "Spontaneous financing consists of ______",
+    "OPTION 1": "a line of credit",
+    "OPTION 2": "short-term loans",
+    "OPTION 3": "accounts receivable",
+    "OPTION 4": "accounts payable",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 127,
+    "QUESTIONS": "Conversation of marketable securities into cash entails a fixed cost\nof Rs.1,000 per transaction. What will be the optimal conversation\nsize as per Baumol model of cash management?",
+    "OPTION 1": "Rs. 315,628",
+    "OPTION 2": "Rs. 316,228",
+    "OPTION 3": "Rs. 317,678",
+    "OPTION 4": "Rs. 318,426",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 128,
+    "QUESTIONS": "Average collection period is 2 months, cash sales and average\nreceivables are Rs.5,00,000 and Rs.6,50,000 respectively. The\nsales amount would be-",
+    "OPTION 1": "Rs. 40,00,000",
+    "OPTION 2": "Rs. 42,00,000",
+    "OPTION 3": "Rs. 44,00,000",
+    "OPTION 4": "Rs. 48,50,000",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 129,
+    "QUESTIONS": "If the current ratio is 2.4:1 and working capital is Rs.25,20,000,\nfind the amount of current assets and current liabilities.",
+    "OPTION 1": "Current Assets Rs. 43,20,000\nand Current Liabilities\nRs.18,00,000",
+    "OPTION 2": "Current Assets Rs. 44,00,000\nand Current Liabilities\nRs.18,50,000",
+    "OPTION 3": "Current Assets Rs.\n45,50,000 and Current\nLiabilities Rs.\n19,00,000",
+    "OPTION 4": "Current Assets Rs.\n46,60,000 and Current\nLiabilities Rs. 19,30,000",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 130,
+    "QUESTIONS": "Operating leverage helps in analysis of:",
+    "OPTION 1": "Business Risk",
+    "OPTION 2": "Financing Risk",
+    "OPTION 3": "Production Risk",
+    "OPTION 4": "Credit Risk",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 131,
+    "QUESTIONS": "Which of the following is studied with the help of financial\nleverage?",
+    "OPTION 1": "Marketing Risk",
+    "OPTION 2": "Interest Rate Risk",
+    "OPTION 3": "Foreign Exchange Risk",
+    "OPTION 4": "Financing risk",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 132,
+    "QUESTIONS": "Combined Leverage is obtained from OL and FL by their:",
+    "OPTION 1": "Addition",
+    "OPTION 2": "Subtraction",
+    "OPTION 3": "Multiplication",
+    "OPTION 4": "Any of these",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 133,
+    "QUESTIONS": "High degree of financial leverage means:",
+    "OPTION 1": "High debt proportion",
+    "OPTION 2": "Lower debt proportion",
+    "OPTION 3": "Equal debt and equity",
+    "OPTION 4": "No debt",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 134,
+    "QUESTIONS": "Operating leverage arises because of:",
+    "OPTION 1": "Fixed Cost of Production",
+    "OPTION 2": "Fixed Interest Cost",
+    "OPTION 3": "Variable Cost",
+    "OPTION 4": "Step Cost",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 135,
+    "QUESTIONS": "Financial Leverage arises because of:",
+    "OPTION 1": "Fixed cost of production",
+    "OPTION 2": "Variable Cost",
+    "OPTION 3": "Interest Cost",
+    "OPTION 4": "Step Cost",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 136,
+    "QUESTIONS": "Operating Leverage is calculated as:",
+    "OPTION 1": "Contribution \u00f7 EBIT",
+    "OPTION 2": "EBIT\u00f7PBT",
+    "OPTION 3": "EBIT \u00f7Interest",
+    "OPTION 4": "EBIT \u00f7Tax",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 137,
+    "QUESTIONS": "Financial Leverage is calculated as:",
+    "OPTION 1": "EBIT\u00f7 Contribution",
+    "OPTION 2": "EBIT\u00f7 PBT",
+    "OPTION 3": "EBIT\u00f7 Sales",
+    "OPTION 4": "EBIT \u00f7 Variable Cost",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 138,
+    "QUESTIONS": "Which combination is generally good for firms?",
+    "OPTION 1": "High Operating leverage, High\nFinancial leverage",
+    "OPTION 2": "Low Operating leverage, Low\nFinancial leverage",
+    "OPTION 3": "High Operating\nleverage, Low Financial\nleverage",
+    "OPTION 4": "ModerateOperating\nleverage. Moderate\nFinancial leverage",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 139,
+    "QUESTIONS": "Combined leverage can be used to measure the relationship\nbetween:",
+    "OPTION 1": "EBIT and EPS",
+    "OPTION 2": "PAT and EPS",
+    "OPTION 3": "Sales and EPS",
+    "OPTION 4": "Sales and EBIT",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 140,
+    "QUESTIONS": "Financial Leverage is zero if:",
+    "OPTION 1": "EBIT = Interest",
+    "OPTION 2": "EBIT = Zero",
+    "OPTION 3": "EBIT = Fixed Cost",
+    "OPTION 4": "EBIT = Pref. Dividend",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 141,
+    "QUESTIONS": "Business risk can be measured by:",
+    "OPTION 1": "Financial leverage",
+    "OPTION 2": "Operating leverage",
+    "OPTION 3": "Combined leverage",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 142,
+    "QUESTIONS": "Financial Leverage measures relationship between",
+    "OPTION 1": "EBIT and PBT",
+    "OPTION 2": "EBIT and EPS",
+    "OPTION 3": "Sales and PBT",
+    "OPTION 4": "Sales and EPS",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 143,
+    "QUESTIONS": "Use of Preference Share Capital in Capital structure",
+    "OPTION 1": "Increases Operating leverage",
+    "OPTION 2": "Increases Financial leverage",
+    "OPTION 3": "Decreases Operating\nleverage",
+    "OPTION 4": "Decreases Financial\nleverage",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 144,
+    "QUESTIONS": "Relationship between change in sales and change in EPS is\nmeasured by:",
+    "OPTION 1": "Financial leverage",
+    "OPTION 2": "Combined leverage",
+    "OPTION 3": "Operating leverage",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 145,
+    "QUESTIONS": "Numerical data may be expressed as:",
+    "OPTION 1": "In the form of text",
+    "OPTION 2": "In the form of numbers",
+    "OPTION 3": "In the form of images",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 146,
+    "QUESTIONS": "The descriptive data may be deciphered as:",
+    "OPTION 1": "May be deciphered in the form\nof qualitative information",
+    "OPTION 2": "May be deciphered in the\nform of quantitative\ninformation",
+    "OPTION 3": "May be deciphered in\nthe form of information\nfrom informal sources",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 147,
+    "QUESTIONS": "Data represented in the form of picture is termed as:",
+    "OPTION 1": "Graphic data",
+    "OPTION 2": "Qualitative data",
+    "OPTION 3": "Quantitative data",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 148,
+    "QUESTIONS": "Which of the following is/are the reason for digitization?",
+    "OPTION 1": "Helps in work processing",
+    "OPTION 2": "Requires less physical storage\nspace",
+    "OPTION 3": "Digitized records may\nbe accessed by more\nthan one person\nsimultaneously",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 149,
+    "QUESTIONS": "To make the data turn into user friendly information, it should go\none/more of following core steps:",
+    "OPTION 1": "Collection of data",
+    "OPTION 2": "Organising the data",
+    "OPTION 3": "Data processing",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 150,
+    "QUESTIONS": "Any data expressed as a number is a ____________ data.",
+    "OPTION 1": "graphical",
+    "OPTION 2": "descriptive",
+    "OPTION 3": "numerical",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 151,
+    "QUESTIONS": "Classifying equities into small-cap, mid-cap, and large-cap\ncategories are the examples of _________ Scale",
+    "OPTION 1": "Nominal",
+    "OPTION 2": "Ordinal",
+    "OPTION 3": "Interval",
+    "OPTION 4": "Ratio",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 152,
+    "QUESTIONS": "Which of the following is a phase for a process of digitization?",
+    "OPTION 1": "Justification of the proposed\ndigitization project",
+    "OPTION 2": "Assessment",
+    "OPTION 3": "Planning",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 153,
+    "QUESTIONS": "Data science plays an important role in:",
+    "OPTION 1": "Risk analytics",
+    "OPTION 2": "Customer data management",
+    "OPTION 3": "Consumer analytics",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 154,
+    "QUESTIONS": "The primary benefit of data distribution is:",
+    "OPTION 1": "the estimation of the probability\nof any certain observation\nwithin a sample space",
+    "OPTION 2": "the estimation of the\nprobability of any certain\nobservation within a non-sample space",
+    "OPTION 3": "the estimation of the\nprobability of any\ncertain observation\nwithin a population",
+    "OPTION 4": "the estimation of the\nprobability of any certain\nobservation without a\nnon-sample space",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 155,
+    "QUESTIONS": "Binomial distribution applies to attributes:",
+    "OPTION 1": "that are categorised into two\nmutually exclusive and\nexhaustive classes",
+    "OPTION 2": "that are categorised into three\nmutually exclusive and\nexhaustive classes",
+    "OPTION 3": "that are categorised into\nless than two mutually\nexclusive and\nexhaustive classes",
+    "OPTION 4": "that are categorised into\nfour mutually exclusive\nand exhaustive classes",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 156,
+    "QUESTIONS": "The geometric distribution is a discrete distribution that assesses:",
+    "OPTION 1": "the probability of the occurrence\nof the first success",
+    "OPTION 2": "the probability of the\noccurrence of the second\nsuccess",
+    "OPTION 3": "the probability of the\noccurrence of the third\nsuccess",
+    "OPTION 4": "the probability of the\noccurrence of the less\nsuccess",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 157,
+    "QUESTIONS": "The probability density function describes:",
+    "OPTION 1": "the characteristics of a random\nvariable",
+    "OPTION 2": "the characteristics of a non-random variable",
+    "OPTION 3": "the characteristics of a\nrandom constant",
+    "OPTION 4": "the characteristics of a\nnon-random constant",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 158,
+    "QUESTIONS": "When independent variables with standard normal distribution are\nsquared and added, the _________ distribution occurs.",
+    "OPTION 1": "Normal",
+    "OPTION 2": "Chi square",
+    "OPTION 3": "Exponential",
+    "OPTION 4": "Lognormal",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 159,
+    "QUESTIONS": "The procedure that organises data into a meaningful order to make\nit simpler to comprehend, analyse, and visualise, is called\n_____________",
+    "OPTION 1": "Data validation",
+    "OPTION 2": "Data sorting",
+    "OPTION 3": "Data aggregation",
+    "OPTION 4": "Data analysis",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 160,
+    "QUESTIONS": "Following is a widely used graph for data Visualisation:",
+    "OPTION 1": "Bar chart",
+    "OPTION 2": "Pie chart",
+    "OPTION 3": "Histogram",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 161,
+    "QUESTIONS": "Following are the objectives of data visualisation:",
+    "OPTION 1": "Making a better data analysis",
+    "OPTION 2": "Faster decision making",
+    "OPTION 3": "Analysing complicated\ndata",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 162,
+    "QUESTIONS": "Following are the scope of DPA:",
+    "OPTION 1": "Defining significant meaning\n(relevant information) required\nby each audience member in\nevery scenario.",
+    "OPTION 2": "Obtaining the proper data\n(focus area, historic reach,\nextensiveness, level of detail,\netc.)",
+    "OPTION 3": "Determining the needed\nfrequency of data\nrefreshes (the currency\nof the data)",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 163,
+    "QUESTIONS": "Maps may be used for displaying:",
+    "OPTION 1": "Pincode",
+    "OPTION 2": "Country name",
+    "OPTION 3": "State abbreviation",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 164,
+    "QUESTIONS": "A scatter plot displays several unique data points:",
+    "OPTION 1": "on a single graph",
+    "OPTION 2": "On two different graphs",
+    "OPTION 3": "On four different graphs",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 165,
+    "QUESTIONS": "A ___________ chart depicts tasks that must be accomplished\nbefore others may begin, as well as the allocation of resources.",
+    "OPTION 1": "Bubble",
+    "OPTION 2": "Gantt",
+    "OPTION 3": "Scatter",
+    "OPTION 4": "Density",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 166,
+    "QUESTIONS": "____________ is a set of skills that aims to identify, find, modify,\nformat, and present data in a manner that ideally conveys meaning\nand provides insight.",
+    "OPTION 1": "Data Presentation Architecture",
+    "OPTION 2": "Data Presentation Hierarchy",
+    "OPTION 3": "Data Visualization\nArchitecture",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 167,
+    "QUESTIONS": "Which of the following is a data discovery platform that enables\nusers to make quicker, more informed choices by\nspeeding analytics, uncovering new business insights, and\nenhancing the precision of outcomes?",
+    "OPTION 1": "Microsoft Excel",
+    "OPTION 2": "Microsoft Power BI",
+    "OPTION 3": "QlikView",
+    "OPTION 4": "Tableau",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 168,
+    "QUESTIONS": "Which of the following is/ are the benefit/ benefits of data\nanalytics?",
+    "OPTION 1": "Improves decision making\nprocess",
+    "OPTION 2": "Increase in efficiency of\noperations",
+    "OPTION 3": "Improved service to\nstakeholders",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 169,
+    "QUESTIONS": "Which of the following is/ are the technique/s of data mining?",
+    "OPTION 1": "Association rules",
+    "OPTION 2": "Neural network",
+    "OPTION 3": "Decision tree",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 170,
+    "QUESTIONS": "XML is the abbreviated form of:",
+    "OPTION 1": "Extensible mark-up language",
+    "OPTION 2": "Extended mark-up language",
+    "OPTION 3": "Extendable mark-up\nlanguage",
+    "OPTION 4": "Extensive mark-up\nlanguage",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 171,
+    "QUESTIONS": "XBRL is the abbreviated form of:",
+    "OPTION 1": "eXtensible Business Reporting\nLanguage",
+    "OPTION 2": "eXtensive Business Reporting\nLanguage",
+    "OPTION 3": "eXtended Business\nReporting Language",
+    "OPTION 4": "eXtensive Business\nReporting Language",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 172,
+    "QUESTIONS": "Which of the following is/ are the types of cloud computing?",
+    "OPTION 1": "Private cloud",
+    "OPTION 2": "Public cloud",
+    "OPTION 3": "Hybrid cloud",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 173,
+    "QUESTIONS": "On the basis of the type of \u201csignal\u201d or \u201cfeedback\u201d provided to the\nlearning system, which of the following is not a type of machine\nlearning?",
+    "OPTION 1": "Supervised learning",
+    "OPTION 2": "Unsupervised learning",
+    "OPTION 3": "Semi supervised\nlearning",
+    "OPTION 4": "Robotic Process learning",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 174,
+    "QUESTIONS": "In recent years, business intelligence has expanded to incorporate\nmore procedures and activities designed to enhance performance.\nThese procedures consist of:",
+    "OPTION 1": "Data mining",
+    "OPTION 2": "Reporting",
+    "OPTION 3": "Querying",
+    "OPTION 4": "All of the above",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 175,
+    "QUESTIONS": "What does the term \"break-even point\" refer to?",
+    "OPTION 1": "The point where expenses are\ndouble the income",
+    "OPTION 2": "The point at which total\nrevenue equals total costs",
+    "OPTION 3": "The point where profits\nare at their maximum",
+    "OPTION 4": "The time when a firm\nrepays its debts",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 176,
+    "QUESTIONS": "Why is it important for a firm to move far from the break-even\npoint?",
+    "OPTION 1": "To increase tax liabilities",
+    "OPTION 2": "To attract new investors",
+    "OPTION 3": "To ensure survival\nagainst seasonal\nfluctuations",
+    "OPTION 4": "To avoid employee\nlayoffs",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 177,
+    "QUESTIONS": "What is one reason profit maximization is criticized?",
+    "OPTION 1": "It enhances employee\nsatisfaction",
+    "OPTION 2": "It increases the firm's equity\nbase",
+    "OPTION 3": "It can lead to\nexploitation of workers\nand consumers",
+    "OPTION 4": "It ensures long-term\nsustainability",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 178,
+    "QUESTIONS": "What is a key assumption of the time value of money concept in\nfinancial decision-making?",
+    "OPTION 1": "The timing of cash flows\naffects their value",
+    "OPTION 2": "Cash flows occur at the same\ntime",
+    "OPTION 3": "Money depreciates\nautomatically",
+    "OPTION 4": "Interest rates have no\nimpact on investment",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 179,
+    "QUESTIONS": "In which situation is the time value of money most relevant?",
+    "OPTION 1": "Evaluating historical costs",
+    "OPTION 2": "Budgeting fixed expenses",
+    "OPTION 3": "Recording daily\ntransactions",
+    "OPTION 4": "Comparing cash flows at\ndifferent points in time",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 180,
+    "QUESTIONS": "What is the present value of \u20b92,000 receivable 5 years from now at\nan 8% annual discount rate?",
+    "OPTION 1": 1500,
+    "OPTION 2": 1200.5,
+    "OPTION 3": 1361.73,
+    "OPTION 4": 1750.2,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 181,
+    "QUESTIONS": "If the future value remains the same, what happens to present value\nif the time period increases?",
+    "OPTION 1": "Present value decreases",
+    "OPTION 2": "Present value increases",
+    "OPTION 3": "Present value remains\nunchanged",
+    "OPTION 4": "Present value becomes\nzero",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 182,
+    "QUESTIONS": "What type of risk is caused by factors that affect the entire market\nor economy?",
+    "OPTION 1": "Unsystematic Risk",
+    "OPTION 2": "Credit Risk",
+    "OPTION 3": "Systematic Risk",
+    "OPTION 4": "Default Risk",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 183,
+    "QUESTIONS": "Given: Beta = 1.2, Risk-free rate = 4%, Expected market return =\n12%. What is the expected return on the security?",
+    "OPTION 1": 0.12,
+    "OPTION 2": 0.104,
+    "OPTION 3": 0.136,
+    "OPTION 4": 0.152,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 184,
+    "QUESTIONS": "SPO refers to___________ , the second and subsequent time a\ncompany raises money from the public directly.",
+    "OPTION 1": "Secondary Public Offering",
+    "OPTION 2": "Second Public Offering",
+    "OPTION 3": "Subsequent Public Offer",
+    "OPTION 4": "Subsequent Public\nOffering",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 185,
+    "QUESTIONS": "Which of the following is an example of a non-banking financial\nintermediary?",
+    "OPTION 1": "LIC (Life Insurance\nCorporation)",
+    "OPTION 2": "Reserve Bank of India",
+    "OPTION 3": "State Bank of India",
+    "OPTION 4": "Ministry of Finance",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 186,
+    "QUESTIONS": "What is the primary role of the Reserve Bank of India (RBI)?",
+    "OPTION 1": "To collect taxes from citizens",
+    "OPTION 2": "To maintain India\u2019s monetary\nand financial stability",
+    "OPTION 3": "To manage public\nsector banks",
+    "OPTION 4": "To regulate stock markets",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 187,
+    "QUESTIONS": "Which of the following is an example of a sector that may receive\nrefinance support from RBI?",
+    "OPTION 1": "Real estate",
+    "OPTION 2": "Film industry",
+    "OPTION 3": "Retail trade",
+    "OPTION 4": "Export sector",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 188,
+    "QUESTIONS": "Which of the following assets can be used to maintain Statutory\nLiquidity Ratio (SLR)?",
+    "OPTION 1": "Personal loans",
+    "OPTION 2": "Government securities, cash,\nand gold",
+    "OPTION 3": "Real estate investments",
+    "OPTION 4": "Corporate shares",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 189,
+    "QUESTIONS": "What is the purpose of maintaining CRR?",
+    "OPTION 1": "To increase bank profits",
+    "OPTION 2": "To control inflation only",
+    "OPTION 3": "To ensure banks have\nenough cash to meet\nwithdrawal needs",
+    "OPTION 4": "To promote stock market\ninvestments",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 190,
+    "QUESTIONS": "What does the Liquidity Adjustment Facility (LAF) primarily deal\nwith?",
+    "OPTION 1": "Managing long-term loans to\nthe government",
+    "OPTION 2": "Daily liquidity injection and\nabsorption through repo and\nreverse repo",
+    "OPTION 3": "Regulating foreign\nexchange reserves",
+    "OPTION 4": "Issuing new currency\nnotes",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 191,
+    "QUESTIONS": "An increase in Repo Rate by RBI is generally aimed at:",
+    "OPTION 1": "Controlling inflation by making\nborrowing costlier",
+    "OPTION 2": "Encouraging borrowing by\nbanks",
+    "OPTION 3": "Boosting exports",
+    "OPTION 4": "Reducing the cash\nreserve ratio",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 192,
+    "QUESTIONS": "What is the main purpose of Open Market Operations (OMO)?",
+    "OPTION 1": "To fund government spending",
+    "OPTION 2": "To control stock market\nvolatility",
+    "OPTION 3": "To regulate medium-term liquidity in the\neconomy",
+    "OPTION 4": "To provide long-term\ncapital to banks",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 193,
+    "QUESTIONS": "Who is the sole authority for issuing currency notes in India?",
+    "OPTION 1": "Ministry of Finance",
+    "OPTION 2": "State Bank of India",
+    "OPTION 3": "Reserve Bank of India",
+    "OPTION 4": "Indian Banks\u2019\nAssociation",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 194,
+    "QUESTIONS": "The increasing importance of the foreign exchange market in India\nis due to:",
+    "OPTION 1": "A decline in international\ninvestments",
+    "OPTION 2": "India's isolation from global\nmarkets",
+    "OPTION 3": "Restriction on currency\nexchange",
+    "OPTION 4": "Increased trade and\ncapital flows",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 195,
+    "QUESTIONS": "Which of the following is empowered to issue, renew, modify,\nsuspend, or cancel registration certificates of insurers?",
+    "OPTION 1": "IRDA",
+    "OPTION 2": "SEBI",
+    "OPTION 3": "RBI",
+    "OPTION 4": "LIC",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 196,
+    "QUESTIONS": "Who supervises the functioning of the Tariff Advisory Committee?",
+    "OPTION 1": "LIC",
+    "OPTION 2": "RBI",
+    "OPTION 3": "SEBI",
+    "OPTION 4": "IRDA",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 197,
+    "QUESTIONS": "IRDA has the power to specify how insurers should:",
+    "OPTION 1": "File for bankruptcy",
+    "OPTION 2": "Maintain and report their\naccounts",
+    "OPTION 3": "Manage real estate",
+    "OPTION 4": "Issue credit cards",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 198,
+    "QUESTIONS": "How can an Angel Fund raise money?",
+    "OPTION 1": "Through bank loans",
+    "OPTION 2": "By issuing shares to the public",
+    "OPTION 3": "By issuing units to\nangel investors",
+    "OPTION 4": "By crowdfunding\nplatforms",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 199,
+    "QUESTIONS": "Compared to mutual funds, hedge funds are:",
+    "OPTION 1": "More regulated",
+    "OPTION 2": "Less regulated",
+    "OPTION 3": "Equally regulated",
+    "OPTION 4": "Regulated by RBI",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 200,
+    "QUESTIONS": "A major characteristic of hedge fund returns is:",
+    "OPTION 1": "Guaranteed fixed returns",
+    "OPTION 2": "High correlation with equity\nmarkets",
+    "OPTION 3": "Consistency of returns\nand capital preservation",
+    "OPTION 4": "Government-backed\nguarantees",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 201,
+    "QUESTIONS": "Which of the following is a feature of hedge funds?",
+    "OPTION 1": "Investment only in government\nsecurities",
+    "OPTION 2": "Strict adherence to equity-only investment",
+    "OPTION 3": "Flexibility in investment\noptions",
+    "OPTION 4": "Tax-free returns",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 202,
+    "QUESTIONS": "What is the main function of SEBI as per its preamble?",
+    "OPTION 1": "To protect investors and\nregulate the securities market",
+    "OPTION 2": "To promote foreign direct\ninvestment",
+    "OPTION 3": "To regulate banks and\ninsurance companies",
+    "OPTION 4": "To provide loans to\nstartups",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 203,
+    "QUESTIONS": "What is another name for the Primary Market?",
+    "OPTION 1": "Old issue market",
+    "OPTION 2": "New issue market",
+    "OPTION 3": "Secondary market",
+    "OPTION 4": "Derivatives market",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 204,
+    "QUESTIONS": "What is another name for the Secondary Market?",
+    "OPTION 1": "New issue market",
+    "OPTION 2": "Bond market",
+    "OPTION 3": "Derivatives market",
+    "OPTION 4": "Stock market",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 205,
+    "QUESTIONS": "Who introduced Masala Bonds in India?",
+    "OPTION 1": "Reserve Bank of India",
+    "OPTION 2": "World Bank",
+    "OPTION 3": "International Finance\nCorporation (IFC)",
+    "OPTION 4": "Ministry of Finance",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 206,
+    "QUESTIONS": "Insider trading becomes illegal when:",
+    "OPTION 1": "Done by a foreign investor",
+    "OPTION 2": "It leads to a rise in share price",
+    "OPTION 3": "It is based on\nconfidential information\nnot available to the\npublic",
+    "OPTION 4": "It is done through a SEBI-registered broker",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 207,
+    "QUESTIONS": "What does the repo rate represent?",
+    "OPTION 1": "The inflation rate in the\neconomy",
+    "OPTION 2": "The annual interest rate\nearned on a repo transaction",
+    "OPTION 3": "The profit earned from\nsecurities",
+    "OPTION 4": "The tax rate on capital\ngains",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 225,
+    "QUESTIONS": "XYZ Ltd. has a Current Ratio of 3: 1 and Net Current Assets of\n10,00,000. What are the Current Assets?",
+    "OPTION 1": 1000000,
+    "OPTION 2": 1200000,
+    "OPTION 3": 1500000,
+    "OPTION 4": 2000000,
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 226,
+    "QUESTIONS": "A firm has Capital of 18,00,000; Sales of 9,00,000; Gross Profit of\n3,00,000 and Expenses of 1,50,000. What is the Net Profit Ratio?",
+    "OPTION 1": 0.1,
+    "OPTION 2": 0.1667,
+    "OPTION 3": 0.2,
+    "OPTION 4": 0.25,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 227,
+    "QUESTIONS": "Current Assets \u20b950,00,000; Current Liabilities \u20b920,00,000; and\nStock \u20b910,00,000. What is the Liquid Ratio?",
+    "OPTION 1": "1.5 times",
+    "OPTION 2": "2 times",
+    "OPTION 3": "2.5 times",
+    "OPTION 4": "1.75 times",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 228,
+    "QUESTIONS": "JK Ltd. has a gearing of 40%. Its cost of equity is 18%, and the\ncost of debt is 12%. The company\u2019s WACC is:",
+    "OPTION 1": 0.156,
+    "OPTION 2": 0.162,
+    "OPTION 3": 0.132,
+    "OPTION 4": 0.128,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 229,
+    "QUESTIONS": "X Ltd. has issued a 10% perpetual debt of \u20b91,00,000 at par. The\ntax rate is 35%. What is the cost of capital?",
+    "OPTION 1": "10% before tax; 6.5% after tax",
+    "OPTION 2": "6.5% before tax; 10% after\ntax",
+    "OPTION 3": "10% before tax; 3.5%\nafter tax",
+    "OPTION 4": "6.5% before tax; 6.5%\nafter tax",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 230,
+    "QUESTIONS": "Using the CAPM approach, determine the cost of equity capital\nfrom the following data:Risk-free rate = 8% Market return =\n13%Beta of the firm = 1.6",
+    "OPTION 1": 0.13,
+    "OPTION 2": 0.16,
+    "OPTION 3": 0.15,
+    "OPTION 4": 0.18,
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 231,
+    "QUESTIONS": "Calculate the cost of equity capital of Mamon Ltd., whose risk-free\nrate is 10%, beta is 1.75, and market return is 15%.",
+    "OPTION 1": 0.1725,
+    "OPTION 2": 0.1875,
+    "OPTION 3": 0.165,
+    "OPTION 4": 0.1925,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 232,
+    "QUESTIONS": "Net Income Approach to capital structure decision was proposed\nby ________",
+    "OPTION 1": "J. E. Walter",
+    "OPTION 2": "D. Durand",
+    "OPTION 3": "E. Solomon",
+    "OPTION 4": "M.H. Miller and D. Orr",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 233,
+    "QUESTIONS": "If a firm has a DOL of 3.5, it means:",
+    "OPTION 1": "If sales increase by 3.5%, the\nEBIT will increase by 1%",
+    "OPTION 2": "If EBIT increases by 3.5%,\nthe EPS will increase by 1%",
+    "OPTION 3": "If sales rise by 1%,\nEBIT will rise by 3.5%",
+    "OPTION 4": "None of the above",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 234,
+    "QUESTIONS": "The Degree of Operating Leverage and Degree of Financial\nLeverage of VINTEX LTD. are 2.00 and 1.5 respectively. What\nwill be the percentage change in EPS if the sales increase by 10%?",
+    "OPTION 1": "10% increase",
+    "OPTION 2": "30% increase",
+    "OPTION 3": "35% increase",
+    "OPTION 4": "15% increase",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 235,
+    "QUESTIONS": "What is data?",
+    "OPTION 1": "Processed facts and figures with\nmeaning",
+    "OPTION 2": "Raw facts and figures, often\nnumbers or text strings",
+    "OPTION 3": "Analysis of information\nfor decision making",
+    "OPTION 4": "Knowledge gained from\nexperience",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 236,
+    "QUESTIONS": "Which of the following represents the correct flow from raw input\nto decision making?",
+    "OPTION 1": "Knowledge \u2192 Data \u2192\nInformation",
+    "OPTION 2": "Data \u2192 Knowledge \u2192\nInformation",
+    "OPTION 3": "Information \u2192 Data \u2192\nKnowledge",
+    "OPTION 4": "Data \u2192 Information \u2192\nKnowledge",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 237,
+    "QUESTIONS": "Which of the following is an example of quantitative financial\ndata?",
+    "OPTION 1": "Management discussion and\nanalysis in text",
+    "OPTION 2": "Stock price data",
+    "OPTION 3": "Executive interviews on\nbusiness channels",
+    "OPTION 4": "Video presentations",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 238,
+    "QUESTIONS": "Qualitative financial data can be in the form of:",
+    "OPTION 1": "Financial statements",
+    "OPTION 2": "Stock prices",
+    "OPTION 3": "Text, videos, and audio",
+    "OPTION 4": "Numerical tables",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 239,
+    "QUESTIONS": "Which of the following is easier after digitization?",
+    "OPTION 1": "Reusing very large maps or\ndata from microfilms",
+    "OPTION 2": "Increasing the size of physical\nfiles",
+    "OPTION 3": "Preventing data backups",
+    "OPTION 4": "Limiting data access to a\nsingle location",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 240,
+    "QUESTIONS": "Digitization requires:",
+    "OPTION 1": "More physical storage space",
+    "OPTION 2": "Less physical storage space",
+    "OPTION 3": "No changes in storage\nrequirements",
+    "OPTION 4": "More manual filing",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 241,
+    "QUESTIONS": "Which of the following is a benefit of digitization during disasters?",
+    "OPTION 1": "Makes backup files harder to\nretrieve",
+    "OPTION 2": "Easier to keep backup files\nand retrieve data during\nunexpected disasters",
+    "OPTION 3": "Increases physical\nstorage space\nrequirements",
+    "OPTION 4": "Limits access to one\nlocation only",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 242,
+    "QUESTIONS": "Resources that may face quick destruction should be:",
+    "OPTION 1": "Ignored",
+    "OPTION 2": "Stored for later",
+    "OPTION 3": "Given low priority",
+    "OPTION 4": "Prioritized for early\ndigitization",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 243,
+    "QUESTIONS": "In which phase is it decided whether digitization will be done in-house or outsourced?",
+    "OPTION 1": "Justification",
+    "OPTION 2": "Assessment",
+    "OPTION 3": "Planning",
+    "OPTION 4": "Digitization activities",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 244,
+    "QUESTIONS": "Which phase includes deciding the digitization format (e.g.\nconsolidated or detailed)?",
+    "OPTION 1": "Justification",
+    "OPTION 2": "Assessment",
+    "OPTION 3": "Planning",
+    "OPTION 4": "Editing",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 245,
+    "QUESTIONS": "Which of the following is NOT part of the care of digitized\nrecords?",
+    "OPTION 1": "Intellectual control over data",
+    "OPTION 2": "Permission for accession of\ndata",
+    "OPTION 3": "Editing and cropping",
+    "OPTION 4": "Maintenance and\nupkeeping",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 208,
+    "QUESTIONS": "In which currency is a GDR typically denominated?",
+    "OPTION 1": "Local currency",
+    "OPTION 2": "British Pound",
+    "OPTION 3": "Indian Rupee",
+    "OPTION 4": "US Dollar",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 209,
+    "QUESTIONS": "Who facilitates the conversion of GDRs into underlying shares?",
+    "OPTION 1": "Stock exchanges",
+    "OPTION 2": "Government agencies",
+    "OPTION 3": "Depository or custodian\nbanks",
+    "OPTION 4": "Mutual funds",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 210,
+    "QUESTIONS": "What formula is used to calculate the cost of equity capital under\nthe CAPM model?",
+    "OPTION 1": "Ke = Rf \u00d7 \u03b2(Rm - Rf)",
+    "OPTION 2": "Ke = Rm + Rf + \u03b2",
+    "OPTION 3": "Ke = Rf + \u03b2(Rm - Rf)",
+    "OPTION 4": "Ke = Rm \u00d7 \u03b2 + Rf",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 211,
+    "QUESTIONS": "If the risk-free rate is 14%, the market return is 18%, and \u03b2 = 1,\nwhat is the cost of equity?",
+    "OPTION 1": 0.14,
+    "OPTION 2": 0.16,
+    "OPTION 3": 0.18,
+    "OPTION 4": 0.2,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 212,
+    "QUESTIONS": "What is the formula for calculating the cost of retained earnings\n(kr)?",
+    "OPTION 1": "kr = ke \u00d7 (1 + t) \u00d7 (1 + b)",
+    "OPTION 2": "kr = ke \u00d7 (1 \u2013 t) \u00d7 (1 \u2013 b)",
+    "OPTION 3": "kr = ke \u00f7 (1 \u2013 t)",
+    "OPTION 4": "kr = ke \u00d7 t \u00d7 b",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 213,
+    "QUESTIONS": "Company X issues 11% bonds of 100 for an amount aggregating\n200,000 at 10% premium, redeemable at par after 5 years.\nCorporate tax rate is 35%. The cost of bonds would be:",
+    "OPTION 1": 0.049,
+    "OPTION 2": 0.05,
+    "OPTION 3": 0.052,
+    "OPTION 4": 0.06,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 214,
+    "QUESTIONS": "Ramya Ltd.\u2019s share beta factor is 1.40. The risk free rate of interest\nof government securities is 9%. The expected rate of return on the\ncompany equity shares is 16%. The cost of equity capital based on\nCAPM is:",
+    "OPTION 1": 0.09,
+    "OPTION 2": 0.16,
+    "OPTION 3": 0.188,
+    "OPTION 4": 0.158,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 215,
+    "QUESTIONS": "What does a positive Net Present Value (NPV) indicate about a\nproject?",
+    "OPTION 1": "The project generates returns\nlower than the firm's required\nrate",
+    "OPTION 2": "The project will result in a\nloss",
+    "OPTION 3": "The project earns a\nreturn higher than the\nrequired rate",
+    "OPTION 4": "The firm should reject\nthe project",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 216,
+    "QUESTIONS": "A company has the following data: Sales: 2,00,000 Variable Costs:\n\u20b9160,000 Fixed Costs: \u20b920,000 What is the Degree of Operating\nLeverage (DOL)?",
+    "OPTION 1": 1.5,
+    "OPTION 2": 2,
+    "OPTION 3": 2.5,
+    "OPTION 4": 3,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 217,
+    "QUESTIONS": "A firm has: DOL = 4.0 DFL = 3.5 What is the Degree of\nCombined Leverage (DCL)?",
+    "OPTION 1": 2.5,
+    "OPTION 2": 3.5,
+    "OPTION 3": 6,
+    "OPTION 4": 14,
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 218,
+    "QUESTIONS": "According to Walter's Model, when should a company retain its\nearnings?",
+    "OPTION 1": "- When return (r) < cost of\ncapital (k)",
+    "OPTION 2": "- When return (r) = cost of\ncapital (k)",
+    "OPTION 3": "- When return (r) > cost\nof capital (k)",
+    "OPTION 4": ". When the company has\nsurplus cash",
+    "ANSWER CODE": 1
+  },
+  {
+    "SL NO": 219,
+    "QUESTIONS": "If EBIT is \u20b92,50,000 and Net Sales are \u20b912,00,000, what is the\nOperating Profit Ratio?",
+    "OPTION 1": 0.185,
+    "OPTION 2": 0.2083,
+    "OPTION 3": 0.215,
+    "OPTION 4": 0.25,
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 220,
+    "QUESTIONS": "Operating Profit is also known as:",
+    "OPTION 1": "Net Profit",
+    "OPTION 2": "Gross Profit",
+    "OPTION 3": "EBIT",
+    "OPTION 4": "EBT",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 221,
+    "QUESTIONS": "What is the formula for Operating Profit Ratio?",
+    "OPTION 1": "EBIT \u00f7 Total Assets \u00d7 100",
+    "OPTION 2": "Net Profit \u00f7 Net Sales \u00d7 100",
+    "OPTION 3": "Gross Profit \u00f7 Net\nSales \u00d7 100",
+    "OPTION 4": "EBIT \u00f7 Net Sales \u00d7 100",
+    "ANSWER CODE": 4
+  },
+  {
+    "SL NO": 222,
+    "QUESTIONS": "If the Cost of Goods Sold (COGS) is \u20b98,00,000 and the Average\nInventory is \u20b92,00,000, what is the Inventory Turnover Ratio?",
+    "OPTION 1": "4 times",
+    "OPTION 2": "6 times",
+    "OPTION 3": "7 times",
+    "OPTION 4": "5 times",
+    "ANSWER CODE": 3
+  },
+  {
+    "SL NO": 223,
+    "QUESTIONS": "A company has the following data: Net Credit Purchases\n\u20b912,00,000, Opening Accounts Payable \u20b94,00,000, Closing\nAccounts Payable \u20b98,00,000. What is the Creditors Turnover\nRatio?",
+    "OPTION 1": "1.5 times",
+    "OPTION 2": "2 times",
+    "OPTION 3": "2.5 times",
+    "OPTION 4": "3 times",
+    "ANSWER CODE": 2
+  },
+  {
+    "SL NO": 224,
+    "QUESTIONS": "A company reports Net Annual Sales of \u20b920,00,000 and has\nWorking Capital of \u20b95,00,000. What is the Working Capital\nTurnover Ratio?",
+    "OPTION 1": "2.5 times",
+    "OPTION 2": "4 times",
+    "OPTION 3": "3 times",
+    "OPTION 4": "10 times",
+    "ANSWER CODE": 3
+  }
+    ]
           },
           {
             label: "Management Accounting",
-            questions: []
+            questions: [
+        {
+        "SL NO": 1,
+        "QUESTIONS": "Management Accounting                                     .",
+        "OPTION 1": "Accumulates, summarizes and analyses the available data.",
+        "OPTION 2": "Is primarily concerned with the requirements of the management.",
+        "OPTION 3": "Makes Corporate Planning and Strategy effective.",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 2,
+        "QUESTIONS": "Management accounting can be viewed as                                .",
+        "OPTION 1": "Marketing-oriented Accounting",
+        "OPTION 2": "Management- oriented Accounting",
+        "OPTION 3": "Accounting-oriented Management",
+        "OPTION 4": "Manager-oriented Accounting",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 3,
+        "QUESTIONS": "The main objective of management accounting is\n                                      .",
+        "OPTION 1": "To maintain the accounting records",
+        "OPTION 2": "To know the amount due from customers and suppliers",
+        "OPTION 3": "To ascertain analyse and interpret the results of business operations",
+        "OPTION 4": "To record all the business transactions",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 4,
+        "QUESTIONS": "is the study of managerial aspects of financial accounting\n                                  .",
+        "OPTION 1": "Cost accounting",
+        "OPTION 2": "Financial accounting",
+        "OPTION 3": "Management accounting",
+        "OPTION 4": "Business accounting",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 5,
+        "QUESTIONS": "The purpose of management accounting is to help   make decisions",
+        "OPTION 1": "Managers",
+        "OPTION 2": "Investors",
+        "OPTION 3": "Marketers",
+        "OPTION 4": "Banks",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 6,
+        "QUESTIONS": "Management accounting assists the management in",
+        "OPTION 1": "Planning",
+        "OPTION 2": "Directing",
+        "OPTION 3": "Controlling",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 7,
+        "QUESTIONS": "‘Period of lost relevance’ is the   of the evolution of management\naccounting.",
+        "OPTION 1": "1st stage",
+        "OPTION 2": "2nd stage",
+        "OPTION 3": "3rd stage",
+        "OPTION 4": "4th stage",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 8,
+        "QUESTIONS": "                                    criteria are a set of standards for a\ncompany’s behaviour used by socially conscious investors to screen potential investments.",
+        "OPTION 1": "JIT",
+        "OPTION 2": "AMT",
+        "OPTION 3": "ESG",
+        "OPTION 4": "ABC",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 9,
+        "QUESTIONS": "Management accounting information helps managers formulate strategy by answering which of the following questions?",
+        "OPTION 1": "Who are the most important customers, and how can the company deliver value to the customers?",
+        "OPTION 2": "What is most critical capability of the company which may be technology, production, or marketing?",
+        "OPTION 3": "How can we leverage it for new strategic initiatives?",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 10,
+        "QUESTIONS": "Management accounting with specific focus on environmental issues is becoming increasingly important in organizations as environmental costs are large in many organisations. There are three specific reasons for this, which are                                      .",
+        "OPTION 1": "Environmental costs are often high in the many manufacturing organisations",
+        "OPTION 2": "Regulatory requirements often impose huge fines for non-compliance",
+        "OPTION 3": "Both 1 and 2",
+        "OPTION 4": "Companies are increasingly realizing that being socially and environmentally responsible declines their image and this has positive impact\non their bottom line.",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 11,
+        "QUESTIONS": "Management accounting is concerned with data collection from\n                          .",
+        "OPTION 1": "internal sources",
+        "OPTION 2": "external sources",
+        "OPTION 3": "internal and external\nsources",
+        "OPTION 4": "nternal or external\nsources",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 12,
+        "QUESTIONS": "Management Accounting is concerned with accounting information, which is useful to the management — This definition is given by                             .",
+        "OPTION 1": "Robert N. Antho",
+        "OPTION 2": "Brown and Howard",
+        "OPTION 3": "CIMA",
+        "OPTION 4": "The Institute of Chartered Accountants of\nEngland and Wales",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 13,
+        "QUESTIONS": "The primary objective of Management Accounting is to\n                              .",
+        "OPTION 1": "maximize profits",
+        "OPTION 2": "minimize losses",
+        "OPTION 3": "maximize profits or\nminimize losses",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 14,
+        "QUESTIONS": "Which of the following is a correct definition of activity-based management?",
+        "OPTION 1": "An approach to the costing and monitoring of activities which involves tracing resource consumption and costing final outputs. Resources are assigned to activities and activities to cost objects based on consumption estimates. The latter utilize cost drivers to attach activity costs to outputs.",
+        "OPTION 2": "The identification and evaluation of  the activity drivers used to trace the cost of activities to cost objects. It may also involve selecting activity drivers with potential to contribute to the cost management function with particular reference to cost reduction",
+        "OPTION 3": "A method of budgeting based on an activity framework and utilizing cost driver data in the budget- setting and variance feedback processes.",
+        "OPTION 4": "A system of management which uses activity-based cost information for a variety of purposes including cost reduction, cost modeling and customer profitability analysis",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 15,
+        "QUESTIONS": "Which of the following characteristics would be an indicator that a company would benefit from switching to activity based costing?",
+        "OPTION 1": "Only one homogenous product is produced on a continuous basis",
+        "OPTION 2": "The existing cost system is reliable and has produced\nexcellent results",
+        "OPTION 3": "Overhead costs are high and increasing and no one seems to\nknow why",
+        "OPTION 4": "The costs of implementing ABC out-weigh the\nbenefits",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 16,
+        "QUESTIONS": "According to the Chartered Institute of Management Accountants (CIMA), cost attribution to cost units on the basis of benefits received from indirect activities e.g. ordering, setting up, and\nassuring quality is known as:",
+        "OPTION 1": "Absorption costing",
+        "OPTION 2": "Marginal costing",
+        "OPTION 3": "Activity-based costing",
+        "OPTION 4": "Job costing",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 17,
+        "QUESTIONS": "In an ABC system, which of the following is likely to be classified\nas a batch level activity?",
+        "OPTION 1": "Machine set-up",
+        "OPTION 2": "Product design",
+        "OPTION 3": "Inspection of every\nitem produced",
+        "OPTION 4": "Production\nmanager’s work",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 18,
+        "QUESTIONS": "Activity based costing",
+        "OPTION 1": "Uses a plant wide overhead rate to\nassign overhead",
+        "OPTION 2": "Is not expensive to implement",
+        "OPTION 3": "Typically applies overhead costs using\ndirect labour hours",
+        "OPTION 4": "Uses multiple activity rates",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 19,
+        "QUESTIONS": "Which of the following activities is not a batch level activity?",
+        "OPTION 1": "Processing purchase orders",
+        "OPTION 2": "Designing products",
+        "OPTION 3": "Receive raw materials from suppliers",
+        "OPTION 4": "Setting up equipment",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 20,
+        "QUESTIONS": "Which of the following is not included in batch level activities?",
+        "OPTION 1": "Material ordering cost",
+        "OPTION 2": "Machine set-up cost",
+        "OPTION 3": "Inspection cost",
+        "OPTION 4": "Designing the\nproduct",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 21,
+        "QUESTIONS": "Assigning overhead using ABC often:",
+        "OPTION 1": "Shifts overhead costs from high-volume products to low- volume products",
+        "OPTION 2": "Shifts overhead costs from low- volume products to high-volume\nproducts",
+        "OPTION 3": "Provides the same results as traditional costing",
+        "OPTION 4": "Requires one predetermined overhead rate",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 22,
+        "QUESTIONS": "In Activity Based Costing",
+        "OPTION 1": "Non-manufacturing costs may not be assigned to products",
+        "OPTION 2": "Some manufacturing costs may be excluded from\nproduct costs",
+        "OPTION 3": "Allocation bases are the same as those used in traditional\ncosting methods",
+        "OPTION 4": "Similar to traditional costing, ABC only uses one overhead\ncost pool",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 23,
+        "QUESTIONS": "In an ABC system, the allocation bases that are used for applying\ncosts to services or procedures are called:",
+        "OPTION 1": "Cost Pool",
+        "OPTION 2": "Cost Driver",
+        "OPTION 3": "Cost Absorption",
+        "OPTION 4": "Cost Object",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 24,
+        "QUESTIONS": "Which of the following would not be deducted from sales in a\nmanagement report prepared using ABC?",
+        "OPTION 1": "Direct materials",
+        "OPTION 2": "Direct labour",
+        "OPTION 3": "Variable selling and\nadministration costs",
+        "OPTION 4": "Shipping costs",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 25,
+        "QUESTIONS": "an item for which cost measurement is required e.g. product, job or\na customer",
+        "OPTION 1": "Cost Pool",
+        "OPTION 2": "Cost Driver",
+        "OPTION 3": "Cost Absorption",
+        "OPTION 4": "Cost Object",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 26,
+        "QUESTIONS": "Which of the following is different in ABC when compared to traditional costing?",
+        "OPTION 1": "Traditional costing and ABC costing usually yield very similar product costs",
+        "OPTION 2": "In an ABC costing system, costs are only assigned to products that actually required work that gave rise to a particular cost",
+        "OPTION 3": "In ABC, batch-level costs are applied to products using unit- level bases",
+        "OPTION 4": "Under traditional costing, batch-level costs are shifted from high-volume products to low- volume\nproducts",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 27,
+        "QUESTIONS": "Process of Cost allocation under Activity Based Costing is",
+        "OPTION 1": "Cost of     Activities—Activities\n—Cost Driver – Cost allocated to cost\nobjects",
+        "OPTION 2": "Cost Driver — Cost of Activities— Cost allocated to cost objects – Activities",
+        "OPTION 3": "Activities— Cost of Activities—Cost Driver – Cost allocated to cost\nobjects",
+        "OPTION 4": "Activities—Cost Driver – Cost allocated to cost objects — Cost of\nActivities",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 28,
+        "QUESTIONS": "Cost of maintaining a building is:",
+        "OPTION 1": "Unit Level Cost",
+        "OPTION 2": "Batch Level Cost",
+        "OPTION 3": "Product Level Cost",
+        "OPTION 4": "Facility Level Cost",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 29,
+        "QUESTIONS": "should be subtracted from net product revenues instead of an\narbitrary and illogical apportionment.",
+        "OPTION 1": "Facility Level Cost",
+        "OPTION 2": "Product Level Cost",
+        "OPTION 3": "Organizational Level\nCost",
+        "OPTION 4": "High Level Cost",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 30,
+        "QUESTIONS": "The basis of apportionment of overheads which takes into account\nthe profitability of various departments is called:",
+        "OPTION 1": "FIFO basis",
+        "OPTION 2": "LIFO basis",
+        "OPTION 3": "Ability to pay basis",
+        "OPTION 4": "Activity basis",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 31,
+        "QUESTIONS": "Which of the following is the main cost driver of customer order processing activity?",
+        "OPTION 1": "Flow of the product from the assembly\nline",
+        "OPTION 2": "Order value",
+        "OPTION 3": "Number of problem suppliers",
+        "OPTION 4": "Number of machine charges",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 32,
+        "QUESTIONS": "Painting the product would be an example of which activity level\ngroups",
+        "OPTION 1": "Facility-level activity",
+        "OPTION 2": "Product-level\nactivity",
+        "OPTION 3": "Unit-level activity",
+        "OPTION 4": "Batch-level activity",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 33,
+        "QUESTIONS": "Which of the following tasks is not normally associated with an\nactivity-based costing system?",
+        "OPTION 1": "Calculation of cost\napplication rates",
+        "OPTION 2": "Identification of\ncost pools",
+        "OPTION 3": "Preparation of\nallocation matrices",
+        "OPTION 4": "Identification of cost\ndrivers",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 34,
+        "QUESTIONS": "All of the following are examples of batch level activities except:",
+        "OPTION 1": "Purchase order processing",
+        "OPTION 2": "Setting up equipment",
+        "OPTION 3": "The clerical activity associated with processing purchase orders to pro-duce an order for a standard product",
+        "OPTION 4": "Worker recreational facilities",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 35,
+        "QUESTIONS": "A cost driver -",
+        "OPTION 1": "is a force behind the overhaed cost",
+        "OPTION 2": "is an allocation base",
+        "OPTION 3": "is a transaction that is\na significant determinant of cost",
+        "OPTION 4": "is all of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 36,
+        "QUESTIONS": "Which of these is NOT a cost driver For the Activity Design of products, services & Processes ?",
+        "OPTION 1": "Number of Products in design",
+        "OPTION 2": "Number of Parts per product",
+        "OPTION 3": "Number of employee Training Programmes",
+        "OPTION 4": "Number of engineering Hours",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 37,
+        "QUESTIONS": "Which of these in NOT a Cost driver for Marketing and sales Function ?",
+        "OPTION 1": "Number of advertisements/Inserti\nons",
+        "OPTION 2": "Number of researche projects",
+        "OPTION 3": "Number of Sales personnel",
+        "OPTION 4": "sales Revenue",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 38,
+        "QUESTIONS": "Which of these in NOT a Cost driver for Customer Service Activity\n?",
+        "OPTION 1": "Number of service\ncalls",
+        "OPTION 2": "Number of Products\nserviced",
+        "OPTION 3": "Hours spent on\nservicing products",
+        "OPTION 4": "sales Revenue",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 39,
+        "QUESTIONS": "Plant depreciation is an example of which activity-level group?",
+        "OPTION 1": "Unit-level activity",
+        "OPTION 2": "Facility-level\nactivity",
+        "OPTION 3": "Batch-level activity",
+        "OPTION 4": "Product-level activity",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 40,
+        "QUESTIONS": "Under activity-based costing, ‘material ordering’ is considered as\n—",
+        "OPTION 1": "Unit-level activity",
+        "OPTION 2": "Facility-level\nactivity",
+        "OPTION 3": "Batch-level activity",
+        "OPTION 4": "Product-level activity",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 41,
+        "QUESTIONS": "Samsung an appliance manufacturer is developing a new line of ovens that uses controlled-laser technology. Research and testing costs associated with the new ovens is said to arise from a:",
+        "OPTION 1": "Unit Level Activity",
+        "OPTION 2": "Competitive Level Activity",
+        "OPTION 3": "Facility Level Activity",
+        "OPTION 4": "Product Sustaining Activity",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 42,
+        "QUESTIONS": "A homogeneous cost pool is one that:",
+        "OPTION 1": "Does not change over time",
+        "OPTION 2": "Needs many activity drivers to be allocated to a cost\nobject",
+        "OPTION 3": "Can be explained with a single activity driver",
+        "OPTION 4": "Has only one type of material assigned to it",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 43,
+        "QUESTIONS": "An Activity-Based Costing, an inspection of the product is a level\nactivity:",
+        "OPTION 1": "Unit",
+        "OPTION 2": "Batch",
+        "OPTION 3": "Product",
+        "OPTION 4": "Facility",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 44,
+        "QUESTIONS": "A company uses traditional standard costing system. The inspection and set-up costs are actually ₹1,760 against a budget of ₹2,000.\nABC system is being implemented and accordingly the number of batches is identified as the cost driver for inspection and set up. The budgeted production is 10,000 units in batches of 1,000 units whereas actually 9,000 units were produced in 11 batches. The cost per batch under ABC system will be",
+        "OPTION 1": 160,
+        "OPTION 2": 200,
+        "OPTION 3": 180,
+        "OPTION 4": 220,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 45,
+        "QUESTIONS": "X Company uses activity-based costing for Product B and Product\nD. The total estimated overhead cost for the parts administration activity pool was ₹5,50,000 and the expected activity was 2000 part types. If Product D requires 1200 part types, the amount of overhead allocated to product D for parts administration would be:",
+        "OPTION 1": "₹ 2,75,000",
+        "OPTION 2": "₹ 3,00,000",
+        "OPTION 3": "₹ 3,30,000",
+        "OPTION 4": "₹ 3,45,000",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 46,
+        "QUESTIONS": "Fast Ltd. manufactures three types of products A, B, and C following ABC System. During a period, the company incurred\n₹73,000 as inspection cost and it was worked for 10, 20 and 9 production runs respectively for producing products A, B, and C. The inspection costs for product B under the ABC system was",
+        "OPTION 1": 15000,
+        "OPTION 2": 40000,
+        "OPTION 3": 18000,
+        "OPTION 4": 24000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 47,
+        "QUESTIONS": "A company operates an activity based costing (ABC) system to attribute its overhead costs to cost objects. In its budget for the year- ending 31st August, 2022. The company expected to place a total\nof 2000 purchase orders at a total cost of ₹1,00,000. This activity and its related costs were budgeted to occur at a constant rate throughout the budget year which is divided into 13 four week periods.\nDuring the four-week period ended 30th June 2021, a total of 200 purchase orders were placed at a cost of ₹ 9,000. The over recovery\nof these costs for the four-week period was",
+        "OPTION 1": 2000,
+        "OPTION 2": 3000,
+        "OPTION 3": 1500,
+        "OPTION 4": 1000,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 48,
+        "QUESTIONS": "A company manufactures 500 units of product AX the material cost to manufacture is ₹ 1,50,000, Labour cost ₹2,65,000. Material reordering cost is ₹4,500, Material handling cost is ₹2,500 Material order – 35, Material movement – 20.\nTotal Material cost under Activity based costing is.",
+        "OPTION 1": 554,
+        "OPTION 2": "₹ 4,22,000",
+        "OPTION 3": "₹ 1,57,000",
+        "OPTION 4": 1084,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 49,
+        "QUESTIONS": "To obtain the break-even point in rupee sales value, total fixed\ncosts are divided by:",
+        "OPTION 1": "Variable cost per unit;",
+        "OPTION 2": "Contribution margin\nper unit;",
+        "OPTION 3": "Fixed cost per unit;",
+        "OPTION 4": "Profit/volume ratio.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 50,
+        "QUESTIONS": "The break-even point is the point at which:",
+        "OPTION 1": "There is no profit, no loss;",
+        "OPTION 2": "Contribution margin is equal to total\nfixed cost;",
+        "OPTION 3": "Total revenue is equal to total cost;",
+        "OPTION 4": "All of the above.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 51,
+        "QUESTIONS": "The primary difference between a fixed budget and a variable (flexible) budget is that a fixed budget:",
+        "OPTION 1": "includes only fixed costs, while a variable budget includes only variable costs.",
+        "OPTION 2": "is concerned with only further acquisitions of fixed costs, while a variable budget is concerned with expenses which vary with sales.",
+        "OPTION 3": "cannot be changed after the period begins, while a variable budget can be changed after the period\nbegins.",
+        "OPTION 4": "is a plan for a single level of sales (or other measure of activity), while a variable budget consists of several plans, one for each of several levels of sales (or other measures of\nactivity).",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 52,
+        "QUESTIONS": "Margin of safety is referred to as:",
+        "OPTION 1": "Excess of actual sales over fixed expenses;",
+        "OPTION 2": "Excess of actual sales over variable\nexpenses;",
+        "OPTION 3": "Excess of actual sales over break-even\nsales;",
+        "OPTION 4": "Excess of budgeted sales over fixed\ncosts.",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 53,
+        "QUESTIONS": "Contribution margin is known as",
+        "OPTION 1": "Marginal income",
+        "OPTION 2": "Gross profit",
+        "OPTION 3": "Net income",
+        "OPTION 4": "Net profit",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 54,
+        "QUESTIONS": "Fixed cost per unit decrease when",
+        "OPTION 1": "Production volume\nincreases",
+        "OPTION 2": "Production volume\ndecreases",
+        "OPTION 3": "Variable costs per\nunit decreases",
+        "OPTION 4": "Prime costs per unit\ndecreases",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 55,
+        "QUESTIONS": "Within a relevant range, the amount of variable costs per unit",
+        "OPTION 1": "Differs at each production level",
+        "OPTION 2": "Remains constant at each production\nlevel",
+        "OPTION 3": "Increases as production increases",
+        "OPTION 4": "Decreases as production increases",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 56,
+        "QUESTIONS": "Margin of safety is referred to as",
+        "OPTION 1": "Excess of budgeted or actual sales over the variable expenses and fixed expense, at\nbreak-even.",
+        "OPTION 2": "Excess of budgeted or actual sales revenue over the fixed expenses.",
+        "OPTION 3": "Excess of actual sales over budgeted sales.",
+        "OPTION 4": "Excess of sales revenue over the variable expenses",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 57,
+        "QUESTIONS": "Under marginal costing system, the contribution margin discloses the excess of",
+        "OPTION 1": "Revenue over fixed costs",
+        "OPTION 2": "Projected revenues over the break-even\npoint",
+        "OPTION 3": "Revenues over variable costs",
+        "OPTION 4": "Variable costs over fixed costs",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 58,
+        "QUESTIONS": "A decrease in sales price",
+        "OPTION 1": "does not affect the\nbreak-even point",
+        "OPTION 2": "lowers the fixed\ncost",
+        "OPTION 3": "Increases the break-\neven point",
+        "OPTION 4": "lowers the break-\neven point",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 59,
+        "QUESTIONS": "Determine Margin of safety if Profit is ₹15,000 and P/V ratio is\n40%.",
+        "OPTION 1": 37500,
+        "OPTION 2": 33000,
+        "OPTION 3": 38000,
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 60,
+        "QUESTIONS": "What is Margin of Safety if Sales is 20,000 units and B.E.P is\n15,000 units?",
+        "OPTION 1": "15000 units",
+        "OPTION 2": "5000 units",
+        "OPTION 3": "10000 units",
+        "OPTION 4": "20000 units",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 61,
+        "QUESTIONS": "Determine sales in rupees for desired profit if fixed cost is ₹10,000, Variable cost is ₹30,000, Sales is ₹50,000 and desired profit is\n₹5,000.",
+        "OPTION 1": 73500,
+        "OPTION 2": ". ₹75,000",
+        "OPTION 3": 5000,
+        "OPTION 4": 37500,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 62,
+        "QUESTIONS": "What will be sales in rupees for desired profit if fixed cost is\n₹30,000, desired profit is ₹15,000 and P/V ratio is 30%?",
+        "OPTION 1": "₹ 1,50,000",
+        "OPTION 2": "₹ 1,00,000",
+        "OPTION 3": "₹ 2,00,000",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 63,
+        "QUESTIONS": "Calculate sales in rupees for desired profit if fixed cost is ₹10,000, selling price is ₹20 per unit, Variable cost is ₹15 per unit and\ndesired profit is ₹1 per unit",
+        "OPTION 1": 20000,
+        "OPTION 2": 50000,
+        "OPTION 3": 70000,
+        "OPTION 4": 10000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 64,
+        "QUESTIONS": "Determine sales in units for desired profit if Fixed cost is ₹15,000,\ndesired profit is ₹5,000 Selling price per unit is ₹20 and Variable cost per unit is ₹16.",
+        "OPTION 1": "₹5,000 units",
+        "OPTION 2": 5000,
+        "OPTION 3": 10000,
+        "OPTION 4": "₹10,000 units",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 65,
+        "QUESTIONS": "What will be sales in units if fixed cost is ₹50,000 Contribution per\nunit is ₹60 and desired profit per unit is ₹10.",
+        "OPTION 1": "₹6,000 units",
+        "OPTION 2": 1000,
+        "OPTION 3": "₹1,000 units",
+        "OPTION 4": 6000,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 66,
+        "QUESTIONS": "9. Determine B.E.P in units and amount if Units produced if\n₹10,000, Fixed cost is ₹40,000, Selling price is ₹50 per unit and Variable cost us ₹30 per unit.",
+        "OPTION 1": "₹40 per unit,\n₹2,00,000",
+        "OPTION 2": "₹50 per unit,\n₹10,00,000",
+        "OPTION 3": "₹20 per unit,\n₹1,00,000",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 67,
+        "QUESTIONS": "Determine B.E.P if Sales is ₹1,00,000, Variable cost is ₹50,000\nand Profit is ₹20,000.",
+        "OPTION 1": 60000,
+        "OPTION 2": 40000,
+        "OPTION 3": 80000,
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 68,
+        "QUESTIONS": "Pv ratio will increase if there is -",
+        "OPTION 1": "a decrease in fixed cost",
+        "OPTION 2": "an increase in fixed cost",
+        "OPTION 3": "a decrease in selling price per unit",
+        "OPTION 4": "a decrease in variable cost per unit",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 69,
+        "QUESTIONS": "Under marginal costing ,the cost of product for inventory valuation includes",
+        "OPTION 1": "prime costs and variable factory\noverheads",
+        "OPTION 2": "prime cost only",
+        "OPTION 3": "prime costs and Fixed factory overheads",
+        "OPTION 4": "prime costs and all factory overheads",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 70,
+        "QUESTIONS": "period costs are :",
+        "OPTION 1": "variable cost",
+        "OPTION 2": "fixed cost",
+        "OPTION 3": "prime cost",
+        "OPTION 4": "overheads cost",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 71,
+        "QUESTIONS": "Marginal costs is taken as equal to",
+        "OPTION 1": "Prime Cost plus all variable overheads",
+        "OPTION 2": "Prime Cost minus all variable\noverheads",
+        "OPTION 3": "Variable overheads",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 72,
+        "QUESTIONS": "Contribution margin is equal to",
+        "OPTION 1": "Sales - Fixed Cost -\nProfit",
+        "OPTION 2": "Profit + Variable\nCost",
+        "OPTION 3": "Fixed Cost - Loss",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 73,
+        "QUESTIONS": "It is pallned sell 1,00,000 units of product A at ₹12 per unit. Fixed Costs are ₹2,80,000 .To achive a profit of ₹2,00,000 what would\nthe variable costs be ?",
+        "OPTION 1": "₹ 4,80,000",
+        "OPTION 2": "₹ 7,20,000",
+        "OPTION 3": "₹ 9,00,000",
+        "OPTION 4": "₹ 9,20,000",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 74,
+        "QUESTIONS": "Factors which can change the break even point",
+        "OPTION 1": "change in total fixed\ncosts",
+        "OPTION 2": "change in variable\ncosts per unit",
+        "OPTION 3": "change in the selling\nprice per unit",
+        "OPTION 4": "All of the above.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 75,
+        "QUESTIONS": "net profit ratio is 12% and bep is 40 % of total sales compute pv\nratio",
+        "OPTION 1": 0.6,
+        "OPTION 2": 0.52,
+        "OPTION 3": 0.28,
+        "OPTION 4": 0.2,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 76,
+        "QUESTIONS": "If the total cost of 1000 units is ₹ 60,000 and that of 1001 units is\n₹60,400, then the increase of ₹400 in the total cost is:",
+        "OPTION 1": "Prime cost",
+        "OPTION 2": "All variable\noverheads",
+        "OPTION 3": "Marginal cost",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 77,
+        "QUESTIONS": "Which of the following statements are true about marginal costing?",
+        "OPTION 1": "In marginal costing, fixed costs are treated as product costs",
+        "OPTION 2": "Marginal costing is not an independent system of costing",
+        "OPTION 3": "The elements of cost in marginal costing are divided into fixed and variable\ncomponents",
+        "OPTION 4": "Both b and c",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 78,
+        "QUESTIONS": "The costing method where fixed factory overheads are added to\ninventory is called:",
+        "OPTION 1": "Activity-based costing",
+        "OPTION 2": "Absorption costing",
+        "OPTION 3": "Marginal costing",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 79,
+        "QUESTIONS": "While computing profit in marginal costing:",
+        "OPTION 1": "The fixed cost gets added to the contribution",
+        "OPTION 2": "The total marginal cost gets deducted from total sales\nrevenue",
+        "OPTION 3": "The total marginal cost gets added to total sales revenue",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 80,
+        "QUESTIONS": "Which of the following assumptions are made while calculating marginal cost",
+        "OPTION 1": "Total fixed cost is constant at all levels of output",
+        "OPTION 2": "Total variable cost varies according to the volume of output",
+        "OPTION 3": "All elements of cost can be divided into fixed and variable\ncomponents",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 81,
+        "QUESTIONS": "Contribution margin in marginal costing is also known as:",
+        "OPTION 1": "Net income",
+        "OPTION 2": "Gross profit",
+        "OPTION 3": "Marginal income",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 82,
+        "QUESTIONS": "What is the opportunity cost of making a component part in a factory given no alternative use of the capacity?",
+        "OPTION 1": "The variable manufacturing cost of\nthe component",
+        "OPTION 2": "The total manufacturing cost\nof the component",
+        "OPTION 3": "The total variable cost of the component",
+        "OPTION 4": "Zero",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 83,
+        "QUESTIONS": "The difference in total cost that results from two alternative courses\nof action is called:",
+        "OPTION 1": "Relevant Cost",
+        "OPTION 2": "Opportunity Cost",
+        "OPTION 3": "Differential Cost",
+        "OPTION 4": "Marginal Cost",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 84,
+        "QUESTIONS": "Relevant costs are:",
+        "OPTION 1": "unavoidable, future and measured by cash",
+        "OPTION 2": "avoidable, future and measured by\ncash",
+        "OPTION 3": "avoidable, future and measured by profit",
+        "OPTION 4": "unavoidable, future and measured by\nprofit",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 85,
+        "QUESTIONS": "The profit at which total revenue is equal to the total cost is known\nas:",
+        "OPTION 1": "Margin of safety",
+        "OPTION 2": "Break-even point",
+        "OPTION 3": "Both a and b are\nincorrect",
+        "OPTION 4": "Both a and b are\ncorrect",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 86,
+        "QUESTIONS": "Which of the following costs would not be accounted for in a\ncompany’s recordkeeping system?",
+        "OPTION 1": "an unexpired cost",
+        "OPTION 2": "an expired cost",
+        "OPTION 3": "a product cost",
+        "OPTION 4": "an opportunity cost",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 87,
+        "QUESTIONS": "PQR Ltd. manufactures a single product which it sells for ₹ 40 per unit. Fixed cost is ₹ 60,000 per year. The contribution to sales ratio is 40%. PQR Ltd.’s Break Even Point in units is",
+        "OPTION 1": 3500,
+        "OPTION 2": 3700,
+        "OPTION 3": 3750,
+        "OPTION 4": 4000,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 88,
+        "QUESTIONS": "The break-even point of a manufacturing company is ₹1,60,000. Fixed cost is ₹48,000. Variable cost is ₹12 per unit. The PV ratio\nwill be:",
+        "OPTION 1": 0.2,
+        "OPTION 2": 0.4,
+        "OPTION 3": 0.3,
+        "OPTION 4": 0.25,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 89,
+        "QUESTIONS": "Product A generates a contribution to sales ratio of 40%. Fixed cost directly attributable to Product A amounted to ₹60,000. The sales revenue required to achieve a profit of ₹15,000 is",
+        "OPTION 1": "₹ 2,00,000",
+        "OPTION 2": "₹ 1,85,000",
+        "OPTION 3": "₹ 1,87,500",
+        "OPTION 4": "₹ 2,10,000",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 90,
+        "QUESTIONS": "XYZ Ltd. makes a special gadget for the car it manufactures. The machine for the gadget works to full capacity and incur ₹15 Lakhs and ₹40 Lakhs respectively as Variable and Fixed Costs. If all the gadgets were purchased from an outside supplier, the machine could be used to produce other items, which would earn a total contribution of ₹ 25 Lakhs. What is the maximum price that XYZ Ltd. should be willing to pay to the outside supplier for the gadgets, assuming there is no change in Fixed Costs?",
+        "OPTION 1": "₹40 Lakhs",
+        "OPTION 2": "₹65 Lakhs",
+        "OPTION 3": "₹25 Lakhs",
+        "OPTION 4": "₹15 Lakhs",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 91,
+        "QUESTIONS": "X Ltd. has 1000 units of an obsolete item which are carried in inventory at the original price of ₹ 50,000. If these items are reworked for ₹ 20,000, they can be sold for ₹ 36,000. Alternatively, they can be sold as a scrap for ₹6,000 in the market. In a decision model used to analyze the reworking proposal, the opportunity cost\nshould be taken as",
+        "OPTION 1": 16000,
+        "OPTION 2": 6000,
+        "OPTION 3": 30000,
+        "OPTION 4": 20000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 92,
+        "QUESTIONS": "The sales and profit of a firm for the year 2021 are ₹1,50,000 and\n₹20,000 and for the year 2022 are ₹1,70,000 and ₹ 25,000 respectively. The P/V Ratio of the firm is",
+        "OPTION 1": 0.15,
+        "OPTION 2": 0.2,
+        "OPTION 3": 0.25,
+        "OPTION 4": 0.3,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 93,
+        "QUESTIONS": "Which one of the following is not considered as a method of Transfer Pricing",
+        "OPTION 1": "Negotiated Transfer Pricing",
+        "OPTION 2": "Market Price Based Transfer Pricing",
+        "OPTION 3": "Fixed Cost Based Transfer Pricing",
+        "OPTION 4": "Opportunity Cost Based Transfer\nPricing",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 94,
+        "QUESTIONS": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+        "OPTION 1": "Dual pricing",
+        "OPTION 2": "Functional pricing",
+        "OPTION 3": "Congruent pricing",
+        "OPTION 4": "Optimal pricing",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 95,
+        "QUESTIONS": "The Eastern division sells goods internally to the Western division of the same company. The quoted external price in industry publications from a supplier near Eastern is ₹200 per ton plus transportation. It costs ₹20 per ton to transport the goods to Western. Eastern’s actual market cost per ton to buy the direct materials to make the transferred product is ₹100. Actual per ton direct labour is ₹50. Other actual costs of storage and handling are\n₹40. The company president selects a ₹220 transfer price. This is\nan example of:",
+        "OPTION 1": "Negotiated transfer pricing.",
+        "OPTION 2": "Cost plus 20% transfer pricing.",
+        "OPTION 3": "Cost-based transfer pricing.",
+        "OPTION 4": "Market-based transfer pricing.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 96,
+        "QUESTIONS": "Division P transfers its output to Division Q at variable cost. Once a year P charges a fixed fee to Q, representing an allowance for P’s fixed costs. This type of transfer pricing system is commonly\nknown as:",
+        "OPTION 1": "Dual pricing",
+        "OPTION 2": "Negotiated transfer pricing",
+        "OPTION 3": "Opportunity cost based transfer pricing",
+        "OPTION 4": "Two-part tariff transfer pricing",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 97,
+        "QUESTIONS": "In which of the following circumstances is there a strong argument that profit centre accounting is a waste of time?",
+        "OPTION 1": "When the transferred item is also sold on an external market",
+        "OPTION 2": "When the supplying division is based in a different country to head office",
+        "OPTION 3": "If the transferred item is a major product of the supplying division",
+        "OPTION 4": "If there is no similar product sold on an external market and the transferred item is a major product of the supplying division",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 98,
+        "QUESTIONS": "Which one of the following is not considered as a method of Transfer Pricing?",
+        "OPTION 1": "Negotiated Transfer Pricing",
+        "OPTION 2": "Market Price Based Transfer Pricing",
+        "OPTION 3": "Fixed Cost Based Transfer Pricing",
+        "OPTION 4": "Opportunity Cost Based Transfer\nPricing",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 99,
+        "QUESTIONS": "Method of pricing, when two separate pricing methods are used to price transfer of products from one subunit to another, is called:",
+        "OPTION 1": "dual pricing",
+        "OPTION 2": "functional pricing",
+        "OPTION 3": "congruent pricing",
+        "OPTION 4": "optimal pricing",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 100,
+        "QUESTIONS": "M Group has two divisions, Division P and Division Q. Division P manufactures an item that is transferred to Division Q. The item has no external market and 6,000 units produced are transferred internally each year. The costs of each division are as follows?\nVariable Cost Division P\n₹100 per unit Division Q ₹120 per unit\nFixed cost each year ₹1,20,000 ₹90,000 Head Office management decided that a transfer price should be set that provides a profit of\n₹30,000 to Division P. What should be the transfer price per unit?",
+        "OPTION 1": 145,
+        "OPTION 2": 125,
+        "OPTION 3": 120,
+        "OPTION 4": 135,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 101,
+        "QUESTIONS": "Minimax Ltd. fixes inter - divisional transfer prices for its products on the basis of cost plus a return on investment in the division. The budget for division X for 2022 – 23 appears as under -Fixed Assets\n₹8,00,000\nCurrent Assets ₹5,00,000 Debtors ₹2,00,000\nAnnual fixed cost of the division ₹8,00,000 Variable cost per unit of the product 10\nBudgeted volume ₹4,00,000 units per year Desired ROI 28%.\nTransfer price for division X is                                  ",
+        "OPTION 1": 13.05,
+        "OPTION 2": 10.7,
+        "OPTION 3": 8.7,
+        "OPTION 4": 14.7,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 102,
+        "QUESTIONS": "BC Company fixes the inter-divisional transfer prices for its products on the basis of cost, plus a return on investment\nin the division. The Budget for Division for Alpha for the year 2021-22 appears as under:\nFixed Assets ₹5,00,000 Current assets ₹3,00,000 Debtors ₹2,00,000\nAnnual Fixed Cost of the Division ₹8,00,000 Variable Cost per unit of Product ₹10 Budgeted Volume 4,00,000 units per year Desired ROI 28% on ₹10,00,000\nDetermine the transfer Price for Alpha.",
+        "OPTION 1": 12.7,
+        "OPTION 2": 17.2,
+        "OPTION 3": 27.1,
+        "OPTION 4": 11.7,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 103,
+        "QUESTIONS": "The            method of transfer pricing was introduced in order to\novercome the problems caused by using marginal cost",
+        "OPTION 1": "dual price",
+        "OPTION 2": "Two-Part Transfer\nPricing",
+        "OPTION 3": "Negotiated Transfer\nPricing",
+        "OPTION 4": "none of them",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 104,
+        "QUESTIONS": "Transfer pricing methods may be classfied",
+        "OPTION 1": "under 3 pricing\nmethod",
+        "OPTION 2": "under 4 pricing\nmethod",
+        "OPTION 3": "under 5 pricing\nmethod",
+        "OPTION 4": "under 7 pricing\nmethod",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 105,
+        "QUESTIONS": "Which of the following is true of standards?",
+        "OPTION 1": "Standards represent a\nbenchmark or a norm",
+        "OPTION 2": "Standards relate to\ninput quantity",
+        "OPTION 3": "Standards relate to\ninput cost",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 106,
+        "QUESTIONS": "Standards that can be attained only under the best circumstances\nare referred to as:",
+        "OPTION 1": "Attainable standards",
+        "OPTION 2": "Budget standards",
+        "OPTION 3": "Ideal standards",
+        "OPTION 4": "Practical standards",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 107,
+        "QUESTIONS": "Who is most likely to be held responsible for a material price\nvariance?",
+        "OPTION 1": "Line workers",
+        "OPTION 2": "Production\nsupervisors",
+        "OPTION 3": "Purchasing managers",
+        "OPTION 4": "Production\nschedulers",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 108,
+        "QUESTIONS": "Cost variance is the difference between",
+        "OPTION 1": "The standard cost and\nmarginal cost",
+        "OPTION 2": "The standards cost\nand budgeted cost",
+        "OPTION 3": "The standards cost\nand the actual cost",
+        "OPTION 4": "None of these",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 109,
+        "QUESTIONS": "Standard costing is a tool, which replaces the bottleneck of the        \ncosting.",
+        "OPTION 1": "Present",
+        "OPTION 2": "Future",
+        "OPTION 3": "Historical",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 110,
+        "QUESTIONS": "If standard cost ˃ actual, then it is:",
+        "OPTION 1": "Not favourable",
+        "OPTION 2": "Favourable",
+        "OPTION 3": "Neither favourable\nnor not favourable",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 111,
+        "QUESTIONS": "From cost control point of view the standard most commonly used\nis:",
+        "OPTION 1": "Expected standard",
+        "OPTION 2": "Theoretical standard",
+        "OPTION 3": "Normal standard",
+        "OPTION 4": "Basic standard",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 112,
+        "QUESTIONS": "When more than one material is used in the manufacture of a\nproduct, which of the following variances arises:",
+        "OPTION 1": "Material yield\nvariance",
+        "OPTION 2": "Material mix\nvariance",
+        "OPTION 3": "Material price\nvariance",
+        "OPTION 4": "Material usage\nvariance",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 113,
+        "QUESTIONS": "Which of the following equations can be used to calculate a\nmaterial quantity variance?",
+        "OPTION 1": "(AQ × AP) - (AQ ×\nSP)",
+        "OPTION 2": "(AP × SP) - (AQ ×\nSP)",
+        "OPTION 3": "(AQ × SP) - (SQ ×\nSP)",
+        "OPTION 4": "(AQ × SP) - (AQ ×\nAP)",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 114,
+        "QUESTIONS": "Which of the following equations can be used to calculate a\nmaterial price variance?",
+        "OPTION 1": "(AQ × AP) - (AQ ×\nSP)",
+        "OPTION 2": "(AP × SP) - (AQ ×\nSP)",
+        "OPTION 3": "(AQ × SP) - (SQ ×\nSP)",
+        "OPTION 4": "(AQ × SP) - (AQ ×\nAP)",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 115,
+        "QUESTIONS": "Which of the following is not likely to be a reason of unfavourable direct labour efficiency variance?",
+        "OPTION 1": "Increase in direct materials prices",
+        "OPTION 2": "Frequent break downs during\nproduction process",
+        "OPTION 3": "Lack of proper supervision",
+        "OPTION 4": "Use of old, outdated or faulty equipment",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 116,
+        "QUESTIONS": "Which of the following is a purpose of standard costing?",
+        "OPTION 1": "To determine profit at\ndifferent levels",
+        "OPTION 2": "To determine break-\neven point",
+        "OPTION 3": "To control costs",
+        "OPTION 4": "To allocate cost with\nmore accuracy",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 117,
+        "QUESTIONS": "Which of the following activities is the Standard Costing System used for?",
+        "OPTION 1": "It is a basis for implementing cost control and fixing the price of products through variance\nanalysis",
+        "OPTION 2": "It helps to ascertain the cost-volume relationship between products manufactured by the\nbusiness",
+        "OPTION 3": "It helps to establish the breakeven point for the products manufactured by the company",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 118,
+        "QUESTIONS": "Which of the following activities is true under the Standard Costing System?",
+        "OPTION 1": "The overhead volume variance is always beneficial",
+        "OPTION 2": "The idle time variance is never favourable",
+        "OPTION 3": "To calculate the overall costs, a company can either use budgetary control or standard costing but not both of those techniques",
+        "OPTION 4": "The overhead efficiency variance plus overhead expense variance is equal to the overhead budget variance for variable overheads",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 119,
+        "QUESTIONS": "A standard cost is a carefully                          unit cost which is\nprepared for each cost unit.",
+        "OPTION 1": "Pre-determined",
+        "OPTION 2": "Absorbed",
+        "OPTION 3": "Apportioned",
+        "OPTION 4": NaN,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 120,
+        "QUESTIONS": "Setting of standard involves effective utilization of       .",
+        "OPTION 1": "Men",
+        "OPTION 2": "Material",
+        "OPTION 3": "Machines",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 121,
+        "QUESTIONS": "The standard cost card contains quantities and costs for",
+        "OPTION 1": "Direct material only",
+        "OPTION 2": "Direct labour only",
+        "OPTION 3": "Direct material and direct labour only",
+        "OPTION 4": "Direct material,\ndirect labour, and overhead",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 122,
+        "QUESTIONS": "Standards differ from budgets in that:",
+        "OPTION 1": "Budgets but not standards may be used in valuing inventories",
+        "OPTION 2": "Budgets but not standards may be journalized and\nposted",
+        "OPTION 3": "Budgets are a total amount and standards are a unit amount",
+        "OPTION 4": "Only budgets contribute to management\nplanning and control",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 123,
+        "QUESTIONS": "Standard Costs:",
+        "OPTION 1": "Are imposed by governmental agencies",
+        "OPTION 2": "Are predetermined unit costs which companies use as measures of\nperformance",
+        "OPTION 3": "Can be used by manufacturing companies but not by service or not-for-\nprofit companies",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 124,
+        "QUESTIONS": "The advantages of standard costs include all of the following except:",
+        "OPTION 1": "Management by exception may be\nused",
+        "OPTION 2": "Management planning is\nfacilitated",
+        "OPTION 3": "They may simplify the costing of\ninventories",
+        "OPTION 4": "Management must use a static budget",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 125,
+        "QUESTIONS": "Normal standards:",
+        "OPTION 1": "Allow for rest periods, machine breakdowns, and setup time",
+        "OPTION 2": "Represent levels of performance under perfect operating\nconditions",
+        "OPTION 3": "Are rarely used because managers believe they lower\nworkforce morale",
+        "OPTION 4": "Are more likely than ideal standards to result in unethical\npractices",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 126,
+        "QUESTIONS": "The setting of standards is:",
+        "OPTION 1": "A managerial accounting decision",
+        "OPTION 2": "A management decision",
+        "OPTION 3": "A worker decision",
+        "OPTION 4": "Preferably set at the ideal level of\nperformance",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 127,
+        "QUESTIONS": "Which of the following is correct about the total overhead variance?",
+        "OPTION 1": "Budgeted overhead and budgeted overhead applied are the same",
+        "OPTION 2": "Total actual overhead is composed of variable overhead, fixed overhead, and\nperiod costs.",
+        "OPTION 3": "Standard hours actually worked are used in computing the variance",
+        "OPTION 4": "Standard hours allowed for the work done is the measure used in computing the variance",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 128,
+        "QUESTIONS": "What is the name given to a budget that has been prepared by re- evaluating activities and comparing the incremental costs of those\nactivities with their incremental benefits?",
+        "OPTION 1": "Incremental budget",
+        "OPTION 2": "Rolling budget",
+        "OPTION 3": "Zero based budget",
+        "OPTION 4": "Flexible budget",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 129,
+        "QUESTIONS": "A budget is an instrument of management used as an aid in the\n                          .",
+        "OPTION 1": "Planning",
+        "OPTION 2": "Programming",
+        "OPTION 3": "Control of business\nactivity",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 130,
+        "QUESTIONS": "Following may be regarded as a summary budget",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Master budget",
+        "OPTION 3": "Cash budget",
+        "OPTION 4": "Sales budget",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 131,
+        "QUESTIONS": "Purchases budget is prepared using the information from:",
+        "OPTION 1": "Capital expenditure\nbudget",
+        "OPTION 2": "Materials budget",
+        "OPTION 3": "Both (1) and (2)",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 132,
+        "QUESTIONS": "Following budget may be compiled on departmental basis:",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Purchase budget",
+        "OPTION 3": "Materials budget",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 133,
+        "QUESTIONS": "Production budget is based upon:",
+        "OPTION 1": "Sales budget",
+        "OPTION 2": "Factory capacity",
+        "OPTION 3": "Availability of raw\nmaterial and labour",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 134,
+        "QUESTIONS": "Budget includes:",
+        "OPTION 1": "Income",
+        "OPTION 2": "Expenditure",
+        "OPTION 3": "Employment of\ncapital",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 135,
+        "QUESTIONS": "A budget should be:",
+        "OPTION 1": "Rigid",
+        "OPTION 2": "Flexible",
+        "OPTION 3": "Both (1) and (2)",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 136,
+        "QUESTIONS": "The object of budgetary control is                      ",
+        "OPTION 1": "Planning",
+        "OPTION 2": "Forecasting",
+        "OPTION 3": "Organizing",
+        "OPTION 4": "Directing",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 137,
+        "QUESTIONS": "The budget which is dynamic is                       .",
+        "OPTION 1": "Flexible budget",
+        "OPTION 2": "Sales budget",
+        "OPTION 3": "Cash budget",
+        "OPTION 4": "Purchase budget",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 138,
+        "QUESTIONS": "The process of budgeting helps in the control of:",
+        "OPTION 1": "Cost of production",
+        "OPTION 2": "Liquidity",
+        "OPTION 3": "Capital Expenditure",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 139,
+        "QUESTIONS": "Plant utilization budget and Manufacturing overhead budgets are\ntypes of:",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Sales budget",
+        "OPTION 3": "Cost budget",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 140,
+        "QUESTIONS": "R&D budget and Capital expenditure budget are examples of:",
+        "OPTION 1": "Short-term budget",
+        "OPTION 2": "Current budget",
+        "OPTION 3": "Long-term budget",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 141,
+        "QUESTIONS": "The scare factors is also known as:",
+        "OPTION 1": "Key factor",
+        "OPTION 2": "Abnormal factor",
+        "OPTION 3": "Linking factor",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 142,
+        "QUESTIONS": "What is the name given to a budget that has been prepared by re-\nevaluating activities and comparing the incremental costs of those activities with their incremental benefits?",
+        "OPTION 1": "Incremental budget",
+        "OPTION 2": "Rolling budget",
+        "OPTION 3": "Zero based budget",
+        "OPTION 4": "Flexible budget",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 143,
+        "QUESTIONS": "A budget is an instrument of management used as an aid in the\n                          .",
+        "OPTION 1": "Planning",
+        "OPTION 2": "Programming",
+        "OPTION 3": "Control of business\nactivity",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 144,
+        "QUESTIONS": "Following may be regarded as a summary budget",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Master budget",
+        "OPTION 3": "Cash budget",
+        "OPTION 4": "Sales budget",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 145,
+        "QUESTIONS": "Purchases budget is prepared using the information from:",
+        "OPTION 1": "Capital expenditure\nbudget",
+        "OPTION 2": "Materials budget",
+        "OPTION 3": "Both (1) and (2)",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 146,
+        "QUESTIONS": "Following budget may be compiled on departmental basis:",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Purchase budget",
+        "OPTION 3": "Materials budget",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 147,
+        "QUESTIONS": "Production budget is based upon:",
+        "OPTION 1": "Sales budget",
+        "OPTION 2": "Factory capacity",
+        "OPTION 3": "Availability of raw\nmaterial and labour",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 148,
+        "QUESTIONS": "A budget should be:",
+        "OPTION 1": "Rigid",
+        "OPTION 2": "Flexible",
+        "OPTION 3": "Both (1) and (2)",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 149,
+        "QUESTIONS": "The object of budgetary control is                      ",
+        "OPTION 1": "Planning",
+        "OPTION 2": "Forecasting",
+        "OPTION 3": "Organizing",
+        "OPTION 4": "Directing",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 150,
+        "QUESTIONS": "The budget which is dynamic is                       .",
+        "OPTION 1": "Flexible budget",
+        "OPTION 2": "Sales budget",
+        "OPTION 3": "Cash budget",
+        "OPTION 4": "Purchase budget",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 151,
+        "QUESTIONS": "The process of budgeting helps in the control of:",
+        "OPTION 1": "Cost of production",
+        "OPTION 2": "Liquidity",
+        "OPTION 3": "Capital Expenditure",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 152,
+        "QUESTIONS": "Plant utilization budget and Manufacturing overhead budgets are\ntypes of:",
+        "OPTION 1": "Production budget",
+        "OPTION 2": "Sales budget",
+        "OPTION 3": "Cost budget",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 153,
+        "QUESTIONS": "R&D budget and Capital expenditure budget are examples of:",
+        "OPTION 1": "Short-term budget",
+        "OPTION 2": "Current budget",
+        "OPTION 3": "Long-term budget",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 154,
+        "QUESTIONS": "The scare factors is also known as:",
+        "OPTION 1": "Key factor",
+        "OPTION 2": "Abnormal factor",
+        "OPTION 3": "Linking factor",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 155,
+        "QUESTIONS": "A company usually determines the appropriate degree of decentralization based on a combination of the\n                                                           .",
+        "OPTION 1": "Managers’ personal characteristics",
+        "OPTION 2": "Nature of decisions required for organizational growth",
+        "OPTION 3": "Types of organizational activities in which the company is engaged",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 156,
+        "QUESTIONS": "Major disadvantages of Decentralization are                                   .",
+        "OPTION 1": "Can result in a lack of goal congruence or sub optimization by sub-unit managers",
+        "OPTION 2": "Requires more effective communication abilities because decision making is removed from the\nhome office",
+        "OPTION 3": "Helps top management recognizes and develop managerial talent",
+        "OPTION 4": "Both 1 and 2",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 157,
+        "QUESTIONS": "Which of the following is/are not benefit/s of Decentralization ?",
+        "OPTION 1": "Greater awareness of local problems",
+        "OPTION 2": "Allows managerial performance to be comparatively evaluated",
+        "OPTION 3": "Creates personnel difficulties upon introduction, especially if managers are unwilling to delegate effectively",
+        "OPTION 4": "Develops skill level of junior managers",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 158,
+        "QUESTIONS": "Return on Equity =",
+        "OPTION 1": "Net Profit Margin × Asset Turnover Ratio\n× Financial Leverage",
+        "OPTION 2": "Gross Profit Margin\n× Asset Turnover Ratio × Financial Leverage",
+        "OPTION 3": "Net Profit Margin × Inventory Turnover Ratio × Financial\nLeverage",
+        "OPTION 4": "Net Profit Margin × Asset Turnover Ratio × Operating\nLeverage",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 159,
+        "QUESTIONS": "According to DuPont methodology, three main financial parameters that drive Return on Equity (ROE) are\n                                                           .",
+        "OPTION 1": "(1) Employee performance,\n(2) Asset usage performance, and\n(3) Financial leverage.",
+        "OPTION 2": "(1) Operating performance,\n(2) Asset usage performance, and\n(3) Financial leverage.",
+        "OPTION 3": "(1) Operating performance,\n(2) Inventory usage performance, and\n(3) Financial leverage.",
+        "OPTION 4": "(1) Operating performance,\n(2) Asset usage performance, and\n(3) Operating leverage.",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 160,
+        "QUESTIONS": "Asset usage performance means                                       ",
+        "OPTION 1": "a very basic profitability ratio",
+        "OPTION 2": "Total Asset Turnover (Turnover\n÷ Total Assets)",
+        "OPTION 3": "the use of debt to acquire additional assets or fund\nprojects",
+        "OPTION 4": "None of these",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 161,
+        "QUESTIONS": "Financial leverage means                                                                .",
+        "OPTION 1": "a very basic profitability ratio",
+        "OPTION 2": "Total Asset Turnover (Turnover\n÷ Total Assets)",
+        "OPTION 3": "the use of debt to acquire additional assets or fund\nprojects",
+        "OPTION 4": "None of these",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 162,
+        "QUESTIONS": "According to Du Pont Analysis a company can increase its Return on Equity if it                                                    .",
+        "OPTION 1": "Generates a high Net Profit Margin",
+        "OPTION 2": "Effectively uses its\nassets so as to generate more sales",
+        "OPTION 3": "Has a high Financial Leverage",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 163,
+        "QUESTIONS": "Du Pont ROE =",
+        "OPTION 1": "Margin on Sales × Asset Turnover ×\nEquity Multiplier",
+        "OPTION 2": "Margin of Safety × Asset Turnover ×\nEquity Multiplier",
+        "OPTION 3": "Margin on Sales × Inventory Turnover ×\nEquity Multiplier",
+        "OPTION 4": "Margin on Sales × Asset Turnover ×\nDebt Multiplier",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 164,
+        "QUESTIONS": "                         expresses divisional profit as a percentage of the\nassets employed in the division.",
+        "OPTION 1": "ROI",
+        "OPTION 2": "EPS",
+        "OPTION 3": "ROCE",
+        "OPTION 4": "EBITDA",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 165,
+        "QUESTIONS": "Return on investment (ROI) is",
+        "OPTION 1": "(Profit before  tax ÷ Operations management capital employed) × 100",
+        "OPTION 2": "(Profit before interest and tax ÷ Total capital employed) × 100",
+        "OPTION 3": "(ROE ÷ Operations management capital employed) × 100",
+        "OPTION 4": "(Profit before interest and tax ÷ Operations management capital\nemployed) × 100",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 166,
+        "QUESTIONS": "RI (Residual Income)  =",
+        "OPTION 1": "Divisional profit — (Percentage of change in Sales × Divisional investment)",
+        "OPTION 2": "Divisional profit — (Percent capital charge × Total investment)",
+        "OPTION 3": "Divisional profit — (Percent capital charge × Divisional investment)",
+        "OPTION 4": "Total profit — (Percent capital charge × Divisional investment)",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 167,
+        "QUESTIONS": "The main advantages of RI is/are                                           .",
+        "OPTION 1": "It avoids suboptimal decisions as investments are not rejected merely because they lower the divisional manger’s ROI.",
+        "OPTION 2": "It maximizes growth of the company and increases shareholders’ wealth by accepting opportunities which earn a rate of return in excess of the cost of capital.",
+        "OPTION 3": "The cost of capital charge on divisional investments ensures that divisional managers are aware of the\nopportunity cost of funds.",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 168,
+        "QUESTIONS": "Acme, a division of Ace Manufacturing, has assets of ₹2,25,000 and an operating income of ₹55,000. What is the division’s ROI?",
+        "OPTION 1": 0.2444,
+        "OPTION 2": 0.23,
+        "OPTION 3": 0.25,
+        "OPTION 4": 0.5,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 169,
+        "QUESTIONS": "An investment centre has net assets of ₹8,00,000, and made profits before interest and tax of ₹1,60,000. The notional cost of capital is 12%.Calculate and comment on the RI (Residual Income) for the\nperiod.",
+        "OPTION 1": "₹ 1,60,000",
+        "OPTION 2": 96000,
+        "OPTION 3": 64000,
+        "OPTION 4": "₹ 2,56,000",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 170,
+        "QUESTIONS": "A person made a Capital Investment of ₹2,00,000 in a company. Operating profit, after taxes, is ₹28,000. The opportunity cost of\nthat investment is 10%. Calculate EVA.",
+        "OPTION 1": 20000,
+        "OPTION 2": 2800,
+        "OPTION 3": 8000,
+        "OPTION 4": 17200,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 171,
+        "QUESTIONS": "For EVA there 3 responsibility centres, which are\n                                          .",
+        "OPTION 1": "Cost centre",
+        "OPTION 2": "Profit centre",
+        "OPTION 3": "Investment centre",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 172,
+        "QUESTIONS": "The theory of learning curves will only hold if which of the following conditions apply?",
+        "OPTION 1": "The task must be repetitive",
+        "OPTION 2": "Production must be at an early stage so that there is room\nfor improvement",
+        "OPTION 3": "There is inconsistency in the workforce",
+        "OPTION 4": "Both 1 and 2",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 173,
+        "QUESTIONS": "                                                    can be used:\na.  To calculate the incremental cost of making extra units of a particular products,\nb. To set standards for labour,\nc.  To prepare realistic production budgets and to report labour cost variances, and\nd. To quote contact price.",
+        "OPTION 1": "Learning curve theory",
+        "OPTION 2": "Return on investment",
+        "OPTION 3": "Du Pont ROE",
+        "OPTION 4": "Economic Value Added",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 174,
+        "QUESTIONS": "The four Perspectives of the Balanced Scorecard are\n                                          .",
+        "OPTION 1": "1. Operational Perspective,2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+        "OPTION 2": "1. Financial\nPerspective, 2. Sellers Perspective,\n3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+        "OPTION 3": "1. Financial Perspective,2. Customers Perspective, 3. Internal business process Perspective and 4. Learning & Growth Perspectives.",
+        "OPTION 4": "1. Financial Perspective,2. Customers Perspective, 3. External process Perspective and 4. Learning & Growth Perspectives.",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 175,
+        "QUESTIONS": "MI Ltd. has earned a net profit of ₹15 lakhs after Tax at 30%. Interest cost charged by the financial institutions was ₹10 Lakhs. The Invested capital is ₹ 95 Lakhs of which 55% is debt. The company maintains a weighted average cost of capital of 13%.Compute the Operating Income.",
+        "OPTION 1": "₹ 15 lakhs",
+        "OPTION 2": "₹ 21.43 lakhs",
+        "OPTION 3": "₹ 10 lakhs",
+        "OPTION 4": "₹ 31.43 lakhs",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 176,
+        "QUESTIONS": "According to Kaplan & Norton, which of the balanced scorecard perspectives serves as the focus of the other perspectives?",
+        "OPTION 1": "Financial.",
+        "OPTION 2": "Customer.",
+        "OPTION 3": "Internal business processes.",
+        "OPTION 4": "Learning & growth.",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 177,
+        "QUESTIONS": "4. Which of the following would be considered an operating asset in return on investment computations?",
+        "OPTION 1": "Land being held for plant expansion.",
+        "OPTION 2": "Treasury stock.",
+        "OPTION 3": "Accounts receivable.",
+        "OPTION 4": "Common stock.",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 178,
+        "QUESTIONS": "A company that is seeking to increase ROI should attempt to decrease:",
+        "OPTION 1": "Sales.",
+        "OPTION 2": "Turnover.",
+        "OPTION 3": "Margin.",
+        "OPTION 4": "Average operating assets.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 179,
+        "QUESTIONS": "The performance of investment centre is based on\n                                           .",
+        "OPTION 1": "Cost of the centre",
+        "OPTION 2": "Profit of the centre",
+        "OPTION 3": "Profit and investment of the centre",
+        "OPTION 4": "Revenue of the centre",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 180,
+        "QUESTIONS": "Both costs and revenues are measured in                               . centers",
+        "OPTION 1": "Cost",
+        "OPTION 2": "Profit",
+        "OPTION 3": "Revenue",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 181,
+        "QUESTIONS": "A cost centre is a segment of the organization where the manager is responsible for                                           .",
+        "OPTION 1": "Costs",
+        "OPTION 2": "Inputs",
+        "OPTION 3": "A or B",
+        "OPTION 4": "None of these",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 182,
+        "QUESTIONS": "The performance of investment centre is based on\n                                               .",
+        "OPTION 1": "Cost of the centre",
+        "OPTION 2": "Profit of the centre",
+        "OPTION 3": "Profit and investment of the centre",
+        "OPTION 4": "Revenue of the centre",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 183,
+        "QUESTIONS": "Responsibility accounting is used for                               .",
+        "OPTION 1": "cost control",
+        "OPTION 2": "planning",
+        "OPTION 3": "decision making",
+        "OPTION 4": "pricing",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 184,
+        "QUESTIONS": "Responsibility Accounting is also known as                             .",
+        "OPTION 1": "Profitability accounting",
+        "OPTION 2": "Activity accounting",
+        "OPTION 3": "Both A and B",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 185,
+        "QUESTIONS": "Which of the following characteristics is not associated with traditional responsibility accounting?",
+        "OPTION 1": "Assumes optimization of the parts will optimize the whole.",
+        "OPTION 2": "Assumes independence of the parts.",
+        "OPTION 3": "Places emphasis on the performance of individuals.",
+        "OPTION 4": "Attempts to control processes.",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 186,
+        "QUESTIONS": "In responsibility accounting, responsibilities of various groups or individuals are identified in terms\nof                                 .",
+        "OPTION 1": "Work",
+        "OPTION 2": "Revenue",
+        "OPTION 3": "Cost",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 187,
+        "QUESTIONS": "The area of focus on responsibility center is                                      .",
+        "OPTION 1": "Quantum of sales",
+        "OPTION 2": "Quantum of production",
+        "OPTION 3": "Optimum utilization of resources",
+        "OPTION 4": "All of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 188,
+        "QUESTIONS": "In profit center revenue represents a monetary measure of output emanating from a profit center in a given period irrespective whether                                 .",
+        "OPTION 1": "The revenue is realized or not",
+        "OPTION 2": "The output is sold or not",
+        "OPTION 3": "Both A and B",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 189,
+        "QUESTIONS": "In a control report of Department X, it is mentioned as indirect materials are ₹1,000, indirect labour\n₹900, Overtime Charges ₹100, Depreciation on equipment ₹500, Allocated factory overhead (38% of factory space) ₹4,300, Allocated overhead of repair shop is ₹1,200. Determine total costs treating department X as a responsibility center.",
+        "OPTION 1": 3200,
+        "OPTION 2": 2200,
+        "OPTION 3": 1200,
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 190,
+        "QUESTIONS": "Which of the following criterion is not used for decision-making under uncertainty?",
+        "OPTION 1": "Maximin",
+        "OPTION 2": "Maximax",
+        "OPTION 3": "Minimax",
+        "OPTION 4": "Minimize expected loss",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 191,
+        "QUESTIONS": "Decision theory is concerned with\n                                                     .",
+        "OPTION 1": "Methods of arriving at an optimal decision",
+        "OPTION 2": "Selecting optimal decision in a sequential manner",
+        "OPTION 3": "Analysis of information that is available",
+        "OPTION 4": "All of these",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 192,
+        "QUESTIONS": "Which of the following criterion is not applicable to decision- making under risk?",
+        "OPTION 1": "Maximize expected return",
+        "OPTION 2": "Maximize return",
+        "OPTION 3": "Minimize expect regret",
+        "OPTION 4": "Knowledge of likelihood occurrence of each\nstate of nature",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 193,
+        "QUESTIONS": "The minimum expected opportunity loss (EOL) is\n                              .",
+        "OPTION 1": "Equal to EVPI",
+        "OPTION 2": "Minimum regret",
+        "OPTION 3": "Equal to EMV",
+        "OPTION 4": "Both (A) and (B)",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 194,
+        "QUESTIONS": "The expected value of perfect information (EVPI) is",
+        "OPTION 1": "Equal to expected regret of the optimal decision under risk",
+        "OPTION 2": "The utility of additional information",
+        "OPTION 3": "Maximum expected opportunity loss",
+        "OPTION 4": "None of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 195,
+        "QUESTIONS": "The value of the coefficient of optimism (a) is needed while using the criterion of                       .",
+        "OPTION 1": "Equally likely",
+        "OPTION 2": "Maximin",
+        "OPTION 3": "Realism",
+        "OPTION 4": "Minimax",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 196,
+        "QUESTIONS": "The decision-maker’s knowledge and experience may influence the decision-making process wi.en\nusing the criterion of                          ",
+        "OPTION 1": "Maximax",
+        "OPTION 2": "Maximax regret",
+        "OPTION 3": "Realism",
+        "OPTION 4": "Maximin",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 197,
+        "QUESTIONS": "The difference between the expected profit under conditions of risk and the expected profit with perfect information is called",
+        "OPTION 1": "The expected value of perfect information",
+        "OPTION 2": "Expected marginal loss",
+        "OPTION 3": "None of the above",
+        "OPTION 4": "Any one of the above",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 198,
+        "QUESTIONS": "A situation in which a decision maker knows all of the possible outcomes of a decision and also knows the probability associated\nwith each outcome is referred to as                          ",
+        "OPTION 1": "Certainty.",
+        "OPTION 2": "Risk.",
+        "OPTION 3": "Uncertainty.",
+        "OPTION 4": "Strategy.",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 199,
+        "QUESTIONS": "Which of the following methods of selecting a strategy is consistent with risk averting behaviour?",
+        "OPTION 1": "If two strategies have the same expected profit, select the one with the smaller standard deviation.",
+        "OPTION 2": "If two strategies have the same standard deviation, select the one with the smaller expected profit.",
+        "OPTION 3": "Select the strategy with the larger coefficient of variation.",
+        "OPTION 4": "All of the above are correct.",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 200,
+        "QUESTIONS": "Which one of the following does not measure risk?",
+        "OPTION 1": "Coefficient of variation",
+        "OPTION 2": "Standard deviation",
+        "OPTION 3": "LPP",
+        "OPTION 4": "All of the above are measures of risk.",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 201,
+        "QUESTIONS": "The sequence of possible managerial decisions and their expected outcome under each set of circumstances can be represented and\nanalysed by using                                       .",
+        "OPTION 1": "The minimax regret criterion.",
+        "OPTION 2": "A decision tree.",
+        "OPTION 3": "A payoff matrix.",
+        "OPTION 4": "Simulation.",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 202,
+        "QUESTIONS": "We are comparing two investment projects. Both have expected returns of 20%, but the standard deviation of Project A’s returns is 15%, while the standard deviation of Project B’s returns is 9%.\nWhich one is relatively riskier?",
+        "OPTION 1": "A",
+        "OPTION 2": "B",
+        "OPTION 3": "Both A and B",
+        "OPTION 4": "Bnone of these",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 203,
+        "QUESTIONS": "Two investments have different expected returns. Project A’s expected return is 20% and the standard deviation of its returns is 15%. Project B’s expected return is only 10%, while the standard deviation of its returns remains at 9%. Compute Coefficient of\nVarience of Project A.",
+        "OPTION 1": 0.2,
+        "OPTION 2": 0.75,
+        "OPTION 3": 0.9,
+        "OPTION 4": 0.1,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 204,
+        "QUESTIONS": "Which of the following is NOT a characteristic of management\naccounting?",
+        "OPTION 1": "Future-oriented",
+        "OPTION 2": "Subjective in nature",
+        "OPTION 3": "Mandatory as per law",
+        "OPTION 4": "Useful for internal\ndecision-making",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 205,
+        "QUESTIONS": "Management accounting reports are primarily intended for:",
+        "OPTION 1": "Government\nauthorities",
+        "OPTION 2": "External\nshareholders",
+        "OPTION 3": "Internal management",
+        "OPTION 4": "Credit rating\nagencies",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 206,
+        "QUESTIONS": "A key feature of management accounting is that it:",
+        "OPTION 1": "Provides real-time\ndata for decisions",
+        "OPTION 2": "Follows GAAP\nstrictly",
+        "OPTION 3": "Is audited annually",
+        "OPTION 4": "Is used only by\nexternal parties",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 207,
+        "QUESTIONS": "The technique used in management accounting to compare actual\nresults with planned performance is:",
+        "OPTION 1": "Ledger balancing",
+        "OPTION 2": "Trial balance\npreparation",
+        "OPTION 3": "Variance analysis",
+        "OPTION 4": "Cash accounting",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 208,
+        "QUESTIONS": "In Activity Based Costing, the first step is to:",
+        "OPTION 1": "Determine cost pools",
+        "OPTION 2": "Select cost drivers",
+        "OPTION 3": "Identify activities",
+        "OPTION 4": "Allocate overheads\nto cost objects",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 209,
+        "QUESTIONS": "Which of the following is least suitable as a cost driver under\nABC?",
+        "OPTION 1": "Number of machine\nsetups",
+        "OPTION 2": "Direct labour hours",
+        "OPTION 3": "Number of customer\norders",
+        "OPTION 4": "Total factory square\nfootage",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 210,
+        "QUESTIONS": "A company has identified the following overhead cost pools and cost drivers for a product:\nSetup cost pool: ₹ 200,000; driver = number of setups (2,500 setups)\nInspection cost pool: ₹ 100,000; driver = number of inspections (50,000 inspections)\nProduct X has 200 setups and 4,000 inspections.\nWhat is the overhead allocated to Product X (using ABC)?",
+        "OPTION 1": 16000,
+        "OPTION 2": 12000,
+        "OPTION 3": 24000,
+        "OPTION 4": 14000,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 211,
+        "QUESTIONS": "A product requires 5 machine hours. The machine hour activity pool has ₹ 300,000 budgeted cost and 15,000 machine hours. What is the machine‑hour overhead allocated to that product under ABC?",
+        "OPTION 1": 100,
+        "OPTION 2": 500,
+        "OPTION 3": 1000,
+        "OPTION 4": 2000,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 212,
+        "QUESTIONS": "A firm has two products A and B. The “order processing” cost pool is ₹ 120,000. The cost driver is number of orders. There are 2,000 orders in total: A uses 600 orders; B uses 1,400 orders. The\noverhead assigned to B is:",
+        "OPTION 1": 89000,
+        "OPTION 2": 84000,
+        "OPTION 3": 48000,
+        "OPTION 4": 70000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 213,
+        "QUESTIONS": "A company currently uses traditional costing and absorbs  overheads at ₹ 20 per direct labour hour. Under ABC, two cost pools are identified: Setups (₹ 50,000) with driver number of  setups (500), and material handling (₹ 100,000) with driver number of parts (200,000). Product Y uses 50 setups and 4,000 parts.\nUnder ABC, overhead allocated to Y is:",
+        "OPTION 1": 10000,
+        "OPTION 2": 7000,
+        "OPTION 3": 14000,
+        "OPTION 4": 12000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 214,
+        "QUESTIONS": "A company incurs ₹ 60,000 as facility‑sustaining cost (which supports all products), and allocates it equally across 3 product lines X, Y, Z under ABC. Product X produces 5,000 units, Y 10,000 units, Z 15,000 units. What is the per‑unit share of facility\ncost for Z?",
+        "OPTION 1": 4,
+        "OPTION 2": 2,
+        "OPTION 3": 1.5,
+        "OPTION 4": 1.33,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 215,
+        "QUESTIONS": "Which statement is true about ABC compared to traditional absorption costing?",
+        "OPTION 1": "ABC tends to under‑cost high volume products and over‑cost low volume\nproducts",
+        "OPTION 2": "ABC always leads to lower cost per unit estimates",
+        "OPTION 3": "ABC ignores overhead costs that are fixed",
+        "OPTION 4": "ABC is simpler to implement than traditional costing",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 216,
+        "QUESTIONS": "In ABC, “facility‑sustaining costs” are:",
+        "OPTION 1": "Costs that vary with every unit produced",
+        "OPTION 2": "Costs that support the entire facility but cannot be traced to individual products",
+        "OPTION 3": "Always variable costs",
+        "OPTION 4": "Never included in costing",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 217,
+        "QUESTIONS": "Under ABC, if an activity’s cost is zero (i.e., no cost incurred), then:",
+        "OPTION 1": "Its cost driver rate is infinite",
+        "OPTION 2": "Its cost driver rate is zero",
+        "OPTION 3": "It is automatically merged with another\npool",
+        "OPTION 4": "It must still be assigned across\nproducts",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 218,
+        "QUESTIONS": "A “cost pool” in ABC refers to:",
+        "OPTION 1": "A grouping of fixed costs only",
+        "OPTION 2": "A set of overhead costs associated with a specific activity",
+        "OPTION 3": "The sum of direct costs in a department",
+        "OPTION 4": "The total cost of all drivers",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 219,
+        "QUESTIONS": "Which of the following is not an assumption of marginal costing?",
+        "OPTION 1": "Costs can be separated into fixed and variable\ncomponents",
+        "OPTION 2": "Variable cost per unit remains constant over the\nrelevant range",
+        "OPTION 3": "Selling price per unit changes with volume",
+        "OPTION 4": "No change in inventory level",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 220,
+        "QUESTIONS": "When there are no inventories, profit under marginal costing and\nabsorption costing will be:",
+        "OPTION 1": "The same",
+        "OPTION 2": "Different",
+        "OPTION 3": "Marginal costing\nprofit greater",
+        "OPTION 4": "Absorption costing\nprofit greater",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 221,
+        "QUESTIONS": "Under marginal costing, get‑or‑drop decisions predominantly rely\non:",
+        "OPTION 1": "Fixed cost recovery",
+        "OPTION 2": "Contribution margin",
+        "OPTION 3": "Full cost per unit",
+        "OPTION 4": "Absorbed fixed\noverhead",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 222,
+        "QUESTIONS": "Which statement is true?",
+        "OPTION 1": "Marginal costing is a complete costing system",
+        "OPTION 2": "Marginal costing is only a technique of cost analysis",
+        "OPTION 3": "Marginal costing always gives higher profit than absorption\ncosting",
+        "OPTION 4": "Marginal costing never considers fixed cost",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 223,
+        "QUESTIONS": "What happens to fixed cost per unit when production increases?",
+        "OPTION 1": "It remains constant",
+        "OPTION 2": "It increases",
+        "OPTION 3": "It decreases",
+        "OPTION 4": "It becomes zero",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 224,
+        "QUESTIONS": "If the P/V ratio increases, what happens to the break-even point (in\nrupees)?",
+        "OPTION 1": "It increases",
+        "OPTION 2": "It decreases",
+        "OPTION 3": "It remains unchanged",
+        "OPTION 4": "Cannot determine",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 225,
+        "QUESTIONS": "Which decision is least appropriate based on marginal costing?",
+        "OPTION 1": "Accepting a special order at a lower price",
+        "OPTION 2": "Make vs buy decision",
+        "OPTION 3": "Product mix under limited capacity",
+        "OPTION 4": "Long-term pricing for strategic\npositioning",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 226,
+        "QUESTIONS": "The difference in profit between absorption and marginal costing\narises due to:",
+        "OPTION 1": "Different sales levels",
+        "OPTION 2": "Different treatments\nof variable cost",
+        "OPTION 3": "Inventory valuation\ndifferences",
+        "OPTION 4": "Treatment of direct\nlabor",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 227,
+        "QUESTIONS": "Under marginal costing, closing stock is valued at:",
+        "OPTION 1": "Full cost (direct + variable + fixed\noverhead)",
+        "OPTION 2": "Variable cost per unit",
+        "OPTION 3": "Replacement cost",
+        "OPTION 4": "Market price",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 228,
+        "QUESTIONS": "A company is operating at 80% capacity. A special order is\nreceived for 1,000 units at ₹120 each. Variable cost is ₹90 per unit. Should the order be accepted?",
+        "OPTION 1": "No, price is too low",
+        "OPTION 2": "Yes, contribution is\n₹30 per unit",
+        "OPTION 3": "No, fixed cost will increase",
+        "OPTION 4": "Yes, fixed cost is saved",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 229,
+        "QUESTIONS": "A product yields a contribution of ₹60 per unit. A customer offers\n₹500 per unit for 50 extra units. Variable cost per unit is ₹440. Should the offer be accepted?",
+        "OPTION 1": "No, price is too low",
+        "OPTION 2": "Yes, contribution is positive",
+        "OPTION 3": "Only if fixed cost decreases",
+        "OPTION 4": "Yes, profit is ₹60 per unit",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 230,
+        "QUESTIONS": "The variable cost of a product is ₹50, and fixed cost per unit is ₹30.\nThere is idle capacity. What is the transfer price under marginal costing?",
+        "OPTION 1": 50,
+        "OPTION 2": 80,
+        "OPTION 3": 30,
+        "OPTION 4": 0,
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 231,
+        "QUESTIONS": "A division can sell its product in the open market at ₹100. The variable cost is ₹60. What should be the minimum transfer price if\nthe division is at full capacity?",
+        "OPTION 1": 60,
+        "OPTION 2": 70,
+        "OPTION 3": 80,
+        "OPTION 4": 100,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 232,
+        "QUESTIONS": "A division has 1,000 units of idle capacity. Variable cost per unit =\n₹45. It can transfer units to another division or sell externally for\n₹60. What is the opportunity cost of internal transfer?",
+        "OPTION 1": 60,
+        "OPTION 2": 15,
+        "OPTION 3": 45,
+        "OPTION 4": 0,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 233,
+        "QUESTIONS": "If the selling division is working at full capacity and transfers\ninternally at marginal cost, the likely impact is:",
+        "OPTION 1": "Division earns profit",
+        "OPTION 2": "Division incurs loss",
+        "OPTION 3": "Division loses\nexternal contribution",
+        "OPTION 4": "No impact on profit",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 234,
+        "QUESTIONS": "A buying division is offered a component internally at ₹70. External market price is ₹65. Should it buy internally if internal\ncost is ₹50?",
+        "OPTION 1": "Yes, ₹70 is better",
+        "OPTION 2": "No, market price is lower",
+        "OPTION 3": "Yes, internal cost is lower than market",
+        "OPTION 4": "No, fixed cost is not recovered",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 235,
+        "QUESTIONS": "Selling Division: VC = ₹35, External Price = ₹50. Internal Transfer Price = ₹35. If 1,000 units are transferred, what is total opportunity\ncost?",
+        "OPTION 1": 0,
+        "OPTION 2": 35000,
+        "OPTION 3": 15000,
+        "OPTION 4": 50000,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 236,
+        "QUESTIONS": "A company has fixed costs of ₹50,000 and variable costs of ₹20 per unit. Selling price is ₹50 per unit. What is the break-even sales\nin units?",
+        "OPTION 1": 1250,
+        "OPTION 2": 2500,
+        "OPTION 3": 3333,
+        "OPTION 4": 1667,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 237,
+        "QUESTIONS": "In marginal costing, profit is maximum when:",
+        "OPTION 1": "Marginal cost equals\nmarginal revenue",
+        "OPTION 2": "Contribution equals\nfixed cost",
+        "OPTION 3": "Fixed cost equals\nvariable cost",
+        "OPTION 4": "Total cost equals\ntotal revenue",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 238,
+        "QUESTIONS": "Which of the following is a correct reason to accept a special order\nin marginal costing?",
+        "OPTION 1": "It results in positive\ncontribution",
+        "OPTION 2": "It increases fixed\ncosts",
+        "OPTION 3": "It reduces P/V ratio",
+        "OPTION 4": "It affects stock value",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 239,
+        "QUESTIONS": "In make-or-buy decisions using marginal costing, which cost is\nalways relevant?",
+        "OPTION 1": "Allocated head office\nexpenses",
+        "OPTION 2": "Sunk cost",
+        "OPTION 3": "Variable production\ncost",
+        "OPTION 4": "Apportioned rent",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 240,
+        "QUESTIONS": "A division transfers goods internally at marginal cost. What is a key\ndisadvantage?",
+        "OPTION 1": "Overstatement of\ndivision’s profit",
+        "OPTION 2": "Under-recovery of\nfixed costs",
+        "OPTION 3": "Double counting of\nvariable cost",
+        "OPTION 4": "Increased total cost",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 241,
+        "QUESTIONS": "Which decision is most appropriate to use marginal costing?",
+        "OPTION 1": "Choosing depreciation method",
+        "OPTION 2": "Selecting supplier for raw material",
+        "OPTION 3": "Adding a new product line under\ncapacity",
+        "OPTION 4": "Evaluating internal audit risk",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 242,
+        "QUESTIONS": "When marginal cost equals transfer price, the transferring division\nwill likely:",
+        "OPTION 1": "Make excess profit",
+        "OPTION 2": "Break even",
+        "OPTION 3": "Show zero\ncontribution",
+        "OPTION 4": "Lose incentive to\ntransfer",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 243,
+        "QUESTIONS": "If internal transfers are made at marginal cost, which division may\nfeel disadvantaged?",
+        "OPTION 1": "Buying division",
+        "OPTION 2": "Corporate center",
+        "OPTION 3": "Selling division",
+        "OPTION 4": "Marketing\ndepartment",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 244,
+        "QUESTIONS": "Sales = ₹5,00,000, variable costs = ₹3,00,000, fixed costs =\n₹1,00,000. What is margin of safety?",
+        "OPTION 1": "₹ 1,00,000",
+        "OPTION 2": "₹ 2,50,000",
+        "OPTION 3": "₹ 1,25,000",
+        "OPTION 4": 50000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 245,
+        "QUESTIONS": "Fixed cost = ₹80,000, break-even sales = ₹2,00,000. If sales rise to\n₹3,00,000, what is profit?",
+        "OPTION 1": 20000,
+        "OPTION 2": 40000,
+        "OPTION 3": 60000,
+        "OPTION 4": 80000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 246,
+        "QUESTIONS": "A firm produces 5,000 units at total cost ₹1,50,000; at 6,000 units,\ntotal cost ₹1,70,000. Marginal cost per unit?",
+        "OPTION 1": 20,
+        "OPTION 2": 40,
+        "OPTION 3": 25,
+        "OPTION 4": 30,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 247,
+        "QUESTIONS": "A company gets a special order of 2,000 units at ₹45 each.\nVariable cost is ₹40. Fixed costs remain the same. Should the order be accepted?",
+        "OPTION 1": "Yes, gives ₹10,000",
+        "OPTION 2": "No, below cost",
+        "OPTION 3": "Yes, covers FC",
+        "OPTION 4": "No, loss",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 248,
+        "QUESTIONS": "Product A: SP ₹100, VC ₹70 (2 hrs); B: SP ₹80, VC ₹50 (1 hr);\n5,000 hrs available. What to produce?",
+        "OPTION 1": "All A",
+        "OPTION 2": "All B",
+        "OPTION 3": "Mix",
+        "OPTION 4": NaN,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 249,
+        "QUESTIONS": "A company has the following standards: 5 kg of material at ₹10/kg. Actual usage was 6 kg at ₹9/kg. What is the Material Price\nVariance?",
+        "OPTION 1": "₹6 Favorable",
+        "OPTION 2": "₹6 Adverse",
+        "OPTION 3": "₹10 Favorable",
+        "OPTION 4": "₹10 Adverse",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 250,
+        "QUESTIONS": "If the standard labor time for 100 units is 200 hours and the actual hours taken are 220 hours at a standard wage rate of ₹50 per hour,\nwhat is the labor efficiency variance?",
+        "OPTION 1": "₹1000 Favorable",
+        "OPTION 2": "₹1000 Adverse",
+        "OPTION 3": "₹500 Favorable",
+        "OPTION 4": "₹500 Adverse",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 251,
+        "QUESTIONS": "A product’s standard cost includes 3 hours of labor at ₹40 per hour. Actual labor was 4 hours at ₹38 per hour. What is the labor rate\nvariance?",
+        "OPTION 1": "₹8 Favorable",
+        "OPTION 2": "₹8 Adverse",
+        "OPTION 3": "₹120 Favorable",
+        "OPTION 4": "₹120 Adverse",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 252,
+        "QUESTIONS": "Standard cost of variable overhead is ₹5 per hour. Standard hours allowed for actual production are 1000 hours, actual hours worked are 1100 hours, and actual overhead is ₹5600. Calculate variable\noverhead spending variance.",
+        "OPTION 1": "₹100 Favorable",
+        "OPTION 2": "₹100 Adverse",
+        "OPTION 3": "₹600 Favorable",
+        "OPTION 4": "₹600 Adverse",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 253,
+        "QUESTIONS": "A company produces 500 units. The standard material per unit is 2 kg at ₹4 per kg. Actual material used is 1100 kg at ₹3.8 per kg.\nCalculate material usage variance.",
+        "OPTION 1": "₹200 Favorable",
+        "OPTION 2": "₹200 Adverse",
+        "OPTION 3": "₹400 Favorable",
+        "OPTION 4": "₹400 Adverse",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 254,
+        "QUESTIONS": "A company’s fixed overhead absorption rate is ₹10 per hour. Standard hours allowed for actual production are 500 hours. Actual fixed overhead incurred was ₹5200. Calculate fixed overhead\nspending variance.",
+        "OPTION 1": "₹200 Adverse",
+        "OPTION 2": "₹200 Favorable",
+        "OPTION 3": "₹700 Adverse",
+        "OPTION 4": "₹700 Favorable",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 255,
+        "QUESTIONS": "Standard variable overhead rate is ₹4 per hour. Standard hours allowed are 500 hours. Actual hours worked are 550 hours and actual variable overhead is ₹2300. Calculate variable overhead\nefficiency variance.",
+        "OPTION 1": "₹200 Adverse",
+        "OPTION 2": "₹200 Favorable",
+        "OPTION 3": "₹100 Adverse",
+        "OPTION 4": "₹100 Favorable",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 256,
+        "QUESTIONS": "Which variance arises due to the difference between actual price\nand standard price of materials?",
+        "OPTION 1": "Material Usage\nVariance",
+        "OPTION 2": "Material Price\nVariance",
+        "OPTION 3": "Labor Efficiency\nVariance",
+        "OPTION 4": "Overhead Variance",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 257,
+        "QUESTIONS": "Labour efficiency variance indicates:",
+        "OPTION 1": "The difference between actual and standard wages",
+        "OPTION 2": "The difference between actual hours and standard hours for actual\nproduction",
+        "OPTION 3": "The difference between actual and budgeted production",
+        "OPTION 4": "The difference between actual and standard price of labor",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 258,
+        "QUESTIONS": "Which of the following is a favorable variance?",
+        "OPTION 1": "Actual cost more than\nstandard cost",
+        "OPTION 2": "Actual cost less than\nstandard cost",
+        "OPTION 3": "Actual output less\nthan standard output",
+        "OPTION 4": "Standard cost more\nthan actual cost",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 259,
+        "QUESTIONS": "Overhead variances are classified into:",
+        "OPTION 1": "Fixed and Variable overhead variances",
+        "OPTION 2": "Material and Labour overhead variances",
+        "OPTION 3": "Efficiency and Price variances only",
+        "OPTION 4": "Selling and Administrative\nvariances",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 260,
+        "QUESTIONS": "What type of standard assumes no inefficiencies and perfect\nconditions?",
+        "OPTION 1": "Basic standard",
+        "OPTION 2": "Ideal standard",
+        "OPTION 3": "Current standard",
+        "OPTION 4": "Normal standard",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 261,
+        "QUESTIONS": "How often are standards usually revised?",
+        "OPTION 1": "Every month",
+        "OPTION 2": "Annually",
+        "OPTION 3": "Only when actual costs change",
+        "OPTION 4": "At regular intervals based on changing\nconditions",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 262,
+        "QUESTIONS": "What is the effect of an adverse material usage variance?",
+        "OPTION 1": "Increased material\ncost",
+        "OPTION 2": "Reduced material\nusage",
+        "OPTION 3": "Lower labor cost",
+        "OPTION 4": "Higher fixed\noverhead",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 263,
+        "QUESTIONS": "A company budgets sales at 10,000 units at ₹20 per unit. Variable\ncost is ₹12/unit and fixed costs are ₹40,000. What is the budgeted profit?",
+        "OPTION 1": 20000,
+        "OPTION 2": 30000,
+        "OPTION 3": 40000,
+        "OPTION 4": 80000,
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 264,
+        "QUESTIONS": "In a flexible budget, fixed costs are ₹30,000. At 5,000 units, total\nvariable cost is ₹50,000. What is total cost at 6,000 units?",
+        "OPTION 1": 82000,
+        "OPTION 2": 90000,
+        "OPTION 3": 75000,
+        "OPTION 4": 98000,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 265,
+        "QUESTIONS": "Budgeted production is 1,200 units. Opening stock = 100, Closing\nstock = 300. What is the sales budget?",
+        "OPTION 1": "1000 units",
+        "OPTION 2": "1200 units",
+        "OPTION 3": "1300 units",
+        "OPTION 4": "1600 units",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 266,
+        "QUESTIONS": "Sales forecast for Jan to March: ₹60,000, ₹80,000, ₹1,00,000. 30% sales are cash; 70% are credit, collected in next month. What are\ntotal receipts in March?",
+        "OPTION 1": 92000,
+        "OPTION 2": 30000,
+        "OPTION 3": "₹ 1,00,000",
+        "OPTION 4": 86000,
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 267,
+        "QUESTIONS": "Sales forecast is ₹5,00,000. Desired closing stock is 20% of next month’s sales, and opening stock is ₹40,000. If next month's sales\nare ₹6,00,000, what is the required production (in ₹)?",
+        "OPTION 1": "₹ 5,80,000",
+        "OPTION 2": "₹ 5,60,000",
+        "OPTION 3": "₹ 4,20,000",
+        "OPTION 4": "₹ 6,20,000",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 268,
+        "QUESTIONS": "Which of the following budgets is a “summary budget” of all\ndepartmental budgets?",
+        "OPTION 1": "Cash budget",
+        "OPTION 2": "Master budget",
+        "OPTION 3": "Flexible budget",
+        "OPTION 4": "Functional budget",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 269,
+        "QUESTIONS": "A flexible budget is preferable to a fixed budget because it",
+        "OPTION 1": "assumes a constant cost structure",
+        "OPTION 2": "allows budget comparisons at various levels of\nactivity",
+        "OPTION 3": "cannot be adjusted once prepared",
+        "OPTION 4": "ignores fixed costs",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 270,
+        "QUESTIONS": "Which type of budgeting starts from zero each period rather than\nadjusting prior budgets?",
+        "OPTION 1": "Incremental budgeting",
+        "OPTION 2": "Zero-based\nbudgeting",
+        "OPTION 3": "Flexible budgeting",
+        "OPTION 4": "Rolling budgeting",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 271,
+        "QUESTIONS": "Rolling budgets are characterized by",
+        "OPTION 1": "being prepared only once a year",
+        "OPTION 2": "having no fixed time horizon",
+        "OPTION 3": "always shifting the budget horizon\nforward",
+        "OPTION 4": "being rigid and not adaptable",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 272,
+        "QUESTIONS": "A performance budget emphasises",
+        "OPTION 1": "classification by functions only",
+        "OPTION 2": "cost centres only",
+        "OPTION 3": "linkage between inputs and\nprogramme goals",
+        "OPTION 4": "fixed cost control only",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 273,
+        "QUESTIONS": "Which of the following is not a functional budget?",
+        "OPTION 1": "Sales budget",
+        "OPTION 2": "Production budget",
+        "OPTION 3": "Purchase budget",
+        "OPTION 4": "Master budget",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 274,
+        "QUESTIONS": "Benchmarking in budgetary control refers to",
+        "OPTION 1": "setting budgets using past years only",
+        "OPTION 2": "comparing\nperformance with best-in-class",
+        "OPTION 3": "ignoring variances below a threshold",
+        "OPTION 4": "inter-departmental negotiation",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 275,
+        "QUESTIONS": "Which cost remains constant per unit in flexible budgets?",
+        "OPTION 1": "Variable cost",
+        "OPTION 2": "Fixed cost per unit",
+        "OPTION 3": "Total fixed cost",
+        "OPTION 4": "Semi-variable cost",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 276,
+        "QUESTIONS": "Which is not properly matched?",
+        "OPTION 1": "Cash budget –\ninflows/outflows",
+        "OPTION 2": "Capital budget –\nfixed asset plans",
+        "OPTION 3": "Master budget –\noverall plan",
+        "OPTION 4": "Flexible budget –\nfixed for all activity",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 277,
+        "QUESTIONS": "In zero-based budgeting, units must",
+        "OPTION 1": "accept previous\nbudgets",
+        "OPTION 2": "justify all\nexpenditure",
+        "OPTION 3": "prepare only\nsupplements",
+        "OPTION 4": "ignore activity levels",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 278,
+        "QUESTIONS": "Forecasting is different from budgeting in that",
+        "OPTION 1": "forecasting is binding, while budgeting is not",
+        "OPTION 2": "budgeting is essentially prediction, while forecasting is commitment",
+        "OPTION 3": "forecasting is estimation of future trends, budgeting is a plan/commitment based on that estimate",
+        "OPTION 4": "forecasting is short term and budgeting is always long term",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 279,
+        "QUESTIONS": "Return on Investment (ROI) as a divisional performance measure is calculated as:",
+        "OPTION 1": "Net profit / Total assets",
+        "OPTION 2": "Operating profit / Average operating\nassets",
+        "OPTION 3": "Sales / Operating expenses",
+        "OPTION 4": "Operating profit / Sales",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 280,
+        "QUESTIONS": "Which of the following is the primary objective of divisional performance measurement?",
+        "OPTION 1": "Centralized decision- making",
+        "OPTION 2": "Evaluate profitability and efficiency of\ndivisions",
+        "OPTION 3": "Increase company- wide bureaucracy",
+        "OPTION 4": "Eliminate responsibility centers",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 281,
+        "QUESTIONS": "Residual Income (RI) differs from ROI in that RI:",
+        "OPTION 1": "Measures absolute profit after deducting a charge for capital\ncost",
+        "OPTION 2": "Ignores capital cost",
+        "OPTION 3": "Is a ratio like ROI",
+        "OPTION 4": "Always results in negative values",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 282,
+        "QUESTIONS": "Economic Value Added (EVA) is best described as:",
+        "OPTION 1": "Net operating profit after tax minus cost of\ncapital employed",
+        "OPTION 2": "Operating profit divided by sales",
+        "OPTION 3": "Net profit before tax minus fixed cost",
+        "OPTION 4": "Total revenue minus total expenses",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 283,
+        "QUESTIONS": "The DuPont analysis breaks down ROI into:",
+        "OPTION 1": "Profit margin and\nasset turnover",
+        "OPTION 2": "Profit margin and\nsales growth",
+        "OPTION 3": "Asset turnover and\nworking capital",
+        "OPTION 4": "Net income and\nequity",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 284,
+        "QUESTIONS": "Division A has operating profit ₹20 lakhs and average operating assets ₹1 crore. Division B has operating profit ₹15 lakhs and average operating assets ₹75 lakhs. Which division has a higher\nROI?",
+        "OPTION 1": "Division A: 20%,\nDivision B: 20%",
+        "OPTION 2": "Division A: 25%,\nDivision B: 20%",
+        "OPTION 3": "Division A: 20%,\nDivision B: 25%",
+        "OPTION 4": "Division A: 15%,\nDivision B: 18%",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 285,
+        "QUESTIONS": "Division X has operating profit of ₹30 lakhs and operating assets of\n₹1.5 crore. Cost of capital is 15%. Calculate Residual Income (RI).",
+        "OPTION 1": "₹9.5 lakhs",
+        "OPTION 2": "₹4.5 lakhs",
+        "OPTION 3": "₹7.5 lakhs",
+        "OPTION 4": "₹10 lakhs",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 286,
+        "QUESTIONS": "Division C’s sales are ₹50 lakhs; net operating profit ₹8 lakhs;\naverage operating assets ₹40 lakhs. Calculate ROI.",
+        "OPTION 1": 0.1,
+        "OPTION 2": 0.2,
+        "OPTION 3": 0.14,
+        "OPTION 4": 0.18,
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 287,
+        "QUESTIONS": "Division D’s net operating profit after tax (NOPAT) is ₹12 lakhs. Capital charge @ 18% on ₹50 lakhs capital employed. Calculate\nEconomic Value Added (EVA).",
+        "OPTION 1": "₹3.6 lakhs",
+        "OPTION 2": "₹6 lakhs",
+        "OPTION 3": "₹4.5 lakhs",
+        "OPTION 4": "₹3 lakhs",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 288,
+        "QUESTIONS": "Division Q’s ROI is 18%. Cost of capital is 12%. Should Division Q accept a project with an ROI of 14%?",
+        "OPTION 1": "Yes, because project ROI > cost of capital",
+        "OPTION 2": "No, because project ROI < divisional\nROI",
+        "OPTION 3": "Yes, if project is short term",
+        "OPTION 4": "No, because project ROI < 20%",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 289,
+        "QUESTIONS": "Which of the following is NOT a responsibility center?",
+        "OPTION 1": "Cost center",
+        "OPTION 2": "Profit center",
+        "OPTION 3": "Investment center",
+        "OPTION 4": "Tax center",
+        "ANSWER CODE": 4
+    },
+    {
+        "SL NO": 290,
+        "QUESTIONS": "Which of the following is NOT true about responsibility accounting?",
+        "OPTION 1": "Encourages accountability",
+        "OPTION 2": "Helps in\nperformance evaluation",
+        "OPTION 3": "Eliminates all cost variances",
+        "OPTION 4": "Facilitates decentralization",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 291,
+        "QUESTIONS": "In responsibility accounting, controllable costs are:",
+        "OPTION 1": "Costs over which a manager has direct\ninfluence",
+        "OPTION 2": "Fixed costs only",
+        "OPTION 3": "Sunk costs",
+        "OPTION 4": "Costs that cannot be controlled",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 292,
+        "QUESTIONS": "Profit center managers are responsible for:",
+        "OPTION 1": "Costs only",
+        "OPTION 2": "Revenues only",
+        "OPTION 3": "Both revenues and\ncosts",
+        "OPTION 4": "Investment decisions",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 293,
+        "QUESTIONS": "Which responsibility center allows managers to make decisions on\nassets employed as well as profits?",
+        "OPTION 1": "Cost center",
+        "OPTION 2": "Profit center",
+        "OPTION 3": "Investment center",
+        "OPTION 4": "Expense center",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 294,
+        "QUESTIONS": "Which decision-making criterion assumes the decision maker is\nextremely risk-averse?",
+        "OPTION 1": "Maximax",
+        "OPTION 2": "Maximin",
+        "OPTION 3": "Minimax regret",
+        "OPTION 4": "Expected value",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 295,
+        "QUESTIONS": "The maximax criterion is also known as:",
+        "OPTION 1": "Optimistic criterion",
+        "OPTION 2": "Pessimistic criterion",
+        "OPTION 3": "Minimax regret",
+        "OPTION 4": "Laplace criterion",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 296,
+        "QUESTIONS": "The minimax regret criterion minimizes:",
+        "OPTION 1": "The maximum payoff",
+        "OPTION 2": "The maximum loss relative to the best\npayoff in each state",
+        "OPTION 3": "The expected value",
+        "OPTION 4": "The minimum loss",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 297,
+        "QUESTIONS": "Expected monetary value (EMV) is calculated by:",
+        "OPTION 1": "Multiplying the payoff by the probability and summing for all states",
+        "OPTION 2": "Taking the maximum payoff",
+        "OPTION 3": "Subtracting costs from revenues",
+        "OPTION 4": "Dividing total payoff by the number of alternatives",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 298,
+        "QUESTIONS": "Which of the following decision rules is suitable when probabilities of states of nature are unknown and the decision maker is neutral?",
+        "OPTION 1": "Maximin",
+        "OPTION 2": "Maximax",
+        "OPTION 3": "Laplace (Equal probability)",
+        "OPTION 4": "Minimax regret",
+        "ANSWER CODE": 3
+    },
+    {
+        "SL NO": 299,
+        "QUESTIONS": "In decision theory, a ‘payoff table’ shows:",
+        "OPTION 1": "Probabilities of states of nature",
+        "OPTION 2": "Outcomes for each alternative under\neach state of nature",
+        "OPTION 3": "Only the best outcome",
+        "OPTION 4": "Budgeted costs and revenues",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 300,
+        "QUESTIONS": "The Laplace criterion assumes:",
+        "OPTION 1": "Decision maker is pessimistic",
+        "OPTION 2": "Decision maker assigns equal probabilities to all\nstates of nature",
+        "OPTION 3": "Probabilities are known precisely",
+        "OPTION 4": "Focus only on worst outcomes",
+        "ANSWER CODE": 2
+    },
+    {
+        "SL NO": 301,
+        "QUESTIONS": "A decision tree is useful because it:",
+        "OPTION 1": "Simplifies complex decisions by structuring alternatives and outcomes sequentially",
+        "OPTION 2": "Ignores probabilities",
+        "OPTION 3": "Always leads to optimistic decisions",
+        "OPTION 4": "Is used only for investment decisions",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 302,
+        "QUESTIONS": "Sensitivity analysis in decision theory helps to:",
+        "OPTION 1": "Evaluate how changes in probabilities or payoffs affect the decision",
+        "OPTION 2": "Eliminate bad alternatives",
+        "OPTION 3": "Predict exact future outcomes",
+        "OPTION 4": "Decide the cost of alternatives",
+        "ANSWER CODE": 1
+    },
+    {
+        "SL NO": 303,
+        "QUESTIONS": "The ‘Expected Value of Perfect Information (EVPI)’ represents:",
+        "OPTION 1": "The cost of obtaining perfect information",
+        "OPTION 2": "The maximum amount a decision maker would pay to eliminate\nuncertainty",
+        "OPTION 3": "The average payoff",
+        "OPTION 4": "The minimum payoff",
+        "ANSWER CODE": 2
+    }
+   ]
           }
         ]
       }
@@ -17297,15 +23062,21 @@ function normalizeQuestion(question) {
     normalized.question = normalized.QUESTIONS;
   }
 
-  // Map Explanation: handle 'explanation' or 'EXPLANATION'
-  if (!normalized.explanation && normalized.EXPLANATION) {
-    normalized.explanation = normalized.EXPLANATION;
+  // Map Explanation: handle 'explanation', 'Explanation', or 'EXPLANATION'
+  if (!normalized.explanation) {
+    if (normalized.EXPLANATION) {
+      normalized.explanation = normalized.EXPLANATION;
+    } else if (normalized.Explanation) {
+      normalized.explanation = normalized.Explanation;
+    }
   }
 
-  // Map Answer: handle 'answer', 'ANSWER CODE' (1-based), or 'answer_code' (1-based)
+  // Map Answer: handle 'answer', 'Answer Code', 'ANSWER CODE' (1-based), or 'answer_code' (1-based)
   if (normalized.answer === undefined) {
     if (normalized["ANSWER CODE"] !== undefined) {
       normalized.answer = normalized["ANSWER CODE"] - 1;
+    } else if (normalized["Answer Code"] !== undefined) {
+      normalized.answer = normalized["Answer Code"] - 1;
     } else if (normalized.answer_code !== undefined) {
       normalized.answer = normalized.answer_code - 1;
     }

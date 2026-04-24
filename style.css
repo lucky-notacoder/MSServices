@@ -2141,3 +2141,49 @@ button:hover {
   max-width: 800px;
   margin: auto;
 }
+.legal-page {
+  max-width: 980px;
+  margin-top: 90px;
+  padding-top: 70px;
+  line-height: 1.8;
+}
+
+.legal-page h1 {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+  color: #b5fbff;
+}
+
+.legal-page .policy-date {
+  margin-bottom: 28px;
+  color: #cbd5e1;
+}
+
+.legal-page h2 {
+  font-size: 1.2rem;
+  margin: 20px 0 8px;
+  color: #7dd3fc;
+}
+
+.legal-page p {
+  color: #e2e8f0;
+}
+
+.legal-page a {
+  color: #93c5fd;
+}
+
+.legal-page a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 700px) {
+  .legal-page {
+    margin-top: 72px;
+    padding-top: 40px;
+  }
+
+  .legal-page h1 {
+    font-size: 1.8rem;
+  }
+}

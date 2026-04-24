@@ -22804,6 +22804,16 @@ let activeGroup = "";
 let activeSubject = null;
 let activeIndex = 0;
 let answers = {};
+let shuffledQuestionSets = {};
+
+function shuffleArray(items) {
+  const arr = [...items];
+  for (let i = arr.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
 
 function showCourseSelector() {
   pathPanel.hidden = false;
@@ -22825,7 +22835,32 @@ function getActiveSubjectData() {
 }
 
 function getSubjectQuestions() {
-  return getActiveSubjectData()?.questions || [];
+  if (!activeSubject) return [];
+
+  const subjectKey = getSubjectKey(activeSubject);
+  if (shuffledQuestionSets[subjectKey]) {
+    return shuffledQuestionSets[subjectKey];
+  }
+
+  const rawQuestions = getActiveSubjectData()?.questions || [];
+  const preparedQuestions = rawQuestions.map((question) => {
+    const normalized = normalizeQuestion(question);
+    const optionEntries = (normalized.options || []).map((text, index) => ({
+      text,
+      isCorrect: index === normalized.answer
+    }));
+    const shuffledOptions = shuffleArray(optionEntries);
+    const shuffledAnswerIndex = shuffledOptions.findIndex((entry) => entry.isCorrect);
+
+    return {
+      ...normalized,
+      options: shuffledOptions.map((entry) => entry.text),
+      answer: shuffledAnswerIndex
+    };
+  });
+
+  shuffledQuestionSets[subjectKey] = shuffleArray(preparedQuestions);
+  return shuffledQuestionSets[subjectKey];
 }
 
 function getAnswerKey() {
@@ -23034,7 +23069,7 @@ function renderSelectionPanel() {
 }
 
 function renderFeedback(selectedIndex) {
-  const question = normalizeQuestion(getSubjectQuestions()[activeIndex]);
+  const question = getSubjectQuestions()[activeIndex];
   const isCorrect = selectedIndex === question.answer;
 
   feedback.hidden = false;
@@ -23046,7 +23081,7 @@ function renderFeedback(selectedIndex) {
 }
 
 function selectOption(selectedIndex) {
-  const question = normalizeQuestion(getSubjectQuestions()[activeIndex]);
+  const question = getSubjectQuestions()[activeIndex];
   answers[getAnswerKey()] = {
     selectedIndex,
     isCorrect: selectedIndex === question.answer
@@ -23120,7 +23155,7 @@ function renderQuestion() {
     return;
   }
 
-  const question = normalizeQuestion(questions[activeIndex]);
+  const question = questions[activeIndex];
   const savedAnswer = answers[getAnswerKey()];
 
   subjectLabel.textContent = label;

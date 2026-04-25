@@ -69,6 +69,9 @@ if (typeof particlesJS === "function") {
 // ==========================
 const form = document.getElementById("contact-form");
 const statusMessage = document.getElementById("form-status");
+const EMAILJS_PUBLIC_KEY = "Rnh7EhqHVuOVgx-RV";
+const EMAILJS_SERVICE_ID = "service_9iixn5q";
+const EMAILJS_TEMPLATE_ID = "template_n7617fn";
 
 function playCelebration(target) {
   if (!target) return;
@@ -94,7 +97,7 @@ function playCelebration(target) {
 }
 
 if (form && typeof emailjs !== "undefined") {
-  emailjs.init("Rnh7EhqHVuOVgx-RV");
+  emailjs.init(EMAILJS_PUBLIC_KEY);
 
   form.addEventListener("submit", function(e) {
     e.preventDefault();
@@ -115,7 +118,7 @@ if (form && typeof emailjs !== "undefined") {
       statusMessage.textContent = "";
     }
 
-    emailjs.sendForm("service_9iixn5q", "template_n7617fn", this)
+    emailjs.sendForm(EMAILJS_SERVICE_ID, EMAILJS_TEMPLATE_ID, this)
       .then(function(response) {
         if (statusMessage) {
           statusMessage.textContent = "Message sent successfully.";
@@ -129,7 +132,12 @@ if (form && typeof emailjs !== "undefined") {
         if (statusMessage) {
           statusMessage.textContent = "Failed to send message: " + errorDetails;
         }
-        console.error("EmailJS error", error);
+        console.error("EmailJS error", {
+          error,
+          publicKey: EMAILJS_PUBLIC_KEY,
+          serviceId: EMAILJS_SERVICE_ID,
+          templateId: EMAILJS_TEMPLATE_ID
+        });
       })
       .finally(function() {
         if (submitButton) {

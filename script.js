@@ -115,7 +115,7 @@ if (form && typeof emailjs !== "undefined") {
       statusMessage.textContent = "";
     }
 
-    emailjs.sendForm("service_fdh2idl", "template_n7617fn", this)
+    emailjs.sendForm("service_9iixn5q", "template_n7617fn", this)
       .then(function(response) {
         if (statusMessage) {
           statusMessage.textContent = "Message sent successfully.";

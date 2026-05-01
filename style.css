@@ -1254,9 +1254,37 @@ a.card {
 
 .cma-path-panel {
   margin-bottom: 28px;
-  padding: 30px 8px 28px;
+  padding: 10px 8px 28px;
   border-radius: 12px;
   overflow: hidden;
+}
+
+.cma-path-back {
+  width: 42px;
+  height: 42px;
+  margin: 0 0 18px 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid rgba(125, 211, 252, 0.36);
+  border-radius: 50%;
+  background: rgba(15, 23, 42, 0.72);
+  color: #dff7ff;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.cma-path-back[hidden] {
+  display: none;
+}
+
+.cma-path-back:hover,
+.cma-path-back:focus-visible {
+  background: #1f7da2;
+  box-shadow: 0 0 0 3px rgba(125, 211, 252, 0.25);
+  outline: none;
 }
 
 .cma-level-list {

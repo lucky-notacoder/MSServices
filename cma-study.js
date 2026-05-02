@@ -490,6 +490,18 @@ function selectOption(selectedIndex) {
   renderQuestion();
 }
 
+function normalizeAnswerText(text) {
+  return String(text ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase();
+}
+
+function getAnswerIndexFromCode(code) {
+  const answerNumber = Number(code);
+  return Number.isFinite(answerNumber) ? answerNumber - 1 : undefined;
+}
+
 function normalizeQuestion(question) {
   const normalized = { ...question };
   
@@ -510,11 +522,13 @@ function normalizeQuestion(question) {
   // Map Answer: handle 'answer', 'Answer Code', 'ANSWER CODE' (1-based), or 'answer_code' (1-based)
   if (normalized.answer === undefined) {
     if (normalized["ANSWER CODE"] !== undefined) {
-      normalized.answer = normalized["ANSWER CODE"] - 1;
+      normalized.answer = getAnswerIndexFromCode(normalized["ANSWER CODE"]);
     } else if (normalized["Answer Code"] !== undefined) {
-      normalized.answer = normalized["Answer Code"] - 1;
+      normalized.answer = getAnswerIndexFromCode(normalized["Answer Code"]);
     } else if (normalized.answer_code !== undefined) {
-      normalized.answer = normalized.answer_code - 1;
+      normalized.answer = getAnswerIndexFromCode(normalized.answer_code);
+    } else if (normalized.answerCode !== undefined) {
+      normalized.answer = getAnswerIndexFromCode(normalized.answerCode);
     }
   }
   
@@ -536,6 +550,20 @@ function normalizeQuestion(question) {
     normalized.options = normalized.options
       .filter(opt => opt !== undefined)
       .map(opt => (opt === null) ? "" : String(opt));
+  }
+
+  const correctAnswerText = normalized.correctAnswer || normalized["Correct Answer"] || normalized["CORRECT ANSWER"];
+  const answerIndexIsValid = Number.isInteger(normalized.answer)
+    && normalized.answer >= 0
+    && normalized.answer < (normalized.options?.length || 0);
+
+  if (!answerIndexIsValid && Array.isArray(normalized.options) && correctAnswerText) {
+    const normalizedCorrectAnswer = normalizeAnswerText(correctAnswerText);
+    const matchedIndex = normalized.options.findIndex((option) => normalizeAnswerText(option) === normalizedCorrectAnswer);
+
+    if (matchedIndex >= 0) {
+      normalized.answer = matchedIndex;
+    }
   }
 
   return normalized;

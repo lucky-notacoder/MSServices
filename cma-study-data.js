@@ -22845,10 +22845,613 @@
                                               },
                                "Intermediate":  {
                                                     "label":  "Intermediate",
-                                                    "unavailableMessage":  "Available soon.",
                                                     "groups":  [
-
-                                                               ]
+                                                        {
+                                                            "label": "Group-1",
+                                                            "subjects":[
+                                                                            {
+                                                                                "label":"Business Law and Ethics",
+                                                                                "questions":[
+                                                                                    {
+    "Sl no": 1,
+    "question": "What is the chief source of legal authority in India?",
+    "options": [
+      "People",
+      "Constituion of India",
+      "Parliament",
+      "President of India"
+    ],
+    "correctAnswer": "Constituion of India",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 2,
+    "question": "Competency to contract relates to",
+    "options": [
+      "Age of parties",
+      "Soundness of mind of the parties",
+      "Both age and soundness of mind",
+      "Intelligence of the parties"
+    ],
+    "correctAnswer": "Both age and soundness of mind",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 3,
+    "question": "As per Sale of Goods Act, this is not included?",
+    "options": [
+      "Growing crop",
+      "Money",
+      "Table",
+      "Goodwill"
+    ],
+    "correctAnswer": "Money",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 4,
+    "question": "The Negotiable Instruments Act, 1881 extends to:",
+    "options": [
+      "Only to Capital cities of the States.",
+      "The whole of India",
+      "The whole of India except the State of Jammu and Kashmir",
+      "The whole of India except the Union Territories"
+    ],
+    "correctAnswer": "The whole of India except the Union Territories",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 5,
+    "question": "Where no provision is made by contract between the partners for the duration of their partnership, or for the determination of their partnership, the partnership is called as:",
+    "options": [
+      "Particular partnership",
+      "Partnership for a fixed term",
+      "partnership at will",
+      "None of the above"
+    ],
+    "correctAnswer": "partnership at will",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 6,
+    "question": "What is the exact time limit under which a Limited Liability Partnership must file its annual return?",
+    "options": [
+      "A Limited Liability Partnership must file its annual return within 30 days from the closing of its financial year",
+      "A Limited Liability Partnership must file its annual return within 45 days from the closing of its financial year.",
+      "A Limited Liability Partnership must file its annual return within 15 days from the closing of its financial year.",
+      "A Limited Liability Partnership must file its annual return within 60 days from the closing of its financial year."
+    ],
+    "correctAnswer": "A Limited Liability Partnership must file its annual return within 30 days from the closing of its financial year",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 7,
+    "question": "The employer shall display an abstract of the Act and the Rules in Form No.:",
+    "options": [
+      "U",
+      "H",
+      "O",
+      "N"
+    ],
+    "correctAnswer": "U",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 8,
+    "question": "The following cannot be nominated for the purposes of EPF Act",
+    "options": [
+      "Wife",
+      "Sons of a deceased sons who have attained majority",
+      "Father in law",
+      "Unmarried daughter"
+    ],
+    "correctAnswer": "Sons of a deceased sons who have attained majority",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 9,
+    "question": "An appeal shall lie to High Court from the orders of ESI within _______days from the date of order of the ESI Court",
+    "options": [
+      30,
+      60,
+      90,
+      "None of the above"
+    ],
+    "correctAnswer": 60,
+    "answerCode": 2
+  },
+  {
+    "Sl no": 10,
+    "question": "The minimum rate of wages on time work basis may be fixed in accordance with",
+    "options": [
+      "by the hour",
+      "by the day",
+      "by the month",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 11,
+    "question": "Which public company is required to appoint independent director”",
+    "options": [
+      "The public company having turnover of` 100 crores or more",
+      "The public company having paid up share capital of ` 10 crores or more",
+      "The public companies which have, in aggregate, outstanding loans, debentures and deposits exceeding ` 50 crores;",
+      "Any of the above"
+    ],
+    "correctAnswer": "Any of the above",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 12,
+    "question": "The following is the disadvantage of business ethics:",
+    "options": [
+      "Through increasing morale and trust business can increase their market share",
+      "Publicity due to well and ethical performance",
+      "Acceptance of products of the company by the public",
+      "Diversity in achievements"
+    ],
+    "correctAnswer": "Diversity in achievements",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 13,
+    "question": "When the consent is caused by undue influence, the contract under Section 19A is:",
+    "options": [
+      "Valid",
+      "Void",
+      "Voidable",
+      "Illegal"
+    ],
+    "correctAnswer": "Voidable",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 14,
+    "question": "The dissolution of partnership means:",
+    "options": [
+      "It means the dissolution of partnership between all the partners of a firm",
+      "It means the change in the relations of the partners",
+      "It means the reconstitution of the firm",
+      "None of the above"
+    ],
+    "correctAnswer": "It means the change in the relations of the partners",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 15,
+    "question": "Contribution of 10% to PF is applicable to",
+    "options": [
+      "Any establishment in which less than 20 employees are employed",
+      "Any establishment declared as sick industrial company",
+      "Jute company",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 16,
+    "question": "Right to Property is",
+    "options": [
+      "Fundamental Right",
+      "Fundamental Duty",
+      "Constitutional Right",
+      "None of the above"
+    ],
+    "correctAnswer": "Constitutional Right",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 17,
+    "question": "A contract is",
+    "options": [
+      "a legal obligation",
+      "An agreement plus a legal obligation",
+      "Consensus ad idem",
+      "An agreement plus a legal object"
+    ],
+    "correctAnswer": "An agreement plus a legal obligation",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 18,
+    "question": "The doctrine of caveat emptor applies",
+    "options": [
+      "There is no implied conditions and warranties.  ",
+      "The buyer discloses to the seller the particular purpose for which goods are required. ",
+      "When goods are sold by sample.  ",
+      "The seller sells the goods by making fraud and the buyer believes it"
+    ],
+    "correctAnswer": "There is no implied conditions and warranties.  ",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 19,
+    "question": "“Banker” includes ",
+    "options": [
+      "Any person acting as an employee of any bank and any post office saving bank.  ",
+      "Any person acting as a banker and any post office saving bank ",
+      "Any person acting as an agent of any bank and any post office saving bank. ",
+      "Any person acting as a Managing Director of any bank and any post office saving bank "
+    ],
+    "correctAnswer": "Any person acting as a banker and any post office saving bank ",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 20,
+    "question": "What are the right of partners after dissolution? ",
+    "options": [
+      "To have the surplus distributed among the partners or their representatives according to their rights ",
+      "To have business wound up after dissolution. ",
+      "To have the property of the firm applied in payment of the debts and liabilities of the firm ",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 21,
+    "question": "Whether a HUF can become partner in LLP? ",
+    "options": [
+      "HUF may become partner of LLP provided the Registrar may grant permission in this behalf. ",
+      "No, HUF can’t become partner in the LLP.   ",
+      "Yes, HUF may become partner of LLP. ",
+      "None of the above"
+    ],
+    "correctAnswer": "No, HUF can’t become partner in the LLP.   ",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 22,
+    "question": "Age of adolescent worker as per Factories Act, 1948 is:  ",
+    "options": [
+      "Who has completed 17 years of age  ",
+      "Who is less than 18 years  ",
+      "Who has completed 15 years but less than 18 years. ",
+      "None of these"
+    ],
+    "correctAnswer": "Who has completed 15 years but less than 18 years. ",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 23,
+    "question": "Gratuity is payable to an employee ",
+    "options": [
+      "On his superannuation",
+      "On his retirement or resignation, Retrenchment",
+      "On his death or disablement due to accident or disease ",
+      "In all the above cases"
+    ],
+    "correctAnswer": "In all the above cases",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 24,
+    "question": "While filing appeal to EPF Appellate Tribunal the employer has to deposit_________ of the amount due from him. ",
+    "options": [
+      "25%.  ",
+      "50%. ",
+      "75%.  ",
+      "None of the above"
+    ],
+    "correctAnswer": "75%.  ",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 25,
+    "question": "A member of the ESI shall cease to be a member if he fails to attend______   consecutive meeting. ",
+    "options": [
+      3,
+      5,
+      7,
+      "None of the above"
+    ],
+    "correctAnswer": 3,
+    "answerCode": 1
+  },
+  {
+    "Sl no": 26,
+    "question": "An instrument of the proxy shall be deposited with the registered office of the company__________ before the conduct of the meeting. ",
+    "options": [
+      "7 hours",
+      "21 hours",
+      "48 hours",
+      "60 hours"
+    ],
+    "correctAnswer": "48 hours",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 27,
+    "question": "New definition of wage under the Code specifically excludes which of these? ",
+    "options": [
+      "any bonus payable under any law for the time being in force  ",
+      "any conveyance allowance or the value of any travelling concession  ",
+      "house rent allowance  ",
+      "all of the above"
+    ],
+    "correctAnswer": "all of the above",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 28,
+    "question": "A quasi contract ",
+    "options": [
+      "is a contract  ",
+      "in an agreement ",
+      "creates only a legal obligation   ",
+      "is none of these"
+    ],
+    "correctAnswer": "creates only a legal obligation   ",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 29,
+    "question": "What would be the position, where a minor elect not to become a partner ______________. ",
+    "options": [
+      "He shall be entitled to sue the partners for his share of the property and profits ",
+      "His rights and liabilities shall continue to be those of a minor under this section up to the date on which he gives public notice. ",
+      "His share shall not be liable for any acts of the firm done after the date of the notice. ",
+      "All of the above "
+    ],
+    "correctAnswer": "All of the above ",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 30,
+    "question": "The minimum administrative charge payable by the employer to the fund is ____________. ",
+    "options": [
+      75,
+      500,
+      1000,
+      "None of the above"
+    ],
+    "correctAnswer": 500,
+    "answerCode": 2
+  },
+  {
+    "Sl no": 31,
+    "question": "What does \"Estoppel\" mean in legal terms? ",
+    "options": [
+      " The right to enforce a contract                                                                                                                             ",
+      " The ability to break a contract without penalty ",
+      " The right to sue for damages ",
+      " The act of being prevented from denying something "
+    ],
+    "correctAnswer": " The act of being prevented from denying something ",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 32,
+    "question": "Agreements of wagers are______  ",
+    "options": [
+      " Void and unenforceable ",
+      " Valid and enforceable ",
+      " Only valid if written ",
+      " Enforceable in some circumstances "
+    ],
+    "correctAnswer": " Void and unenforceable ",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 33,
+    "question": "What does Section 17 of the Indian Contract Act, 1872 deal with? ",
+    "options": [
+      " Mistake in contracts ",
+      " Fraud ",
+      " Coercion   ",
+      " Misrepresentation "
+    ],
+    "correctAnswer": " Fraud ",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 34,
+    "question": "Which of the following statements is true regarding conditions and warranties?     ",
+    "options": [
+      " Breach of a condition allows for termination of the contract; breach of a warranty does not. ",
+      " Breach of a warranty allows for termination of the contract; breach of a condition does not. ",
+      " Both conditions and warranties allow for termination of the contract. ",
+      " Neither conditions nor warranties allow for termination of the contract. "
+    ],
+    "correctAnswer": " Breach of a condition allows for termination of the contract; breach of a warranty does not. ",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 35,
+    "question": "If the amount is paid after the due date and no interest rate has been specified in the instrument, the interest is payable at: ",
+    "options": [
+      0.1,
+      0.15,
+      0.18,
+      0.12
+    ],
+    "correctAnswer": 0.18,
+    "answerCode": 3
+  },
+  {
+    "Sl no": 36,
+    "question": "Under Section 52, if a contract creating a partnership is rescinded due to fraud or misrepresentation, the party entitled to rescind is entitled to:",
+    "options": [
+      " A lien on the surplus assets of the firm for any sum paid for the purchase of a share in the firm and for any capital contributed by them. ",
+      " Rank as a creditor of the firm for any payment made towards the debts of the firm. ",
+      " Be indemnified by the partner or partners guilty of the fraud or misrepresentation against all the debts of the firm ",
+      " All of the above.  "
+    ],
+    "correctAnswer": " All of the above.  ",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 37,
+    "question": "What is the purpose of the certificate issued under Form No. 19? ",
+    "options": [
+      " To provide approval for the business name  ",
+      " Notice of meeting of creditors ",
+      " To grant permission for conducting business outside India ",
+      " To confirm the LLP’s registration under the Act "
+    ],
+    "correctAnswer": " To confirm the LLP’s registration under the Act ",
+    "answerCode": 4
+  },
+  {
+    "Sl no": 38,
+    "question": "A Safety Officer is required to be appointed where more than ________ workers are ordinarily employe ",
+    "options": [
+      500,
+      1000,
+      800,
+      300
+    ],
+    "correctAnswer": 1000,
+    "answerCode": 2
+  },
+  {
+    "Sl no": 39,
+    "question": "The employer shall display an abstract of the Act and the Rules in Form No-. ",
+    "options": [
+      " H  ",
+      " O ",
+      " U ",
+      " N "
+    ],
+    "correctAnswer": " U ",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 40,
+    "question": "An employee, within _______ of acquiring a family, shall submit a fresh nomination. ",
+    "options": [
+      " 30 days ",
+      " 60 days ",
+      " 90 days ",
+      " 180 days "
+    ],
+    "correctAnswer": " 90 days ",
+    "answerCode": 3
+  },
+  {
+    "Sl no": 41,
+    "question": "The Employees' Deposit Linked Insurance Scheme applies to all establishments, except which of the following? ",
+    "options": [
+      " Manufacturing companies; ",
+      " Tea factories in the State of Assam ",
+      " Government offices ",
+      " Retail businesses"
+    ],
+    "correctAnswer": " Tea factories in the State of Assam ",
+    "answerCode": 2
+  },
+  {
+    "Sl no": 42,
+    "question": "Who is the ex-officio Chairman of the Medical Benefit Council under Section 10?  ",
+    "options": [
+      " The Director General of ESI. ",
+      " The Director General of Health Services ",
+      " The Medical Commissioner of the Corporation ",
+      " The Minister of Health "
+    ],
+    "correctAnswer": " The Director General of ESI. ",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 43,
+    "question": "Which one cannot be transacted through postal ballot? ",
+    "options": [
+      " Appointment of auditor; ",
+      " Election of a Director; ",
+      " Buy back of shares by a company; ",
+      " Change in place of registered office outside the local limits of any city, town or village. "
+    ],
+    "correctAnswer": " Appointment of auditor; ",
+    "answerCode": 1
+  },
+  {
+    "Sl no": 44,
+    "question": "If any inspection is refused or if any copy required is not furnished within the specified time, the company shall be liable to a penalty of `____  ",
+    "options": [
+      10000,
+      15000,
+      25000,
+      50000
+    ],
+    "correctAnswer": 25000,
+    "answerCode": 3
+  },
+  {
+    "Sl no": 45,
+    "question": "Which principle emphasizes those public office holders must make decisions impartially, fairly, and based on merit? ",
+    "options": [
+      " Integrity ",
+      " Objectivity ",
+      " Accountability ",
+      " Leadership"
+    ],
+    "correctAnswer": " Objectivity ",
+    "answerCode": 2
+  },
+  {"Sl no":46,
+    "question": "On which date was the constitution of India adopted by the constituent Assembly",
+    "options":[
+        "August 15, 1947",
+        "January 26, 1950",
+        "November 26, 1949",
+        "January 30, 1948"
+    ],
+    "correctAnswer": "November 26, 1949",
+    "answerCode": 3
+  },
+  {"Sl no":47,
+    "question": "According to Section 128 of the Indian Contract Act, the liability of a surety is",
+    "options":[
+        "Limited to a specific amount",
+        "Only for the principal sum of the debt",
+        "Co-extensive with that of the principal debtor unless otherwise specified in the contract",
+        "Limited to the interest on the debt "
+    ],
+    "correctAnswer": "Co-extensive with that of the principal debtor unless otherwise specified in the contract ",
+    "answerCode": 3
+  },
+  {"Sl no":48,
+    "question": "The appointment of an independent director shall be approved by the",
+    "options":[
+        "General meeting",
+        "Board meeting",
+        "Registrar of Companies",
+        "Central Government"
+    ],
+    "correctAnswer": "General meeting",
+    "answerCode": 1
+  },
+  {"Sl no":49,
+    "question":"The following is the disadvantage of business ethics",
+    "options":[
+        "Through increasing morale and trust business can increase their market share",
+        "Publicity due to well and ethical performance",
+        "Diversity in achievements",
+        "Acceptance of products of the company by the public"
+    ],
+    "correctAnswer": "Diversity in achievements",
+    "answerCode": 3
+  },
+  {"Sl no":50,
+    "question": "What document must a firm file to apply for conversion into an LLP according to the provisions in the Second Schedule",
+    "options":[
+        "A statement in Form No. 17 containing the firm’s details",
+        "A copy of the partnership deed only",
+        "A statement in Form No. 19",
+        "A certificate of incorporation from the Registrar of Companies",
+    ],
+    "correctAnswer": "A statement in Form No. 17 containing the firm’s details ",
+    "answerCode":1
+  }
+]
+}
+]
+}
+]
                                                 },
                                "Final":  {
                                              "label":  "Final",

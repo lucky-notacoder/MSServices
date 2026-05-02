@@ -69,9 +69,9 @@ if (typeof particlesJS === "function") {
 // ==========================
 const form = document.getElementById("contact-form");
 const statusMessage = document.getElementById("form-status");
-const EMAILJS_PUBLIC_KEY = "Rnh7EhqHVuOVgx-RV";
-const EMAILJS_SERVICE_ID = "service_9iixn5q";
-const EMAILJS_TEMPLATE_ID = "template_n7617fn";
+const EMAILJS_PUBLIC_KEY = "O_xq3L9bROOSALIUm";
+const EMAILJS_SERVICE_ID = "service_dqrxfhv";
+const EMAILJS_TEMPLATE_ID = "template_58bg36s";
 
 function playCelebration(target) {
   if (!target) return;
@@ -97,12 +97,14 @@ function playCelebration(target) {
 }
 
 if (form && typeof emailjs !== "undefined") {
-  emailjs.init(EMAILJS_PUBLIC_KEY);
+  emailjs.init({
+    publicKey: EMAILJS_PUBLIC_KEY
+  });
 
   form.addEventListener("submit", function(e) {
     e.preventDefault();
     const submitButton = form.querySelector('button[type="submit"]');
-    const emailField = form.querySelector('input[name="from_email"]');
+    const emailField = form.querySelector('input[name="email"]');
     const replyToField = form.querySelector('input[name="reply_to"]');
 
     if (emailField && replyToField) {

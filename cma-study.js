@@ -19,6 +19,14 @@ const resultsPanel = document.getElementById("cma-results");
 const pathBackButton = document.getElementById("cma-path-back");
 const pathPanel = document.querySelector(".cma-path-panel");
 const quizCard = document.querySelector(".cma-quiz-card");
+const progressFill = document.getElementById("cma-progress-fill");
+const progressPercent = document.getElementById("cma-progress-percent");
+const timerText = document.getElementById("cma-timer");
+
+const quizDurationSeconds = 25 * 60;
+let quizStartedAt = null;
+let quizTimerId = null;
+let quizElapsedSeconds = 0;
 
 function chunkQuestions(questions, size = 30) {
   const chunks = [];
@@ -102,6 +110,7 @@ function shuffleArray(items) {
 function showCourseSelector() {
   pathPanel.hidden = false;
   quizCard.classList.remove("is-open");
+  stopQuizTimer();
 }
 
 function showQuizView() {
@@ -189,6 +198,68 @@ function getSubjectKey(subject) {
     .join("-");
 }
 
+function formatTime(totalSeconds) {
+  const minutes = Math.floor(totalSeconds / 60);
+  const seconds = totalSeconds % 60;
+  return `${minutes}:${String(seconds).padStart(2, "0")}`;
+}
+
+function getElapsedSeconds() {
+  if (!quizStartedAt) return quizElapsedSeconds;
+  if (!quizTimerId && quizElapsedSeconds) return quizElapsedSeconds;
+  return Math.max(0, Math.floor((Date.now() - quizStartedAt) / 1000));
+}
+
+function updateQuizTimer() {
+  if (!timerText) return;
+
+  const remaining = Math.max(0, quizDurationSeconds - getElapsedSeconds());
+  timerText.textContent = `Timer ${formatTime(remaining)}`;
+
+  if (remaining === 0) {
+    stopQuizTimer();
+    showResults();
+  }
+}
+
+function startQuizTimer() {
+  stopQuizTimer();
+  quizStartedAt = Date.now();
+  quizElapsedSeconds = 0;
+  updateQuizTimer();
+  quizTimerId = window.setInterval(updateQuizTimer, 1000);
+}
+
+function stopQuizTimer() {
+  if (quizStartedAt) {
+    quizElapsedSeconds = Math.max(quizElapsedSeconds, Math.floor((Date.now() - quizStartedAt) / 1000));
+  }
+
+  if (quizTimerId) {
+    window.clearInterval(quizTimerId);
+    quizTimerId = null;
+  }
+}
+
+function resetProgressMeter() {
+  if (progressFill) progressFill.style.width = "0%";
+  if (progressPercent) progressPercent.textContent = "0% Completed";
+}
+
+function updateProgressMeter(totalQuestions) {
+  if (!activeSubject || !totalQuestions) {
+    resetProgressMeter();
+    return;
+  }
+
+  const activeKey = getSubjectKey(activeSubject);
+  const answeredCount = Object.keys(answers).filter((key) => key.startsWith(activeKey)).length;
+  const percent = Math.round((answeredCount / totalQuestions) * 100);
+
+  if (progressFill) progressFill.style.width = `${percent}%`;
+  if (progressPercent) progressPercent.textContent = `${percent}% Completed`;
+}
+
 function updateScore() {
   const activeKey = activeSubject ? getSubjectKey(activeSubject) : "";
   const keys = Object.keys(answers).filter((key) => key.startsWith(activeKey));
@@ -211,8 +282,37 @@ function getSubjectResult() {
     attempted,
     right,
     wrong: attempted - right,
-    total: questions.length
+    total: questions.length,
+    timeTaken: formatTime(getElapsedSeconds())
   };
+}
+
+function getNextSetSubject() {
+  if (!activeSubject) return null;
+
+  const level = cmaCourseMap[activeSubject.level];
+  const group = level?.groups.find((item) => item.label === activeSubject.group);
+  const subject = group?.subjects.find((item) => item.label === activeSubject.subject);
+  const sets = subject?.sets || [];
+  const currentSetIndex = sets.findIndex((set) => set.label === activeSubject.set);
+  const nextSet = sets[currentSetIndex + 1];
+
+  if (!nextSet || !nextSet.questions?.length) return null;
+
+  return {
+    ...activeSubject,
+    set: nextSet.label
+  };
+}
+
+function startSubjectTest(subject) {
+  activeSubject = subject;
+  activeIndex = 0;
+  hideResults();
+  startQuizTimer();
+  renderSelectionPanel();
+  renderQuestion();
+  showQuizView();
 }
 
 function hideResults() {
@@ -222,25 +322,43 @@ function hideResults() {
 
 function showResults() {
   const result = getSubjectResult();
+  const nextSet = getNextSetSubject();
+  stopQuizTimer();
 
   resultsPanel.hidden = false;
   resultsPanel.innerHTML = `
     <h3>Test Results</h3>
     <div class="cma-result-grid">
       <div>
-        <span>Attempted</span>
-        <strong>${result.attempted} / ${result.total}</strong>
+        <span>Score</span>
+        <strong>${result.right} / ${result.total}</strong>
       </div>
       <div>
-        <span>Right</span>
+        <span>Correct</span>
         <strong>${result.right}</strong>
       </div>
       <div>
-        <span>Wrong</span>
+        <span>Incorrect</span>
         <strong>${result.wrong}</strong>
       </div>
+      <div>
+        <span>Time Taken</span>
+        <strong>${result.timeTaken}</strong>
+      </div>
     </div>
+    <button type="button" class="cma-next-set-button" id="cma-next-set">
+      ${nextSet ? "Try Next Set" : "Try Another Set"}
+    </button>
   `;
+
+  document.getElementById("cma-next-set")?.addEventListener("click", () => {
+    if (nextSet) {
+      startSubjectTest(nextSet);
+      return;
+    }
+
+    showCourseSelector();
+  });
 }
 
 function setEmptyQuiz(message, label = "Choose a subject") {
@@ -254,6 +372,9 @@ function setEmptyQuiz(message, label = "Choose a subject") {
   prevButton.disabled = true;
   nextButton.disabled = true;
   finishButton.disabled = true;
+  stopQuizTimer();
+  if (timerText) timerText.textContent = "Timer 25:00";
+  resetProgressMeter();
   hideResults();
   updateScore();
 }
@@ -388,6 +509,7 @@ function renderSelectionPanel() {
   subjects.className = "cma-subject-list";
 
   if (activeSubjectChoice) {
+    subjects.classList.add("cma-set-list");
     const selectedSubject = selectedGroup.subjects.find((subject) => subject.label === activeSubjectChoice);
 
     if (!selectedSubject) {
@@ -398,6 +520,7 @@ function renderSelectionPanel() {
 
     title.textContent = activeSubjectChoice;
     backToGroups.textContent = "Back to Subjects";
+    groupList.classList.add("cma-set-panel");
 
     const sets = selectedSubject.sets?.length ? selectedSubject.sets : [{ label: "Set 1", questions: selectedSubject.questions || [] }];
 
@@ -423,12 +546,7 @@ function renderSelectionPanel() {
       button.addEventListener("click", () => {
         if (!hasQuestions) return;
 
-        activeSubject = nextSubject;
-        activeIndex = 0;
-        hideResults();
-        renderSelectionPanel();
-        renderQuestion();
-        showQuizView();
+        startSubjectTest(nextSubject);
       });
 
       subjects.appendChild(button);
@@ -593,6 +711,7 @@ function renderQuestion() {
   questionCount.textContent = `Question ${activeIndex + 1} of ${questions.length}`;
   questionText.textContent = question.question;
   optionsWrap.innerHTML = "";
+  updateProgressMeter(questions.length);
 
   question.options.forEach((option, index) => {
     const button = document.createElement("button");
@@ -608,6 +727,10 @@ function renderQuestion() {
       } else if (index === savedAnswer.selectedIndex) {
         button.classList.add("is-wrong");
       }
+
+      if (index === savedAnswer.selectedIndex) {
+        button.classList.add("is-selected");
+      }
     }
 
     optionsWrap.appendChild(button);
@@ -622,7 +745,7 @@ function renderQuestion() {
   }
 
   prevButton.disabled = activeIndex === 0;
-  nextButton.disabled = activeIndex === questions.length - 1;
+  nextButton.disabled = !savedAnswer || activeIndex === questions.length - 1;
   finishButton.disabled = questions.length === 0;
   updateScore();
 }

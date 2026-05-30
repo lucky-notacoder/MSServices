@@ -24,11 +24,13 @@
   text-decoration: none;
 }
 
-.blog-card img {
-  width: 80px;
-  height: 80px;
-  object-fit: contain;
-  margin-bottom: 12px;
+.blog-number {
+  color: #d8f4ff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0;
 }
 
 .blog-card h2 {
@@ -100,6 +102,10 @@ body {
 body.loaded {
   opacity: 1;
   transform: translateY(0);
+}
+
+#main-content {
+  flex: 1 0 auto;
 }
 
 /* HEADER */
@@ -205,13 +211,14 @@ section {
 .footer-card {
   width: 100%;
   max-width: none;
-  margin: 0 0 40px;
+  margin: 0;
   background: transparent;
   border: none;
   border-radius: 0;
   padding: 20px 20px 60px;
   color: #cfd8ff;
   position: relative;
+  flex-shrink: 0;
 }
 
 .footer-card h2 {

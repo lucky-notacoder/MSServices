@@ -83,35 +83,52 @@ const blogDetails = {
     date: "2024-03-20",
     readTime: "9 min read"
   },
-  "cma-study-mcqs": {
-    title: "CMA Study: Practice MCQs for Exam Revision",
+  "epfo-withdrawal-changes": {
+    title: "EPFO Withdrawal Rule Changes Explained",
     image: "images/financial-advisory.svg",
-    summary: "Use focused multiple choice questions to revise accounting, costing, and taxation concepts for CMA preparation.",
+    summary: "Understand the latest EPFO withdrawal reforms, including simplified claim categories, the 25% minimum balance rule, and revised settlement timelines.",
     content: [
-      "Practice chapter-wise MCQs for Financial Accounting, Cost Accounting, and Taxation",
-      "Check answers instantly with short explanations",
-      "Use repeated attempts to identify weak areas",
-      "Add more questions to the study bank as your syllabus grows",
-      "Visit the CMA Study page to start practicing"
+      "13 partial-withdrawal provisions are being simplified into Essential Needs, Housing Needs and Special Circumstances",
+      "Members can withdraw up to 100% of the eligible balance for approved partial withdrawals while keeping 25% as a minimum balance",
+      "The minimum service requirement for partial withdrawals has been made uniform at 12 months",
+      "For unemployment, 75% of PF balance can be withdrawn immediately and the remaining 25% after one year",
+      "Final EPF settlement has moved from 2 months to 12 months, while final pension withdrawal has moved to 36 months",
+      "Subscribers can withdraw up to 75% of eligible balance Via UPI or UPI enabled ATM's",
+      "Identity verification can now be completed securely through Aadhaar-based facial scanning"
     ],
-    date: "2026-04-21",
-    readTime: "3 min read"
+    date: "2026-05-30",
+    readTime: "7 min read"
+  },
+  "itr-filing-ay-2026-27": {
+    title: "ITR Filing Guide for AY 2026-27",
+    image: "images/it-filings.svg",
+    summary: "Key points taxpayers should know before filing income tax returns for AY 2026-27, covering FY 2025-26 income.",
+    content: [
+      "AY 2026-27 is for income earned during FY 2025-26, so select Assessment Year 2026-27 on the e-Filing portal.",
+      "ITR-1, ITR-2 and ITR-4 for AY 2026-27 are live on the Income Tax e-Filing portal as per the latest portal update.",
+      "ITR-1 generally applies to eligible resident individuals with income up to Rs. 50 lakh from salary or pension, house property, other sources and specified eligible capital gains.",
+      "ITR-4 is meant for eligible resident individuals, HUFs and firms other than LLPs using presumptive taxation under sections 44AD, 44ADA or 44AE.",
+      "For AY 2026-27, the Income Tax portal states the ITR-4 due date for FY 2025-26 as 31 August 2026.",
+      "Keep Form 16, Form 16A, Form 26AS, AIS, pay slips, bank statements, investment proofs, rent receipts and housing loan interest certificates ready before filing.",
+      "After filing, complete e-verification promptly so the return is treated as valid and can be processed for refund or demand.",
+      "If you discover an error later, a revised return for AY 2026-27 can be filed before the end of the assessment year, subject to the applicable provisions."
+    ],
+    date: "2026-05-30",
+    readTime: "6 min read"
   }
 };
 
-const blogOrder = [
-  "tax-saving-tips",
-  "gst-compliance",
-  "business-incorporation",
-  "financial-planning",
-  "income-tax-filing",
-  "startup-funding",
-  "cma-study-mcqs"
-];
+const blogOrder = Object.keys(blogDetails).sort((firstBlogId, secondBlogId) => {
+  const firstDate = Date.parse(blogDetails[firstBlogId].date) || 0;
+  const secondDate = Date.parse(blogDetails[secondBlogId].date) || 0;
+
+  return secondDate - firstDate;
+});
 
 const params = new URLSearchParams(window.location.search);
-const initialBlogId = params.get("blog") || "tax-saving-tips";
-let activeBlogId = blogDetails[initialBlogId] ? initialBlogId : "tax-saving-tips";
+const defaultBlogId = blogOrder[0] || "tax-saving-tips";
+const initialBlogId = params.get("blog") || defaultBlogId;
+let activeBlogId = blogDetails[initialBlogId] ? initialBlogId : defaultBlogId;
 
 const title = document.getElementById("blog-title");
 const summary = document.getElementById("blog-summary");
@@ -146,8 +163,8 @@ function updateShowcaseState() {
 }
 
 function setActiveBlog(blogId) {
-  const blog = blogDetails[blogId] || blogDetails["tax-saving-tips"];
-  activeBlogId = blogDetails[blogId] ? blogId : "tax-saving-tips";
+  const blog = blogDetails[blogId] || blogDetails[defaultBlogId];
+  activeBlogId = blogDetails[blogId] ? blogId : defaultBlogId;
   return blog;
 }
 
@@ -239,6 +256,6 @@ if (showcaseTitle && showcaseSummary && showcaseImage && showcaseContent && show
 
 window.addEventListener("popstate", () => {
   const nextParams = new URLSearchParams(window.location.search);
-  const nextBlogId = nextParams.get("blog") || "tax-saving-tips";
+  const nextBlogId = nextParams.get("blog") || defaultBlogId;
   renderBlog(nextBlogId, false);
 });

@@ -6837,7 +6837,7 @@
                     "OPTION 1": "Taxable",
                     "OPTION 2": "Not taxable",
                     "OPTION 3": "Exempt",
-                    "OPTION 4": NaN,
+                    "OPTION 4": null,
                     "Answer Code": 1,
                     "Correct Answer": "Taxable",
                     "Explanation": "Explanation based on standard provisions of the Income Tax Act or GST/Customs laws relevant to the correct answer."
@@ -6936,7 +6936,7 @@
                     "OPTION 1": "Recipient",
                     "OPTION 2": "Supplier",
                     "OPTION 3": "Both",
-                    "OPTION 4": NaN,
+                    "OPTION 4": null,
                     "Answer Code": 2,
                     "Correct Answer": "Supplier",
                     "Explanation": "Explanation based on standard provisions of the Income Tax Act or GST/Customs laws relevant to the correct answer."
@@ -7970,7 +7970,7 @@
                     "OPTION 1": "Recipient",
                     "OPTION 2": "Supplier",
                     "OPTION 3": "Both",
-                    "OPTION 4": NaN,
+                    "OPTION 4": null,
                     "Answer Code": 2,
                     "Correct Answer": "Supplier",
                     "Explanation": "Explanation based on standard provisions of the Income Tax Act or GST/Customs laws relevant to the correct answer."
@@ -20905,7 +20905,7 @@
                     "OPTION 1": "Pre-determined",
                     "OPTION 2": "Absorbed",
                     "OPTION 3": "Apportioned",
-                    "OPTION 4": NaN,
+                    "OPTION 4": null,
                     "ANSWER CODE": 1
                   },
                   {
@@ -22066,7 +22066,7 @@
                     "OPTION 1": "All A",
                     "OPTION 2": "All B",
                     "OPTION 3": "Mix",
-                    "OPTION 4": NaN,
+                    "OPTION 4": null,
                     "ANSWER CODE": 2
                   },
                   {

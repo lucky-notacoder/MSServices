@@ -108,13 +108,30 @@ const blogDetails = {
       "ITR-1, ITR-2 and ITR-4 for AY 2026-27 are live on the Income Tax e-Filing portal as per the latest portal update.",
       "ITR-1 generally applies to eligible resident individuals with income up to Rs. 50 lakh from salary or pension, house property, other sources and specified eligible capital gains.",
       "ITR-4 is meant for eligible resident individuals, HUFs and firms other than LLPs using presumptive taxation under sections 44AD, 44ADA or 44AE.",
-      "For AY 2026-27, the Income Tax portal states the ITR-4 due date for FY 2025-26 as 31 August 2026.",
+      "For non-audit taxpayers filing ITR-1, ITR-2 or ITR-4 for AY 2026-27, the usual return filing due date is 31 July 2026 unless officially extended.",
       "Keep Form 16, Form 16A, Form 26AS, AIS, pay slips, bank statements, investment proofs, rent receipts and housing loan interest certificates ready before filing.",
       "After filing, complete e-verification promptly so the return is treated as valid and can be processed for refund or demand.",
       "If you discover an error later, a revised return for AY 2026-27 can be filed before the end of the assessment year, subject to the applicable provisions."
     ],
     date: "2026-05-30",
     readTime: "6 min read"
+  },
+  "itr-filing-due-date-ay-2026-27": {
+    title: "ITR Filing Due Date for AY 2026-27",
+    image: "images/it-filings.svg",
+    summary: "Know the important ITR filing deadlines for AY 2026-27, who should file by each date, and why timely filing matters.",
+    content: [
+      "For most salaried individuals, pensioners and non-audit taxpayers, the ITR filing due date for AY 2026-27 is 31 July 2026.",
+      "Taxpayers whose accounts are required to be audited generally get time up to 31 October 2026 to file their income tax return.",
+      "Where transfer pricing reporting is applicable, the return filing due date is generally 30 November 2026.",
+      "From AY 2026-27, revised-return timelines may differ from older December 31 timelines, so confirm the applicable last date on the e-Filing portal before relying on past-year dates.",
+      "Filing before the due date helps avoid late fees, interest, restrictions on carrying forward certain losses and last-minute portal issues.",
+      "Before filing, reconcile Form 16, Form 26AS, AIS, bank interest, capital gains, business income and deduction proofs to reduce mismatch notices.",
+      "After submitting the return, complete e-verification within the prescribed time so the ITR becomes valid and can be processed.",
+      "Due dates can change through official notifications, so taxpayers should check the Income Tax e-Filing portal or consult a tax professional before the deadline."
+    ],
+    date: "2026-06-26",
+    readTime: "5 min read"
   }
 };
 

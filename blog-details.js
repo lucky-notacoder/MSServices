@@ -132,6 +132,20 @@ const blogDetails = {
     ],
     date: "2026-06-26",
     readTime: "5 min read"
+  },
+  "world-bank-climate-finance-target": {
+    title: "World Bank Drops Climate Finance Target Under U.S. Pressure",
+    image: "images/financial-advisory.svg",
+    summary: "Recent coverage suggests the World Bank is scaling back its climate finance ambition after reported pressure from the United States, raising questions about future global climate funding.",
+    content: [
+      "The reported change reflects how geopolitics can influence multilateral development finance and climate commitments.",
+      "Lower climate finance ambition may affect developing economies that rely on concessional funding for adaptation and resilience projects.",
+      "The move could also influence how businesses and investors assess public-sector climate support in the coming years.",
+      "Policy watchers are monitoring whether the shift signals a broader change in international climate financing priorities.",
+      "For companies and governments, the development underscores the importance of tracking policy changes in sustainable finance and development spending."
+    ],
+    date: "2026-06-30",
+    readTime: "4 min read"
   }
 };
 

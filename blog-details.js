@@ -1,4 +1,21 @@
 const blogDetails = {
+  "epfo-amnesty-2026": {
+    title: "EPFO Introduces AMNESTY 2026: A Major Relief for Exempted Establishments",
+    image: "images/financial-advisory.svg",
+    summary: "EPFO's AMNESTY 2026 offers eligible establishments a one-time opportunity to regularize PF exemption status and resolve long-pending compliance issues.",
+    content: [
+      "AMNESTY 2026 is a special compliance scheme for eligible establishments to regularize PF exemption status retrospectively.",
+      "The scheme aims to reduce litigation and promote voluntary compliance with statutory PF requirements.",
+      "Eligible employers may benefit if they have operated their own PF trust and need retrospective exemption regularization.",
+      "Employers must submit the prescribed application, provide complete employee and contribution details, and cooperate during verification.",
+      "EPFO will conduct a detailed compliance audit covering contribution records, trust accounts, investments, claims and statutory documentation.",
+      "The scheme also offers relief from certain penal provisions, subject to the conditions prescribed under the circular.",
+      "The initiative helps employers resolve legacy issues while protecting employee provident fund accumulations and retirement benefits.",
+      "Organizations are advised to review the scheme carefully and consult PF consultants or compliance professionals before filing."
+    ],
+    date: "2026-07-15",
+    readTime: "6 min read"
+  },
   "tax-saving-tips": {
     title: "Top Tax Saving Tips for Individuals in 2024",
     image: "images/tax-saving.svg",

@@ -33,24 +33,69 @@
 
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 28px;
 }
 
 .product-card {
-  background: linear-gradient(145deg, rgba(255,255,255,0.14), rgba(255,255,255,0.06));
-  border: 1px solid rgba(255,255,255,0.12);
-  border-radius: 24px;
-  padding: 24px;
+  min-height: 290px;
+  background: transparent;
+  perspective: 1000px;
+}
+
+.product-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 290px;
+  text-align: center;
+  transition: transform 0.8s ease;
+  transform-style: preserve-3d;
+}
+
+.product-card:hover .product-card-inner,
+.product-card:focus-within .product-card-inner {
+  transform: rotateY(180deg);
+}
+
+.product-card-face {
+  position: absolute;
+  inset: 0;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 14px;
-  box-shadow: 0 18px 45px rgba(2, 6, 23, 0.3);
+  width: 100%;
+  height: 100%;
+  min-height: 290px;
+  padding: 24px;
+  border: 1px solid rgba(125, 211, 252, 0.28);
+  border-radius: 18px;
+  box-shadow: 0 18px 45px rgba(2, 6, 23, 0.35);
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.product-card-front {
+  align-items: center;
+  background:
+    linear-gradient(135deg, rgba(181, 251, 255, 0.18), rgba(59, 130, 246, 0.08) 52%),
+    rgba(15, 23, 42, 0.92);
+  color: #ffffff;
+}
+
+.product-card-back {
+  background:
+    linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(20, 184, 166, 0.14)),
+    rgba(15, 23, 42, 0.96);
+  color: #e2e8f0;
+  transform: rotateY(180deg);
 }
 
 .product-badge {
   display: inline-flex;
-  align-self: flex-start;
+  align-self: center;
   background: rgba(45, 224, 255, 0.14);
   color: #b5fbff;
   border: 1px solid rgba(181, 251, 255, 0.24);
@@ -60,23 +105,32 @@
   font-weight: 600;
 }
 
-.product-card h2 {
+.product-card h2,
+.product-back-title {
   color: #ffffff;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.35;
   margin: 0;
 }
 
 .product-card p {
   color: #cdd8ef;
   line-height: 1.6;
-  flex: 1;
+  margin: 0;
+}
+
+.product-hint {
+  font-size: 0.92rem;
+  color: #b5fbff;
 }
 
 .product-link {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-top: 6px;
+  align-self: center;
+  margin-top: auto;
   padding: 10px 14px;
   border-radius: 999px;
   background: #3b82f6;
@@ -89,6 +143,11 @@
 .product-link:hover {
   background: #2563eb;
   transform: translateY(-2px);
+}
+
+.product-link:focus-visible {
+  outline: 2px solid #b5fbff;
+  outline-offset: 4px;
 }
 
 .products-status {

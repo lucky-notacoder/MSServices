@@ -9,12 +9,59 @@ document.addEventListener('DOMContentLoaded', function () {
     products.forEach((product) => {
       const card = document.createElement('article');
       card.className = 'product-card';
-      card.innerHTML = `
-        ${product.badge ? `<span class="product-badge">${product.badge}</span>` : ''}
-        ${product.title ? `<h2>${product.title}</h2>` : ''}
-        ${product.description ? `<p>${product.description}</p>` : ''}
-        ${product.link ? `<a href="${product.link}" target="_blank" rel="noopener sponsored" class="product-link">View on Amazon</a>` : ''}
-      `;
+
+      const inner = document.createElement('div');
+      inner.className = 'product-card-inner';
+
+      const front = document.createElement('div');
+      front.className = 'product-card-face product-card-front';
+
+      if (product.badge) {
+        const badge = document.createElement('span');
+        badge.className = 'product-badge';
+        badge.textContent = product.badge;
+        front.appendChild(badge);
+      }
+
+      if (product.title) {
+        const title = document.createElement('h2');
+        title.textContent = product.title;
+        front.appendChild(title);
+      }
+
+      const hint = document.createElement('p');
+      hint.className = 'product-hint';
+      hint.textContent = 'Hover to view details';
+      front.appendChild(hint);
+
+      const back = document.createElement('div');
+      back.className = 'product-card-face product-card-back';
+
+      if (product.title) {
+        const backTitle = document.createElement('p');
+        backTitle.className = 'product-back-title';
+        backTitle.textContent = product.title;
+        back.appendChild(backTitle);
+      }
+
+      if (product.description) {
+        const description = document.createElement('p');
+        description.textContent = product.description;
+        back.appendChild(description);
+      }
+
+      if (product.link) {
+        const link = document.createElement('a');
+        link.href = product.link;
+        link.target = '_blank';
+        link.rel = 'noopener sponsored';
+        link.className = 'product-link';
+        link.textContent = 'View on Amazon';
+        back.appendChild(link);
+      }
+
+      inner.append(front, back);
+      card.appendChild(inner);
       container.appendChild(card);
     });
   }
@@ -38,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
       renderProducts(data);
       if (status) {
-        status.textContent = 'Products loaded successfully.';
+        status.textContent = '';
       }
     })
     .catch((error) => {

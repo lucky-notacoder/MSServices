@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const container = document.getElementById('products-container');
   const status = document.getElementById('products-status');
+  const pagination = document.getElementById('products-pagination');
 
   // Pagination settings
   const PAGE_SIZE = 9;
@@ -66,79 +67,38 @@ document.addEventListener('DOMContentLoaded', function () {
     return card;
   }
 
-  function createPagerCard(totalPages) {
-    // Render a pager as a card placed after the product cards
-    const pagerCard = document.createElement('article');
-    pagerCard.className = 'product-card pager-card';
+  function changePage(page) {
+    currentPage = page;
+    renderCurrentPage();
+    container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
 
-    const inner = document.createElement('div');
-    inner.className = 'product-card-inner';
+  function renderPagination(totalPages) {
+    if (!pagination) return;
+    pagination.replaceChildren();
+    pagination.hidden = totalPages <= 1;
+    if (totalPages <= 1) return;
 
-    const front = document.createElement('div');
-    front.className = 'product-card-face product-card-front';
-    front.style.display = 'flex';
-    front.style.alignItems = 'center';
-    front.style.justifyContent = 'center';
-    front.style.gap = '14px';
+    const previous = document.createElement('button');
+    previous.type = 'button';
+    previous.className = 'pagination-button';
+    previous.textContent = 'Previous';
+    previous.disabled = currentPage === 1;
+    previous.addEventListener('click', () => changePage(currentPage - 1));
 
-    // Previous button (left arrow)
-    const prevBtn = document.createElement('button');
-    prevBtn.className = 'product-link pager-button pager-prev';
-    prevBtn.type = 'button';
-    prevBtn.setAttribute('aria-label', 'Previous page');
-    prevBtn.innerHTML = '&#x2190;'; // left arrow
+    const pageStatus = document.createElement('span');
+    pageStatus.className = 'pagination-status';
+    pageStatus.setAttribute('aria-live', 'polite');
+    pageStatus.textContent = `Page ${currentPage} of ${totalPages}`;
 
-    // Next button (right arrow)
-    const nextBtn = document.createElement('button');
-    nextBtn.className = 'product-link pager-button pager-next';
-    nextBtn.type = 'button';
-    nextBtn.setAttribute('aria-label', 'Next page');
-    nextBtn.innerHTML = '&#x2192;'; // right arrow
+    const next = document.createElement('button');
+    next.type = 'button';
+    next.className = 'pagination-button';
+    next.textContent = 'Next';
+    next.disabled = currentPage === totalPages;
+    next.addEventListener('click', () => changePage(currentPage + 1));
 
-    // Disable when appropriate
-    if (currentPage <= 1) prevBtn.disabled = true;
-    if (currentPage >= totalPages) nextBtn.disabled = true;
-
-    prevBtn.addEventListener('click', () => {
-      if (currentPage > 1) {
-        currentPage -= 1;
-        renderCurrentPage();
-        // move focus to first product for keyboard users
-        const firstCard = container.querySelector('.product-card');
-        if (firstCard) firstCard.focus();
-      }
-    });
-
-    nextBtn.addEventListener('click', () => {
-      if (currentPage < totalPages) {
-        currentPage += 1;
-        renderCurrentPage();
-        const firstCard = container.querySelector('.product-card');
-        if (firstCard) firstCard.focus();
-      }
-    });
-
-    front.append(prevBtn, nextBtn);
-
-    // Back face is not necessary for pager but keep structure consistent
-    const back = document.createElement('div');
-    back.className = 'product-card-face product-card-back';
-    back.style.display = 'flex';
-    back.style.alignItems = 'center';
-    back.style.justifyContent = 'center';
-    back.style.gap = '14px';
-
-    // Mirror buttons on back so flipping still allows navigation
-    const prevBtnBack = prevBtn.cloneNode(true);
-    const nextBtnBack = nextBtn.cloneNode(true);
-    prevBtnBack.addEventListener('click', () => prevBtn.click());
-    nextBtnBack.addEventListener('click', () => nextBtn.click());
-
-    back.append(prevBtnBack, nextBtnBack);
-
-    inner.append(front, back);
-    pagerCard.appendChild(inner);
-    return pagerCard;
+    pagination.append(previous, pageStatus, next);
   }
 
   function renderCurrentPage() {
@@ -163,11 +123,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     pageItems.forEach((p) => container.appendChild(createProductCard(p)));
 
-    // Only show pager when there is more than one page
-    if (totalPages > 1) {
-      const pager = createPagerCard(totalPages);
-      container.appendChild(pager);
-    }
+    renderPagination(totalPages);
 
     // clear status text
     if (status) status.textContent = '';
@@ -199,6 +155,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (container) {
         container.innerHTML = '<p class="sheet-empty">Unable to load product list.</p>';
       }
+      if (pagination) pagination.hidden = true;
       showError(error.message);
     });
 });

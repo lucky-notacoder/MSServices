@@ -163,6 +163,23 @@ const blogDetails = {
     ],
     date: "2026-06-30",
     readTime: "4 min read"
+  },
+  "nse-ipo": {
+    title: "NSE IPO: What Investors Should Watch Before Subscribing",
+    image: "images/financial-advisory.svg",
+    summary: "The potential NSE IPO is one of the most closely watched listing opportunities in India, and investors should assess the business model, governance, valuation and long-term risks before deciding.",
+    content: [
+      "NSE is one of India’s leading stock exchanges, with a strong position in cash equities, derivatives and market infrastructure services.",
+      "Exchange businesses are often valued for their recurring revenues, scale advantages and ability to benefit from rising retail participation and trading activity.",
+      "Investors should review the company’s revenue mix, operating efficiency and the sustainability of growth across equities, derivatives and data services.",
+      "Because exchanges are systemically important, governance, compliance, cyber resilience and regulatory oversight are critical evaluation factors.",
+      "Valuation discipline matters: the IPO should be assessed against peer comparisons, profitability trends, return ratios and future growth assumptions.",
+      "Market volatility, lower participation levels and changes in regulatory policy can affect exchange earnings, so risk assessment is essential before subscription.",
+      "The IPO may appeal to long-term investors, but only if it fits their risk appetite, sector allocation and investment horizon.",
+      "As with any public issue, read the prospectus carefully, compare the offering price with fundamentals and consult a financial expert if needed."
+    ],
+    date: "2026-09-17",
+    readTime: "5 min read"
   }
 };
 
